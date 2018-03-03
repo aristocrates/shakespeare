@@ -1,0 +1,25 @@
+*~
+*.pyc
+__pycache__/
+.ipynb_checkpoints/*
+*.zip
+*.pdf
+*.pptx
+!project3.pdf
+!project2.pptx
+_minted*/
+
+# plots
+!img/*.pdf
+!img/*.png
+
+# Nick needs a virtualenv for numpy-1.14.1
+# which has a different signature for np.genfromtxt
+numpyvenv
+
+# LaTeX products
+*.aux
+*.log
+*.out
+
+!LiaoLuke_MeyerNicholas_ShuKevin.pdf
