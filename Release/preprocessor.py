@@ -3,7 +3,19 @@ Module for preprocessing the sonnets
 """
 import numpy as np
 import pandas as pd
-import tokenize
+
+def punctuation_list():
+    """
+    Returns a set of punctuation marks
+    """
+    return frozenset([",", ".", "?", "!", ":", ";"])
+
+class Sonnet:
+    """
+    Encapsulates a sonnet
+    """
+    def __init__(self, sonnet_lines):
+        self.lines = list(sonnet_lines)
 
 def syllable_dict(filename = 'data/Syllable_dictionary.txt',
                   end_syllable = False):
@@ -62,8 +74,10 @@ def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
                 sonnets[i] = sonnet[1:]
         return sonnets
 
-def tokenize_sonnet(sonnet_text, syl_dict):
+def line_words(line):
     """
-    Tokenizes the sonnet into words
+    Tokenizes a line of text into words
+
+    sonnet: array of lines in string format
     """
-    pass
+    return line.split()
