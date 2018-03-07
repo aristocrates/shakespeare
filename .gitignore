@@ -16,6 +16,7 @@ _minted*/
 # Nick needs a virtualenv for numpy-1.14.1
 # which has a different signature for np.genfromtxt
 numpyvenv
+Set6_Solutions/
 
 # LaTeX products
 *.aux
