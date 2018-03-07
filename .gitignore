@@ -8,6 +8,8 @@ __pycache__/
 !project3.pdf
 !project2.pptx
 _minted*/
+# temporary lock files
+*#
 
 # plots
 !img/*.pdf

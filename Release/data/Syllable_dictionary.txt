@@ -381,7 +381,7 @@ builded 2
 building 2
 built 1
 burden 2
-buried 2 E3
+buried E3 2
 buriest 2
 burn 1
 burned 1
@@ -1026,7 +1026,7 @@ flame 1
 flatter E1 2
 flattered 2
 flatterer 3
-flattery 2 E3
+flattery E3 2
 fled 1
 fleece 1
 fleet'st 1
@@ -1186,7 +1186,7 @@ governs 2
 grace 1
 graced 2
 graces E1 2
-gracious 2 E3
+gracious E3 2
 graciously 3
 grant 1
 granting E1 2
@@ -1428,7 +1428,7 @@ intelligence 4
 intend 2
 intents 2
 interchange 3
-interest 2 E3
+interest E3 2
 interim 2
 intermixed 3
 into 2
@@ -1951,7 +1951,7 @@ perhaps 2
 perish E1 2
 perjured 2
 permit 2
-perpetual 3 E4
+perpetual E4 3
 perspective 3
 persuade 2
 perusal 3
