@@ -3,6 +3,7 @@ Module for preprocessing the sonnets
 """
 import numpy as np
 import pandas as pd
+import tokenize
 
 def syllable_dict(filename = 'data/Syllable_dictionary.txt',
                   end_syllable = False):
@@ -26,3 +27,43 @@ def syllable_dict(filename = 'data/Syllable_dictionary.txt',
                 for i, word in enumerate(data[:,0])}
     else:
         return {word: syllables_normal[i] for i, word in enumerate(data[:,0])}
+
+
+def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
+    """
+    Returns array of sonnets from file
+    Each sonnet is a list of lines in untokenized string format
+
+    Keeps the number at the top
+    """
+    sonnets = []
+    with open(sonnets_file, "r") as f:
+        # don't give splitlines any args
+        text = f.read()
+        raw_lines = text.splitlines()
+
+        current_sonnet = []
+        prev_blank = True
+        for line in raw_lines:
+            if line == '':
+                # don't append a blank sonnet on the second new line
+                if not prev_blank:
+                    sonnets.append(current_sonnet)
+                    current_sonnet = []
+                    prev_blank = True
+            else:
+                prev_blank = False
+                current_sonnet.append(line)
+        # add the last sonnet
+        sonnets.append(current_sonnet)
+
+        if remove_num:
+            for i, sonnet in enumerate(sonnets):
+                sonnets[i] = sonnet[1:]
+        return sonnets
+
+def tokenize_sonnet(sonnet_text, syl_dict):
+    """
+    Tokenizes the sonnet into words
+    """
+    pass
