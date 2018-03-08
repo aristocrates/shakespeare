@@ -4,6 +4,7 @@ Module for preprocessing the sonnets
 import numpy as np
 import pandas as pd
 from collections import OrderedDict
+import re
 
 def punctuation_list(as_frozen_set = False):
     """
@@ -55,11 +56,10 @@ def syllable_dict(filename = 'data/Syllable_dictionary_updated.txt',
                        header = None, index_col = False,
                        delim_whitespace = True).as_matrix()
     if end_syllable:
-        return OrderedDict([(word, (syllables_normal[i], syllables_end[i]))
-                            for i, word in enumerate(data[:,0])])
+        return OrderedDict([(word, (syll_norm, syll_end))
+                            for word, syll_norm, syll_end in data])
     else:
-        return OrderedDict([(word, syllables_normal[i])
-                            for i, word in enumerate(data[:,0])])
+        return OrderedDict([(word, syll_norm) for word, syll_norm, _ in data])
 
 def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
     """
@@ -93,6 +93,24 @@ def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
             for i, sonnet in enumerate(sonnets):
                 sonnets[i] = sonnet[1:]
         return sonnets
+
+# def tokenize_line(line):
+#     tokens = all_tokens()
+#     punctuation = punctionation_list()
+#     words = line.strip().split(" ")
+#     tokens = []
+#     the = False
+#     for word in words:
+#         word = 
+#         if the:
+#             tokens.append("the "+word)
+#         if a:
+#             tokens.append("a "+word)
+#         else:
+#             tokens.append(word)
+
+
+    
 
 def line_words(line):
     """
