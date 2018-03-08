@@ -9,7 +9,7 @@ def punctuation_list(as_frozen_set = False):
     """
     Returns a set of punctuation marks
     """
-    dict_list = [",", ".", "?", "!", ":", ";"]
+    dict_list = [",", ".", "?", "!", ":", ";", "'"]
     if as_frozen_set:
         return frozenset(dict_list)
     else:
