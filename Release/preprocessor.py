@@ -10,7 +10,7 @@ def punctuation_list(as_frozen_set = False):
     """
     Returns a set of punctuation marks
     """
-    dict_list = [",", ".", "?", "!", ":", ";"]
+    dict_list = [",", ".", "?", "!", ":", ";", "'", "(", ")"]
     if as_frozen_set:
         return frozenset(dict_list)
     else:
@@ -94,22 +94,88 @@ def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
                 sonnets[i] = sonnet[1:]
         return sonnets
 
-# def tokenize_line(line):
-#     tokens = all_tokens()
-#     punctuation = punctionation_list()
-#     words = line.strip().split(" ")
-#     tokens = []
-#     the = False
-#     for word in words:
-#         word = 
-#         if the:
-#             tokens.append("the "+word)
-#         if a:
-#             tokens.append("a "+word)
-#         else:
-#             tokens.append(word)
+def tokenize_line(line):
+    """
+    Tokenizes the line into a list of tokens.
+    """
+    def append_if_token(character, valid_tokens, lst):
+        if character != "":
+            if character not in tokens:
+                raise Exception(character + " isn't in tokens")
+            lst.append(character)
+    # tokens is the list of valid tokens
+    tokens = all_tokens()
+    # The tokenized version of the line
+    tokenized = []
+
+    # Just break the line on spaces to get the words, plus some punctuations
+    naive_words = [word.lower().strip() for word in line.strip().split(" ")]
+    # The and a are the booleans refering to whether the or a modifies the 
+    # current words
+    the = False
+    a = False
+
+    for word in naive_words:
+        # The list of punctuation that needs to be added to the token list after
+        # main word.
+        punct = []
+        # Match the word to find the punctuation at the beginning and end of
+        # the word
+        matches = re.match("^([^a-zA-Z]*)(.*?)([^a-zA-Z]*)$", word.strip())
+        befores = list(matches.group(1))
+        word = matches.group(2)
+        afters = list(matches.group(3))
+
+        # If there are punctuation marks before the main word, and the previous
+        #punctuation mark + word makes a valid word, then add that as the word
+        if not (len(befores) == 0) and befores[-1] + word in tokens:
+            word = befores[-1] + word
+            for after in afters:
+                append_if_token(after, tokens, punct)
+            for before in befores[:-1]:
+                append_if_token(before, tokens, tokenized)
+
+        elif not (len(afters) == 0) and word + afters[0] in tokens:
+            word = word + afters[0]
+            for after in afters[1:]:
+                append_if_token(after, tokens, punct)
+            for before in befores:
+                append_if_token(before, tokens, tokenized)
+
+        # If the word is a token by itself, then add it to the word list 
+        elif word in tokens:
+            for after in afters:
+                append_if_token(after, tokens, punct)
+            for before in befores:
+                append_if_token(before, tokens, tokenized)
+        else:
+            raise Exception(word + " isn't in tokens")
+
+        # Check if the previous word is the, and then append the+word if that's
+        # the case
+        if the:
+            tokenized.append("the "+word)
+            the = False
+        elif a:
+            tokenized.append("a "+word)
+            a = False
+        else:
+            if word == "the":
+                the = True
+                continue
+            if word == "a":
+                a = True
+                continue
+            tokenized.append(word)
+        tokenized += punct
+    return tokenized
 
 
+sonnets = load_sonnets()
+for sonnet in sonnets:
+    for line in sonnet:
+        # print(line)
+        tokenize_line(line)
     
 
 def line_words(line):
