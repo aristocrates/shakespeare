@@ -54,13 +54,6 @@ for key in token2index.keys():
     if two_words:
         stresses[token2index[key]] = [not stresses[token2index[key]][0]] + stresses[token2index[key]]
 
-
-    curr = stresses[token2index[key]][0]
-    for x in stresses[token2index[key]][1:]:
-        if x == curr:
-            print(key)
-            break
-        curr = not curr
 with open("stresses.json", "w") as f:
     json.dump({index2token[int(x)] : i for x, i in stresses.items()}, f)
 
@@ -68,7 +61,6 @@ reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 1)
 
 rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
 rhyming_lines = []
-
 for i in range(7):
     start1, start2 = "", ""
     while start1 not in token2index or start2 not in token2index:
@@ -76,9 +68,7 @@ for i in range(7):
     start1 = token2index[start1]
     start2 = token2index[start2]
     line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1, stresses = stresses)[0]
-    print(line1)
     line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2, stresses = stresses)[0]
-    print(line2)
     rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
                           " ".join([index2token[x] for x in line2[::-1]])))
 

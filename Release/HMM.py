@@ -436,16 +436,36 @@ class HiddenMarkovModel:
                 state = np.random.choice(list(range(self.L)), p = p)
 
                 syll_count += syllable_dict[start_observation][0]
+                # Append state.
+                states.append(state)
             else:
                 # choose randomly for the state
                 state = random.choice(range(self.L))
                 states = []
-
-            while syll_count < num_syllables:
                 # Append state.
                 states.append(state)
-                p = [self.O[state][next_obs] for next_obs in range(self.D)]
-                next_obs = np.random.choice(list(range(self.D)), p = p)
+
+            prev_obs = start_observation
+            while syll_count < num_syllables:
+
+                stress_correct = False
+                for i in range(10):
+                    p = [self.O[state][obs] for obs in range(self.D)]
+                    next_obs = np.random.choice(list(range(self.D)), p = p)
+
+                    if not stresses:
+                        break
+
+                    test_stress = curr_stress
+                    for stress in stresses[next_obs][::-1]:
+                        test_stress = not test_stress
+                        if stress != test_stress:
+                            break
+                    else:
+                        break
+                else:
+                    print("Couldn't get the syllables")
+                    continue
 
 
                 emission.append(next_obs)
@@ -465,6 +485,8 @@ class HiddenMarkovModel:
                     return emission, states
                 else:
                     syll_count += syllable_dict[next_obs][0]
+                # Append state.
+                states.append(state)
         print("Couldn't get the right number of syllables")
         return emission, states
 
