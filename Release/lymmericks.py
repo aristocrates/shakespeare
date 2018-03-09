@@ -74,8 +74,6 @@ for i in range(7):
     rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
                           " ".join([index2token[x] for x in line2[::-1]])))
 
-def upper_first(word):
-    return word[0].upper() + word[1:]
 sonnet = "\n".join([upper_first(rhyming_lines[0][0])+ ",",
                     rhyming_lines[1][0]+ ".",
                     upper_first(rhyming_lines[0][1])+ ",",
