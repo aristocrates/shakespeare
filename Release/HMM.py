@@ -382,7 +382,8 @@ class HiddenMarkovModel:
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
     def generate_emission_syllables(self, num_syllables, syllable_dict,
-                                    start_observation = None):
+                                    start_observation = None,
+                                    max_iterations = 1000):
         '''
         Generates an emission with a fixed number of syllables,
         with the starting observation 
@@ -400,43 +401,73 @@ class HiddenMarkovModel:
 
             states:     The randomly generated states as a list.
         '''
+        iterations = 0
+        while iterations < max_iterations:
+            iterations += 1
 
-        emission = []
-        if start_observation is not None:
-            # choose the state (TODO)
-            state = None
-        else:
-            # choose randomly for the state
-            state = random.choice(range(self.L))
-        states = []
+            syll_count = 0
+            emission = []
+            if start_observation is not None:
+                # the rows of O are not necessarily normalized, so
+                # sum the row for 
+                normalization = sum(self.O[start_observation])
+                # sanity check
+                assert(normalization <= 1.)
+                if normalization <= 0:
+                    raise ValueError("start state (%s) invalid" % str())
+                normalized_state_row = [k / normalization
+                                        for k in self.O[start_observation]]
+                # choose the state (TODO)
+                states = [random_choice_from_array(normalized_state_row)]
+                emission.append(start_observation)
 
-        syll_count = 0
-        while syll_count < num_syllables:
-            # Append state.
-            states.append(state)
+                # also pick the second state
+                rand_var = random.uniform(0, 1)
+                next_state = 0
 
-            # Sample next observation.
-            rand_var = random.uniform(0, 1)
-            next_obs = 0
+                while rand_var > 0:
+                    rand_var -= self.A[state][next_state]
+                    next_state += 1
 
-            while rand_var > 0:
-                rand_var -= self.O[state][next_obs]
-                next_obs += 1
+                next_state -= 1
+                state = next_state
+                syll_count += syllable_dict[start_observation][0]
+            else:
+                # choose randomly for the state
+                state = random.choice(range(self.L))
+                states = []
 
-            next_obs -= 1
-            emission.append(next_obs)
+            while syll_count < num_syllables:
+                # Append state.
+                states.append(state)
 
-            # Sample next state.
-            rand_var = random.uniform(0, 1)
-            next_state = 0
+                # Sample next observation.
+                rand_var = random.uniform(0, 1)
+                next_obs = 0
 
-            while rand_var > 0:
-                rand_var -= self.A[state][next_state]
-                next_state += 1
+                while rand_var > 0:
+                    rand_var -= self.O[state][next_obs]
+                    next_obs += 1
 
-            next_state -= 1
-            state = next_state
+                next_obs -= 1
+                emission.append(next_obs)
 
+                # Sample next state.
+                rand_var = random.uniform(0, 1)
+                next_state = 0
+
+                while rand_var > 0:
+                    rand_var -= self.A[state][next_state]
+                    next_state += 1
+
+                next_state -= 1
+                state = next_state
+                if (syll_count
+                    + syllable_dict[next_obs][1]) == num_syllables:
+                    return emission, states
+                else:
+                    syll_count += syllable_dict[next_obs][0]
+        print("Couldn't get the right number of syllables")
         return emission, states
 
     def generate_emission(self, M):
@@ -534,6 +565,27 @@ class HiddenMarkovModel:
 
         return prob
 
+def random_choice_from_array(prob_arr):
+    """
+    Picks a random index from the array, where each element of the array
+    represents the probability of that index being picked
+
+    prob_arr: an array of non-negative floats that sums to one
+    """
+    random_num_choice = np.random.uniform(0, 1)
+    current_starting_state = 0
+    while current_starting_state < len(prob_arr):
+        if random_num_choice <= prob_arr[current_starting_state]:
+            break
+        else:
+            random_num_choice -= prob_arr[current_starting_state]
+            current_starting_state += 1
+    else:
+        # this code should not be reached if sum(A_start) = 1
+        raise ValueError("A_start cannot be greater than 1")
+    # sanity check
+    assert(0 <= current_starting_state < len(prob_arr))
+    return current_starting_state
 
 def supervised_HMM(X, Y):
     '''

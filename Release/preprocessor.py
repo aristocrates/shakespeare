@@ -48,6 +48,8 @@ def syllable_dict_punct(filename = 'data/Syllable_dictionary_updated2.txt',
     """
     Gives dictionary of syllables including punctuation
     """
+    #sylldict = syllable_dict(filename, end_syllable)
+    #ans = {k:}
     pass
 
 def syllable_dict(filename = 'data/Syllable_dictionary_updated2.txt',
