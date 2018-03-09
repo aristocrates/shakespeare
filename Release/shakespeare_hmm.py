@@ -3,6 +3,7 @@ import preprocessor
 import pickle
 import random
 import nltk
+import json
 import re
 
 def random_start(starters):
@@ -12,8 +13,8 @@ def random_start(starters):
 sonnets = preprocessor.sonnets_from_file("data/tokenized_sonnets_stresses.txt")
 
 # Get dicts mapping indices and tokens
-index2token = preprocessor.token_dict_from_file("data/token_dict_stresses.json")
-token2index = {t:int(i) for t, i in index2token.items()}
+token2index = preprocessor.token_dict_from_file("data/token_dict_stresses.json")
+index2token = {int(i):t for t, i in token2index.items()}
 
 # Get the dictionary mapping words to syllables
 word_syllable_dict = preprocessor.syllable_dict(end_syllable = True)
@@ -40,17 +41,28 @@ def get_stresses(word, cmu_dict):
 for key in token2index.keys():
     stresses[token2index[key]] = []
     mod_key = key
+    two_words = False
     if len(key.split(" ")) == 2:
+        two_words = True
         mod_key = key.split(" ")[1]
-        stresses[token2index[key]].append(True)
     hyphen = mod_key.split("-")
     if len(hyphen) == 2:
         stresses[token2index[key]] += get_stresses(hyphen[0], cmu_dict) + \
                                       get_stresses(hyphen[1], cmu_dict)
-        print(key)
-        print(stresses[token2index[key]])
     else:
         stresses[token2index[key]] += get_stresses(mod_key, cmu_dict)
+    if two_words:
+        stresses[token2index[key]] = [not stresses[token2index[key]][0]] + stresses[token2index[key]]
+
+
+    curr = stresses[token2index[key]][0]
+    for x in stresses[token2index[key]][1:]:
+        if x == curr:
+            print(key)
+            break
+        curr = not curr
+with open("stresses.json", "w") as f:
+    json.dump({index2token[int(x)] : i for x, i in stresses.items()}, f)
 
 reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 1)
 
@@ -64,7 +76,9 @@ for i in range(7):
     start1 = token2index[start1]
     start2 = token2index[start2]
     line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1, stresses = stresses)[0]
+    print(line1)
     line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2, stresses = stresses)[0]
+    print(line2)
     rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
                           " ".join([index2token[x] for x in line2[::-1]])))
 
