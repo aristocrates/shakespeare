@@ -24,6 +24,21 @@ def all_tokens():
     return {token:i for i, token in enumerate(punctuation_list() +
                                               list(syllable_dict().keys()))}
 
+def get_rhyme_pairs(sonnets):
+    """
+    """
+    rhyme_pattern = [(0,2),(1,3),(4,6),(5,7),(8,10),(9,11),(12,13)]
+    rhyme_pairs = []
+    for sonnet in sonnets:
+        for r in rhyme_pattern:
+            try:
+                first_rhyme = sonnet[r[0]].split()[-1].strip(" .,:;'()!?")
+                second_rhyme = sonnet[r[1]].split()[-1].strip(" .,:;'()!?")
+                rhyme_pairs.append((first_rhyme, second_rhyme))
+            except IndexError:
+                print("That one stupid sonnet")
+    return rhyme_pairs
+
 def tokens_to_indices(tokens, all_tokens_dict):
     """
     Gives a consistent assignment of a word or punctuation mark to a
@@ -35,13 +50,6 @@ def tokens_to_indices(tokens, all_tokens_dict):
     tokens_dict: {token:index}
     """
     return [all_tokens_dict[tok] for tok in tokens]
-
-class Sonnet:
-    """
-    Encapsulates a sonnet
-    """
-    def __init__(self, sonnet_lines):
-        self.lines = list(sonnet_lines)
 
 def syllable_dict_punct(filename = 'data/Syllable_dictionary_updated2.txt',
                         end_syllable = False, keys_as_nums = True):
