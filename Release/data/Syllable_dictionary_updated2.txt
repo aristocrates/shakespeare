@@ -1,0 +1,9615 @@
+'gainst 1 1
+"the 'gainst" 1 1
+"a 'gainst" 1 1
+'greeing 2 1
+"the 'greeing" 2 1
+"a 'greeing" 2 1
+'scaped 1 1
+"the 'scaped" 1 1
+"a 'scaped" 1 1
+'tis 1 1
+"the 'tis" 1 1
+"a 'tis" 1 1
+'twixt 1 1
+"the 'twixt" 1 1
+"a 'twixt" 1 1
+a 1 1
+"the a" 1 1
+"a a" 1 1
+a-doting 3 2
+"the a-doting" 3 2
+"a a-doting" 3 2
+abhor 2 2
+"the abhor" 2 2
+"a abhor" 2 2
+abide 2 2
+"the abide" 2 2
+"a abide" 2 2
+able 2 2
+"the able" 2 2
+"a able" 2 2
+about 2 2
+"the about" 2 2
+"a about" 2 2
+above 2 2
+"the above" 2 2
+"a above" 2 2
+absence 2 2
+"the absence" 2 2
+"a absence" 2 2
+absent 2 2
+"the absent" 2 2
+"a absent" 2 2
+abundance 3 3
+"the abundance" 3 3
+"a abundance" 3 3
+abundant 3 3
+"the abundant" 3 3
+"a abundant" 3 3
+abuse 2 2
+"the abuse" 2 2
+"a abuse" 2 2
+abused 2 2
+"the abused" 2 2
+"a abused" 2 2
+abuses 3 3
+"the abuses" 3 3
+"a abuses" 3 3
+abysm 2 2
+"the abysm" 2 2
+"a abysm" 2 2
+accents 2 2
+"the accents" 2 2
+"a accents" 2 2
+acceptable 4 4
+"the acceptable" 4 4
+"a acceptable" 4 4
+acceptance 3 3
+"the acceptance" 3 3
+"a acceptance" 3 3
+accessary 4 4
+"the accessary" 4 4
+"a accessary" 4 4
+accident 3 3
+"the accident" 3 3
+"a accident" 3 3
+accidents 3 3
+"the accidents" 3 3
+"a accidents" 3 3
+account 2 2
+"the account" 2 2
+"a account" 2 2
+accumulate 4 4
+"the accumulate" 4 4
+"a accumulate" 4 4
+accuse 2 2
+"the accuse" 2 2
+"a accuse" 2 2
+accusing 3 3
+"the accusing" 3 3
+"a accusing" 3 3
+achieve 2 2
+"the achieve" 2 2
+"a achieve" 2 2
+acknowledge 3 3
+"the acknowledge" 3 3
+"a acknowledge" 3 3
+acquaintance 3 3
+"the acquaintance" 3 3
+"a acquaintance" 3 3
+acquainted 3 2
+"the acquainted" 3 2
+"a acquainted" 3 2
+act 1 1
+"the act" 1 1
+"a act" 1 1
+action 2 2
+"the action" 2 2
+"a action" 2 2
+active 2 2
+"the active" 2 2
+"a active" 2 2
+actor 2 2
+"the actor" 2 2
+"a actor" 2 2
+add 1 1
+"the add" 1 1
+"a add" 1 1
+added 2 2
+"the added" 2 2
+"a added" 2 2
+adder's 2 2
+"the adder's" 2 2
+"a adder's" 2 2
+addeth 2 2
+"the addeth" 2 2
+"a addeth" 2 2
+adding 2 2
+"the adding" 2 2
+"a adding" 2 2
+addition 3 3
+"the addition" 3 3
+"a addition" 3 3
+adieu 2 2
+"the adieu" 2 2
+"a adieu" 2 2
+adjunct 2 2
+"the adjunct" 2 2
+"a adjunct" 2 2
+admire 2 2
+"the admire" 2 2
+"a admire" 2 2
+admired 3 3
+"the admired" 3 3
+"a admired" 3 3
+admiring 3 3
+"the admiring" 3 3
+"a admiring" 3 3
+admit 2 2
+"the admit" 2 2
+"a admit" 2 2
+admitted 3 3
+"the admitted" 3 3
+"a admitted" 3 3
+adonis 3 3
+"the adonis" 3 3
+"a adonis" 3 3
+adore 2 2
+"the adore" 2 2
+"a adore" 2 2
+adulterate 3 3
+"the adulterate" 3 3
+"a adulterate" 3 3
+advance 2 2
+"the advance" 2 2
+"a advance" 2 2
+advantage 3 3
+"the advantage" 3 3
+"a advantage" 3 3
+adverse 2 2
+"the adverse" 2 2
+"a adverse" 2 2
+advised 2 2
+"the advised" 2 2
+"a advised" 2 2
+advocate 3 3
+"the advocate" 3 3
+"a advocate" 3 3
+afar 2 2
+"the afar" 2 2
+"a afar" 2 2
+affable 3 3
+"the affable" 3 3
+"a affable" 3 3
+affairs 2 2
+"the affairs" 2 2
+"a affairs" 2 2
+affections 3 3
+"the affections" 3 3
+"a affections" 3 3
+afford 2 2
+"the afford" 2 2
+"a afford" 2 2
+affords 2 2
+"the affords" 2 2
+"a affords" 2 2
+afloat 2 2
+"the afloat" 2 2
+"a afloat" 2 2
+afresh 2 2
+"the afresh" 2 2
+"a afresh" 2 2
+after 2 2
+"the after" 2 2
+"a after" 2 2
+after-loss 3 3
+"the after-loss" 3 3
+"a after-loss" 3 3
+afterwards 3 3
+"the afterwards" 3 3
+"a afterwards" 3 3
+again 2 2
+"the again" 2 2
+"a again" 2 2
+against 2 2
+"the against" 2 2
+"a against" 2 2
+age 1 1
+"the age" 1 1
+"a age" 1 1
+age's 2 2
+"the age's" 2 2
+"a age's" 2 2
+ages 2 2
+"the ages" 2 2
+"a ages" 2 2
+aggravate 3 3
+"the aggravate" 3 3
+"a aggravate" 3 3
+ah 1 1
+"the ah" 1 1
+"a ah" 1 1
+aid 1 1
+"the aid" 1 1
+"a aid" 1 1
+air 1 1
+"the air" 1 1
+"a air" 1 1
+alack 2 2
+"the alack" 2 2
+"a alack" 2 2
+alas 2 2
+"the alas" 2 2
+"a alas" 2 2
+alchemy 3 3
+"the alchemy" 3 3
+"a alchemy" 3 3
+alien 2 2
+"the alien" 2 2
+"a alien" 2 2
+alike 2 2
+"the alike" 2 2
+"a alike" 2 2
+alive 2 2
+"the alive" 2 2
+"a alive" 2 2
+all 1 1
+"the all" 1 1
+"a all" 1 1
+all-eating 3 3
+"the all-eating" 3 3
+"a all-eating" 3 3
+all-oblivious 4 4
+"the all-oblivious" 4 4
+"a all-oblivious" 4 4
+all-tyrant 3 3
+"the all-tyrant" 3 3
+"a all-tyrant" 3 3
+allayed 2 2
+"the allayed" 2 2
+"a allayed" 2 2
+allege 2 2
+"the allege" 2 2
+"a allege" 2 2
+allow 2 2
+"the allow" 2 2
+"a allow" 2 2
+almost 2 2
+"the almost" 2 2
+"a almost" 2 2
+aloft 2 2
+"the aloft" 2 2
+"a aloft" 2 2
+alone 2 2
+"the alone" 2 2
+"a alone" 2 2
+already 3 3
+"the already" 3 3
+"a already" 3 3
+alt'ring 2 2
+"the alt'ring" 2 2
+"a alt'ring" 2 2
+alter 2 2
+"the alter" 2 2
+"a alter" 2 2
+alteration 4 4
+"the alteration" 4 4
+"a alteration" 4 4
+altered 2 2
+"the altered" 2 2
+"a altered" 2 2
+alters 2 2
+"the alters" 2 2
+"a alters" 2 2
+although 2 2
+"the although" 2 2
+"a although" 2 2
+always 2 2
+"the always" 2 2
+"a always" 2 2
+am 1 1
+"the am" 1 1
+"a am" 1 1
+amazeth 3 2
+"the amazeth" 3 2
+"a amazeth" 3 2
+ambush 2 2
+"the ambush" 2 2
+"a ambush" 2 2
+amen 2 2
+"the amen" 2 2
+"a amen" 2 2
+amends 2 2
+"the amends" 2 2
+"a amends" 2 2
+amis 2 2
+"the amis" 2 2
+"a amis" 2 2
+amiss 2 2
+"the amiss" 2 2
+"a amiss" 2 2
+among 2 2
+"the among" 2 2
+"a among" 2 2
+an 1 1
+"the an" 1 1
+"a an" 1 1
+anchored 2 2
+"the anchored" 2 2
+"a anchored" 2 2
+and 1 1
+"the and" 1 1
+"a and" 1 1
+anew 2 2
+"the anew" 2 2
+"a anew" 2 2
+angel 2 2
+"the angel" 2 2
+"a angel" 2 2
+anger 2 2
+"the anger" 2 2
+"a anger" 2 2
+angry 2 2
+"the angry" 2 2
+"a angry" 2 2
+annexed 2 2
+"the annexed" 2 2
+"a annexed" 2 2
+annoy 2 2
+"the annoy" 2 2
+"a annoy" 2 2
+anon 2 2
+"the anon" 2 2
+"a anon" 2 2
+another 3 2
+"the another" 3 2
+"a another" 3 2
+another's 3 3
+"the another's" 3 3
+"a another's" 3 3
+answer 2 2
+"the answer" 2 2
+"a answer" 2 2
+answered 2 2
+"the answered" 2 2
+"a answered" 2 2
+answers 2 2
+"the answers" 2 2
+"a answers" 2 2
+anticipate 4 4
+"the anticipate" 4 4
+"a anticipate" 4 4
+antique 2 2
+"the antique" 2 2
+"a antique" 2 2
+antiquity 4 4
+"the antiquity" 4 4
+"a antiquity" 4 4
+any 2 1
+"the any" 2 1
+"a any" 2 1
+apparel 3 3
+"the apparel" 3 3
+"a apparel" 3 3
+appeal 2 2
+"the appeal" 2 2
+"a appeal" 2 2
+appear 2 2
+"the appear" 2 2
+"a appear" 2 2
+appearance 3 3
+"the appearance" 3 3
+"a appearance" 3 3
+appears 2 2
+"the appears" 2 2
+"a appears" 2 2
+appetite 3 3
+"the appetite" 3 3
+"a appetite" 3 3
+apple 2 2
+"the apple" 2 2
+"a apple" 2 2
+applying 3 3
+"the applying" 3 3
+"a applying" 3 3
+approve 2 2
+"the approve" 2 2
+"a approve" 2 2
+april 2 2
+"the april" 2 2
+"a april" 2 2
+april's 2 2
+"the april's" 2 2
+"a april's" 2 2
+are 1 1
+"the are" 1 1
+"a are" 1 1
+argument 3 3
+"the argument" 3 3
+"a argument" 3 3
+aright 2 2
+"the aright" 2 2
+"a aright" 2 2
+arise 2 2
+"the arise" 2 2
+"a arise" 2 2
+arising 3 2
+"the arising" 3 2
+"a arising" 3 2
+array 2 2
+"the array" 2 2
+"a array" 2 2
+arrest 2 2
+"the arrest" 2 2
+"a arrest" 2 2
+art 1 1
+"the art" 1 1
+"a art" 1 1
+art's 1 1
+"the art's" 1 1
+"a art's" 1 1
+arts 1 1
+"the arts" 1 1
+"a arts" 1 1
+as 1 1
+"the as" 1 1
+"a as" 1 1
+ashes 2 2
+"the ashes" 2 2
+"a ashes" 2 2
+aside 2 2
+"the aside" 2 2
+"a aside" 2 2
+askance 2 2
+"the askance" 2 2
+"a askance" 2 2
+asked 1 1
+"the asked" 1 1
+"a asked" 1 1
+asleep 2 2
+"the asleep" 2 2
+"a asleep" 2 2
+aspect 2 2
+"the aspect" 2 2
+"a aspect" 2 2
+assailed 2 2
+"the assailed" 2 2
+"a assailed" 2 2
+assemble 3 2
+"the assemble" 3 2
+"a assemble" 3 2
+assistance 3 3
+"the assistance" 3 3
+"a assistance" 3 3
+assure 2 2
+"the assure" 2 2
+"a assure" 2 2
+assured 3 2
+"the assured" 3 2
+"a assured" 3 2
+astonished 4 4
+"the astonished" 4 4
+"a astonished" 4 4
+astronomy 4 4
+"the astronomy" 4 4
+"a astronomy" 4 4
+at 1 1
+"the at" 1 1
+"a at" 1 1
+attaint 2 2
+"the attaint" 2 2
+"a attaint" 2 2
+attainted 3 2
+"the attainted" 3 2
+"a attainted" 3 2
+attend 2 2
+"the attend" 2 2
+"a attend" 2 2
+attending 3 3
+"the attending" 3 3
+"a attending" 3 3
+audit 2 2
+"the audit" 2 2
+"a audit" 2 2
+aught 1 1
+"the aught" 1 1
+"a aught" 1 1
+augurs 2 2
+"the augurs" 2 2
+"a augurs" 2 2
+authority 4 4
+"the authority" 4 4
+"a authority" 4 4
+authorizing 4 4
+"the authorizing" 4 4
+"a authorizing" 4 4
+autumn 2 2
+"the autumn" 2 2
+"a autumn" 2 2
+awake 2 2
+"the awake" 2 2
+"a awake" 2 2
+awakes 2 2
+"the awakes" 2 2
+"a awakes" 2 2
+awards 2 2
+"the awards" 2 2
+"a awards" 2 2
+away 2 2
+"the away" 2 2
+"a away" 2 2
+ay 1 1
+"the ay" 1 1
+"a ay" 1 1
+aye 1 1
+"the aye" 1 1
+"a aye" 1 1
+babe 1 1
+"the babe" 1 1
+"a babe" 1 1
+back 1 1
+"the back" 1 1
+"a back" 1 1
+backward 2 2
+"the backward" 2 2
+"a backward" 2 2
+bad 1 1
+"the bad" 1 1
+"a bad" 1 1
+badges 2 2
+"the badges" 2 2
+"a badges" 2 2
+badness 2 2
+"the badness" 2 2
+"a badness" 2 2
+bail 1 1
+"the bail" 1 1
+"a bail" 1 1
+bait 1 1
+"the bait" 1 1
+"a bait" 1 1
+balmy 2 2
+"the balmy" 2 2
+"a balmy" 2 2
+bankrupt 2 2
+"the bankrupt" 2 2
+"a bankrupt" 2 2
+banks 1 1
+"the banks" 1 1
+"a banks" 1 1
+banquet 2 2
+"the banquet" 2 2
+"a banquet" 2 2
+bar 1 1
+"the bar" 1 1
+"a bar" 1 1
+bare 1 1
+"the bare" 1 1
+"a bare" 1 1
+bareness 2 2
+"the bareness" 2 2
+"a bareness" 2 2
+bark 1 1
+"the bark" 1 1
+"a bark" 1 1
+barren 2 2
+"the barren" 2 2
+"a barren" 2 2
+barrenly 3 3
+"the barrenly" 3 3
+"a barrenly" 3 3
+bars 1 1
+"the bars" 1 1
+"a bars" 1 1
+base 1 1
+"the base" 1 1
+"a base" 1 1
+bases 2 2
+"the bases" 2 2
+"a bases" 2 2
+basest 2 2
+"the basest" 2 2
+"a basest" 2 2
+bastard 2 2
+"the bastard" 2 2
+"a bastard" 2 2
+bath 1 1
+"the bath" 1 1
+"a bath" 1 1
+batt'ring 2 2
+"the batt'ring" 2 2
+"a batt'ring" 2 2
+bay 1 1
+"the bay" 1 1
+"a bay" 1 1
+be 1 1
+"the be" 1 1
+"a be" 1 1
+beams 1 1
+"the beams" 1 1
+"a beams" 1 1
+bear 1 1
+"the bear" 1 1
+"a bear" 1 1
+bear'st 1 1
+"the bear'st" 1 1
+"a bear'st" 1 1
+beard 1 1
+"the beard" 1 1
+"a beard" 1 1
+bearer 2 2
+"the bearer" 2 2
+"a bearer" 2 2
+bearing 2 1
+"the bearing" 2 1
+"a bearing" 2 1
+bears 1 1
+"the bears" 1 1
+"a bears" 1 1
+beast 1 1
+"the beast" 1 1
+"a beast" 1 1
+beated 2 2
+"the beated" 2 2
+"a beated" 2 2
+beauteous 2 2
+"the beauteous" 2 2
+"a beauteous" 2 2
+beauties 2 2
+"the beauties" 2 2
+"a beauties" 2 2
+beautiful 3 3
+"the beautiful" 3 3
+"a beautiful" 3 3
+beauty 2 2
+"the beauty" 2 2
+"a beauty" 2 2
+beauty's 2 2
+"the beauty's" 2 2
+"a beauty's" 2 2
+because 2 2
+"the because" 2 2
+"a because" 2 2
+beck 1 1
+"the beck" 1 1
+"a beck" 1 1
+become 2 2
+"the become" 2 2
+"a become" 2 2
+becomes 2 2
+"the becomes" 2 2
+"a becomes" 2 2
+becoming 3 3
+"the becoming" 3 3
+"a becoming" 3 3
+bed 1 1
+"the bed" 1 1
+"a bed" 1 1
+bed-vow 2 2
+"the bed-vow" 2 2
+"a bed-vow" 2 2
+beds 1 1
+"the beds" 1 1
+"a beds" 1 1
+been 1 1
+"the been" 1 1
+"a been" 1 1
+befits 2 2
+"the befits" 2 2
+"a befits" 2 2
+before 2 2
+"the before" 2 2
+"a before" 2 2
+befriends 2 2
+"the befriends" 2 2
+"a befriends" 2 2
+beggar 2 2
+"the beggar" 2 2
+"a beggar" 2 2
+beggared 2 2
+"the beggared" 2 2
+"a beggared" 2 2
+begin 2 2
+"the begin" 2 2
+"a begin" 2 2
+begins 2 2
+"the begins" 2 2
+"a begins" 2 2
+beguile 2 2
+"the beguile" 2 2
+"a beguile" 2 2
+beguiled 2 2
+"the beguiled" 2 2
+"a beguiled" 2 2
+behaviour 3 3
+"the behaviour" 3 3
+"a behaviour" 3 3
+behind 2 2
+"the behind" 2 2
+"a behind" 2 2
+behold 2 2
+"the behold" 2 2
+"a behold" 2 2
+being 2 1
+"the being" 2 1
+"a being" 2 1
+belied 2 2
+"the belied" 2 2
+"a belied" 2 2
+believe 2 2
+"the believe" 2 2
+"a believe" 2 2
+believed 2 2
+"the believed" 2 2
+"a believed" 2 2
+bell 1 1
+"the bell" 1 1
+"a bell" 1 1
+belong 2 2
+"the belong" 2 2
+"a belong" 2 2
+belongs 2 2
+"the belongs" 2 2
+"a belongs" 2 2
+beloved 3 2
+"the beloved" 3 2
+"a beloved" 3 2
+bending 2 2
+"the bending" 2 2
+"a bending" 2 2
+bends 1 1
+"the bends" 1 1
+"a bends" 1 1
+benefit 3 3
+"the benefit" 3 3
+"a benefit" 3 3
+bent 1 1
+"the bent" 1 1
+"a bent" 1 1
+bequest 2 2
+"the bequest" 2 2
+"a bequest" 2 2
+bereft 2 2
+"the bereft" 2 2
+"a bereft" 2 2
+beseechers 3 3
+"the beseechers" 3 3
+"a beseechers" 3 3
+beseem 2 2
+"the beseem" 2 2
+"a beseem" 2 2
+beshrew 2 2
+"the beshrew" 2 2
+"a beshrew" 2 2
+beside 2 2
+"the beside" 2 2
+"a beside" 2 2
+besides 2 2
+"the besides" 2 2
+"a besides" 2 2
+besiege 2 2
+"the besiege" 2 2
+"a besiege" 2 2
+besmeared 2 2
+"the besmeared" 2 2
+"a besmeared" 2 2
+best 1 1
+"the best" 1 1
+"a best" 1 1
+bestow 2 2
+"the bestow" 2 2
+"a bestow" 2 2
+bestow'st 2 2
+"the bestow'st" 2 2
+"a bestow'st" 2 2
+betray 2 2
+"the betray" 2 2
+"a betray" 2 2
+betraying 3 3
+"the betraying" 3 3
+"a betraying" 3 3
+bett'ring 2 2
+"the bett'ring" 2 2
+"a bett'ring" 2 2
+better 2 1
+"the better" 2 1
+"a better" 2 1
+bettered 2 2
+"the bettered" 2 2
+"a bettered" 2 2
+betwixt 2 2
+"the betwixt" 2 2
+"a betwixt" 2 2
+bevel 2 1
+"the bevel" 2 1
+"a bevel" 2 1
+bewailed 3 3
+"the bewailed" 3 3
+"a bewailed" 3 3
+beweep 2 2
+"the beweep" 2 2
+"a beweep" 2 2
+beyond 2 2
+"the beyond" 2 2
+"a beyond" 2 2
+bid 1 1
+"the bid" 1 1
+"a bid" 1 1
+bide 1 1
+"the bide" 1 1
+"a bide" 1 1
+bids 1 1
+"the bids" 1 1
+"a bids" 1 1
+bier 1 1
+"the bier" 1 1
+"a bier" 1 1
+big 1 1
+"the big" 1 1
+"a big" 1 1
+bind 1 1
+"the bind" 1 1
+"a bind" 1 1
+bird 1 1
+"the bird" 1 1
+"a bird" 1 1
+birds 1 1
+"the birds" 1 1
+"a birds" 1 1
+birth 1 1
+"the birth" 1 1
+"a birth" 1 1
+bitter 2 2
+"the bitter" 2 2
+"a bitter" 2 2
+bitterness 3 3
+"the bitterness" 3 3
+"a bitterness" 3 3
+black 1 1
+"the black" 1 1
+"a black" 1 1
+blame 1 1
+"the blame" 1 1
+"a blame" 1 1
+blamed 1 1
+"the blamed" 1 1
+"a blamed" 1 1
+blanks 1 1
+"the blanks" 1 1
+"a blanks" 1 1
+blazon 2 2
+"the blazon" 2 2
+"a blazon" 2 2
+blenches 2 2
+"the blenches" 2 2
+"a blenches" 2 2
+blessed 2 2
+"the blessed" 2 2
+"a blessed" 2 2
+blessed-fair 3 3
+"the blessed-fair" 3 3
+"a blessed-fair" 3 3
+blesses 2 2
+"the blesses" 2 2
+"a blesses" 2 2
+blessing 2 2
+"the blessing" 2 2
+"a blessing" 2 2
+blessings 2 2
+"the blessings" 2 2
+"a blessings" 2 2
+blest 1 1
+"the blest" 1 1
+"a blest" 1 1
+blind 1 1
+"the blind" 1 1
+"a blind" 1 1
+blindness 2 1
+"the blindness" 2 1
+"a blindness" 2 1
+bliss 1 1
+"the bliss" 1 1
+"a bliss" 1 1
+blood 1 1
+"the blood" 1 1
+"a blood" 1 1
+bloody 2 2
+"the bloody" 2 2
+"a bloody" 2 2
+blooms 1 1
+"the blooms" 1 1
+"a blooms" 1 1
+blot 1 1
+"the blot" 1 1
+"a blot" 1 1
+blots 1 1
+"the blots" 1 1
+"a blots" 1 1
+blow 1 1
+"the blow" 1 1
+"a blow" 1 1
+blunt 1 1
+"the blunt" 1 1
+"a blunt" 1 1
+blunter 2 2
+"the blunter" 2 2
+"a blunter" 2 2
+blunting 2 2
+"the blunting" 2 2
+"a blunting" 2 2
+blush 1 1
+"the blush" 1 1
+"a blush" 1 1
+blushing 2 2
+"the blushing" 2 2
+"a blushing" 2 2
+boast 1 1
+"the boast" 1 1
+"a boast" 1 1
+boat 1 1
+"the boat" 1 1
+"a boat" 1 1
+body 2 2
+"the body" 2 2
+"a body" 2 2
+body's 2 2
+"the body's" 2 2
+"a body's" 2 2
+bold 1 1
+"the bold" 1 1
+"a bold" 1 1
+boldness 2 2
+"the boldness" 2 2
+"a boldness" 2 2
+bond 1 1
+"the bond" 1 1
+"a bond" 1 1
+bonds 1 1
+"the bonds" 1 1
+"a bonds" 1 1
+bones 1 1
+"the bones" 1 1
+"a bones" 1 1
+book 1 1
+"the book" 1 1
+"a book" 1 1
+boot 1 1
+"the boot" 1 1
+"a boot" 1 1
+bootless 2 2
+"the bootless" 2 2
+"a bootless" 2 2
+bore 1 1
+"the bore" 1 1
+"a bore" 1 1
+born 1 1
+"the born" 1 1
+"a born" 1 1
+borne 1 1
+"the borne" 1 1
+"a borne" 1 1
+borrowed 2 2
+"the borrowed" 2 2
+"a borrowed" 2 2
+bosom 2 2
+"the bosom" 2 2
+"a bosom" 2 2
+bosom's 2 2
+"the bosom's" 2 2
+"a bosom's" 2 2
+bosoms 2 2
+"the bosoms" 2 2
+"a bosoms" 2 2
+both 1 1
+"the both" 1 1
+"a both" 1 1
+bough 1 1
+"the bough" 1 1
+"a bough" 1 1
+boughs 1 1
+"the boughs" 1 1
+"a boughs" 1 1
+bound 1 1
+"the bound" 1 1
+"a bound" 1 1
+boundless 2 2
+"the boundless" 2 2
+"a boundless" 2 2
+bounteous 2 2
+"the bounteous" 2 2
+"a bounteous" 2 2
+bounty 2 2
+"the bounty" 2 2
+"a bounty" 2 2
+bow 1 1
+"the bow" 1 1
+"a bow" 1 1
+bower 1 1
+"the bower" 1 1
+"a bower" 1 1
+boy 1 1
+"the boy" 1 1
+"a boy" 1 1
+brag 1 1
+"the brag" 1 1
+"a brag" 1 1
+brain 1 1
+"the brain" 1 1
+"a brain" 1 1
+brains 1 1
+"the brains" 1 1
+"a brains" 1 1
+brand 1 1
+"the brand" 1 1
+"a brand" 1 1
+brass 1 1
+"the brass" 1 1
+"a brass" 1 1
+brav'ry 2 2
+"the brav'ry" 2 2
+"a brav'ry" 2 2
+brave 1 1
+"the brave" 1 1
+"a brave" 1 1
+breach 1 1
+"the breach" 1 1
+"a breach" 1 1
+break 1 1
+"the break" 1 1
+"a break" 1 1
+breast 1 1
+"the breast" 1 1
+"a breast" 1 1
+breasts 1 1
+"the breasts" 1 1
+"a breasts" 1 1
+breath 1 1
+"the breath" 1 1
+"a breath" 1 1
+breathe 1 1
+"the breathe" 1 1
+"a breathe" 1 1
+breathed 1 1
+"the breathed" 1 1
+"a breathed" 1 1
+breathers 2 2
+"the breathers" 2 2
+"a breathers" 2 2
+breathes 1 1
+"the breathes" 1 1
+"a breathes" 1 1
+bred 1 1
+"the bred" 1 1
+"a bred" 1 1
+breed 1 1
+"the breed" 1 1
+"a breed" 1 1
+breeds 1 1
+"the breeds" 1 1
+"a breeds" 1 1
+brief 1 1
+"the brief" 1 1
+"a brief" 1 1
+bright 1 1
+"the bright" 1 1
+"a bright" 1 1
+brightness 2 2
+"the brightness" 2 2
+"a brightness" 2 2
+bring 1 1
+"the bring" 1 1
+"a bring" 1 1
+brings 1 1
+"the brings" 1 1
+"a brings" 1 1
+bristly 2 2
+"the bristly" 2 2
+"a bristly" 2 2
+broad 1 1
+"the broad" 1 1
+"a broad" 1 1
+broils 1 1
+"the broils" 1 1
+"a broils" 1 1
+broke 1 1
+"the broke" 1 1
+"a broke" 1 1
+broken 2 1
+"the broken" 2 1
+"a broken" 2 1
+brood 1 1
+"the brood" 1 1
+"a brood" 1 1
+brought 1 1
+"the brought" 1 1
+"a brought" 1 1
+brow 1 1
+"the brow" 1 1
+"a brow" 1 1
+bud 1 1
+"the bud" 1 1
+"a bud" 1 1
+budding 2 2
+"the budding" 2 2
+"a budding" 2 2
+buds 1 1
+"the buds" 1 1
+"a buds" 1 1
+builded 2 2
+"the builded" 2 2
+"a builded" 2 2
+building 2 2
+"the building" 2 2
+"a building" 2 2
+built 1 1
+"the built" 1 1
+"a built" 1 1
+burden 2 2
+"the burden" 2 2
+"a burden" 2 2
+buried 2 3
+"the buried" 2 3
+"a buried" 2 3
+buriest 2 2
+"the buriest" 2 2
+"a buriest" 2 2
+burn 1 1
+"the burn" 1 1
+"a burn" 1 1
+burned 1 1
+"the burned" 1 1
+"a burned" 1 1
+burning 2 2
+"the burning" 2 2
+"a burning" 2 2
+burthen 2 2
+"the burthen" 2 2
+"a burthen" 2 2
+burthens 2 2
+"the burthens" 2 2
+"a burthens" 2 2
+busy 2 2
+"the busy" 2 2
+"a busy" 2 2
+but 1 1
+"the but" 1 1
+"a but" 1 1
+buy 1 1
+"the buy" 1 1
+"a buy" 1 1
+by 1 1
+"the by" 1 1
+"a by" 1 1
+call 1 1
+"the call" 1 1
+"a call" 1 1
+called 1 1
+"the called" 1 1
+"a called" 1 1
+calls 1 1
+"the calls" 1 1
+"a calls" 1 1
+came 1 1
+"the came" 1 1
+"a came" 1 1
+can 1 1
+"the can" 1 1
+"a can" 1 1
+cancelled 2 2
+"the cancelled" 2 2
+"a cancelled" 2 2
+candles 2 2
+"the candles" 2 2
+"a candles" 2 2
+canker 2 2
+"the canker" 2 2
+"a canker" 2 2
+cannot 2 2
+"the cannot" 2 2
+"a cannot" 2 2
+canopy 3 3
+"the canopy" 3 3
+"a canopy" 3 3
+canst 1 1
+"the canst" 1 1
+"a canst" 1 1
+captain 2 2
+"the captain" 2 2
+"a captain" 2 2
+captive 2 2
+"the captive" 2 2
+"a captive" 2 2
+car 1 1
+"the car" 1 1
+"a car" 1 1
+carcanet 3 3
+"the carcanet" 3 3
+"a carcanet" 3 3
+care 1 1
+"the care" 1 1
+"a care" 1 1
+careful 2 2
+"the careful" 2 2
+"a careful" 2 2
+carry 2 2
+"the carry" 2 2
+"a carry" 2 2
+cars 1 1
+"the cars" 1 1
+"a cars" 1 1
+carve 1 1
+"the carve" 1 1
+"a carve" 1 1
+carved 1 1
+"the carved" 1 1
+"a carved" 1 1
+case 1 1
+"the case" 1 1
+"a case" 1 1
+cast 1 1
+"the cast" 1 1
+"a cast" 1 1
+catch 1 1
+"the catch" 1 1
+"a catch" 1 1
+cause 1 1
+"the cause" 1 1
+"a cause" 1 1
+cease 1 1
+"the cease" 1 1
+"a cease" 1 1
+celestial 3 3
+"the celestial" 3 3
+"a celestial" 3 3
+censures 2 2
+"the censures" 2 2
+"a censures" 2 2
+centre 2 2
+"the centre" 2 2
+"a centre" 2 2
+ceremony 4 4
+"the ceremony" 4 4
+"a ceremony" 4 4
+certain 2 2
+"the certain" 2 2
+"a certain" 2 2
+chance 1 1
+"the chance" 1 1
+"a chance" 1 1
+change 1 1
+"the change" 1 1
+"a change" 1 1
+changes 2 2
+"the changes" 2 2
+"a changes" 2 2
+changing 2 2
+"the changing" 2 2
+"a changing" 2 2
+character 3 3
+"the character" 3 3
+"a character" 3 3
+charactered 3 3
+"the charactered" 3 3
+"a charactered" 3 3
+charge 1 1
+"the charge" 1 1
+"a charge" 1 1
+charged 1 1
+"the charged" 1 1
+"a charged" 1 1
+charter 2 2
+"the charter" 2 2
+"a charter" 2 2
+chary 2 1
+"the chary" 2 1
+"a chary" 2 1
+chase 1 1
+"the chase" 1 1
+"a chase" 1 1
+chaste 1 1
+"the chaste" 1 1
+"a chaste" 1 1
+cheap 1 1
+"the cheap" 1 1
+"a cheap" 1 1
+cheater 2 2
+"the cheater" 2 2
+"a cheater" 2 2
+check 1 1
+"the check" 1 1
+"a check" 1 1
+checked 1 1
+"the checked" 1 1
+"a checked" 1 1
+cheek 1 1
+"the cheek" 1 1
+"a cheek" 1 1
+cheeks 1 1
+"the cheeks" 1 1
+"a cheeks" 1 1
+cheer 1 1
+"the cheer" 1 1
+"a cheer" 1 1
+cheered 1 1
+"the cheered" 1 1
+"a cheered" 1 1
+cherish 2 1
+"the cherish" 2 1
+"a cherish" 2 1
+cherubins 3 3
+"the cherubins" 3 3
+"a cherubins" 3 3
+chest 1 1
+"the chest" 1 1
+"a chest" 1 1
+chide 1 1
+"the chide" 1 1
+"a chide" 1 1
+chiding 2 2
+"the chiding" 2 2
+"a chiding" 2 2
+chief 1 1
+"the chief" 1 1
+"a chief" 1 1
+child 1 1
+"the child" 1 1
+"a child" 1 1
+children 2 2
+"the children" 2 2
+"a children" 2 2
+children's 2 2
+"the children's" 2 2
+"a children's" 2 2
+chips 1 1
+"the chips" 1 1
+"a chips" 1 1
+choirs 1 1
+"the choirs" 1 1
+"a choirs" 1 1
+choose 1 1
+"the choose" 1 1
+"a choose" 1 1
+chopt 1 1
+"the chopt" 1 1
+"a chopt" 1 1
+chose 1 1
+"the chose" 1 1
+"a chose" 1 1
+chronicle 3 3
+"the chronicle" 3 3
+"a chronicle" 3 3
+churl 1 1
+"the churl" 1 1
+"a churl" 1 1
+churls 1 1
+"the churls" 1 1
+"a churls" 1 1
+civil 2 2
+"the civil" 2 2
+"a civil" 2 2
+clay 1 1
+"the clay" 1 1
+"a clay" 1 1
+clean 1 1
+"the clean" 1 1
+"a clean" 1 1
+clear 1 1
+"the clear" 1 1
+"a clear" 1 1
+clearer 2 1
+"the clearer" 2 1
+"a clearer" 2 1
+clears 1 1
+"the clears" 1 1
+"a clears" 1 1
+clerk 1 1
+"the clerk" 1 1
+"a clerk" 1 1
+climbed 1 1
+"the climbed" 1 1
+"a climbed" 1 1
+cloak 1 1
+"the cloak" 1 1
+"a cloak" 1 1
+clock 1 1
+"the clock" 1 1
+"a clock" 1 1
+closet 2 2
+"the closet" 2 2
+"a closet" 2 2
+closure 2 2
+"the closure" 2 2
+"a closure" 2 2
+cloud 1 1
+"the cloud" 1 1
+"a cloud" 1 1
+clouds 1 1
+"the clouds" 1 1
+"a clouds" 1 1
+cold 1 1
+"the cold" 1 1
+"a cold" 1 1
+colour 2 2
+"the colour" 2 2
+"a colour" 2 2
+coloured 2 2
+"the coloured" 2 2
+"a coloured" 2 2
+come 1 1
+"the come" 1 1
+"a come" 1 1
+comes 1 1
+"the comes" 1 1
+"a comes" 1 1
+comfort 2 2
+"the comfort" 2 2
+"a comfort" 2 2
+coming 2 2
+"the coming" 2 2
+"a coming" 2 2
+commanded 3 3
+"the commanded" 3 3
+"a commanded" 3 3
+commence 2 2
+"the commence" 2 2
+"a commence" 2 2
+commend 2 2
+"the commend" 2 2
+"a commend" 2 2
+comment 2 1
+"the comment" 2 1
+"a comment" 2 1
+comments 2 2
+"the comments" 2 2
+"a comments" 2 2
+commit 2 2
+"the commit" 2 2
+"a commit" 2 2
+commits 2 2
+"the commits" 2 2
+"a commits" 2 2
+committed 3 2
+"the committed" 3 2
+"a committed" 3 2
+common 2 2
+"the common" 2 2
+"a common" 2 2
+compare 2 2
+"the compare" 2 2
+"a compare" 2 2
+compared 2 2
+"the compared" 2 2
+"a compared" 2 2
+compass 2 2
+"the compass" 2 2
+"a compass" 2 2
+compeers 2 2
+"the compeers" 2 2
+"a compeers" 2 2
+compile 2 2
+"the compile" 2 2
+"a compile" 2 2
+compiled 2 2
+"the compiled" 2 2
+"a compiled" 2 2
+complain 2 2
+"the complain" 2 2
+"a complain" 2 2
+complexion 3 3
+"the complexion" 3 3
+"a complexion" 3 3
+composed 3 3
+"the composed" 3 3
+"a composed" 3 3
+composition 4 4
+"the composition" 4 4
+"a composition" 4 4
+compound 2 2
+"the compound" 2 2
+"a compound" 2 2
+compounded 3 3
+"the compounded" 3 3
+"a compounded" 3 3
+compounds 2 2
+"the compounds" 2 2
+"a compounds" 2 2
+concealed 2 2
+"the concealed" 2 2
+"a concealed" 2 2
+conceit 2 2
+"the conceit" 2 2
+"a conceit" 2 2
+concord 2 2
+"the concord" 2 2
+"a concord" 2 2
+condemned 3 3
+"the condemned" 3 3
+"a condemned" 3 3
+confess 2 2
+"the confess" 2 2
+"a confess" 2 2
+confessed 2 2
+"the confessed" 2 2
+"a confessed" 2 2
+confine 2 2
+"the confine" 2 2
+"a confine" 2 2
+confined 2 2
+"the confined" 2 2
+"a confined" 2 2
+confound 2 2
+"the confound" 2 2
+"a confound" 2 2
+confounded 3 3
+"the confounded" 3 3
+"a confounded" 3 3
+confounding 3 3
+"the confounding" 3 3
+"a confounding" 3 3
+confounds 2 2
+"the confounds" 2 2
+"a confounds" 2 2
+conquered 2 2
+"the conquered" 2 2
+"a conquered" 2 2
+conquest 2 2
+"the conquest" 2 2
+"a conquest" 2 2
+conscience 2 2
+"the conscience" 2 2
+"a conscience" 2 2
+consecrate 3 3
+"the consecrate" 3 3
+"a consecrate" 3 3
+consent 2 2
+"the consent" 2 2
+"a consent" 2 2
+consider 3 3
+"the consider" 3 3
+"a consider" 3 3
+conspire 2 2
+"the conspire" 2 2
+"a conspire" 2 2
+constancy 3 3
+"the constancy" 3 3
+"a constancy" 3 3
+constant 2 2
+"the constant" 2 2
+"a constant" 2 2
+consum'st 2 2
+"the consum'st" 2 2
+"a consum'st" 2 2
+consumed 2 2
+"the consumed" 2 2
+"a consumed" 2 2
+contain 2 2
+"the contain" 2 2
+"a contain" 2 2
+contains 2 2
+"the contains" 2 2
+"a contains" 2 2
+contend 2 2
+"the contend" 2 2
+"a contend" 2 2
+content 2 2
+"the content" 2 2
+"a content" 2 2
+contented 3 3
+"the contented" 3 3
+"a contented" 3 3
+contents 2 2
+"the contents" 2 2
+"a contents" 2 2
+continual 3 3
+"the continual" 3 3
+"a continual" 3 3
+contracted 3 3
+"the contracted" 3 3
+"a contracted" 3 3
+contrary 3 3
+"the contrary" 3 3
+"a contrary" 3 3
+control 2 2
+"the control" 2 2
+"a control" 2 2
+controlling 3 2
+"the controlling" 3 2
+"a controlling" 3 2
+convert 2 2
+"the convert" 2 2
+"a convert" 2 2
+converted 3 3
+"the converted" 3 3
+"a converted" 3 3
+convertest 3 2
+"the convertest" 3 2
+"a convertest" 3 2
+cool 1 1
+"the cool" 1 1
+"a cool" 1 1
+cools 1 1
+"the cools" 1 1
+"a cools" 1 1
+copy 2 2
+"the copy" 2 2
+"a copy" 2 2
+coral 2 2
+"the coral" 2 2
+"a coral" 2 2
+correct 2 2
+"the correct" 2 2
+"a correct" 2 2
+correction 3 2
+"the correction" 3 2
+"a correction" 3 2
+correspondence 4 4
+"the correspondence" 4 4
+"a correspondence" 4 4
+corrupt 2 2
+"the corrupt" 2 2
+"a corrupt" 2 2
+corrupting 3 3
+"the corrupting" 3 3
+"a corrupting" 3 3
+cost 1 1
+"the cost" 1 1
+"a cost" 1 1
+costly 2 2
+"the costly" 2 2
+"a costly" 2 2
+costs 1 1
+"the costs" 1 1
+"a costs" 1 1
+could 1 1
+"the could" 1 1
+"a could" 1 1
+couldst 1 1
+"the couldst" 1 1
+"a couldst" 1 1
+count 1 1
+"the count" 1 1
+"a count" 1 1
+counted 2 2
+"the counted" 2 2
+"a counted" 2 2
+countenance 3 3
+"the countenance" 3 3
+"a countenance" 3 3
+counterfeit 3 3
+"the counterfeit" 3 3
+"a counterfeit" 3 3
+counterpart 3 3
+"the counterpart" 3 3
+"a counterpart" 3 3
+counting 2 2
+"the counting" 2 2
+"a counting" 2 2
+couplement 3 3
+"the couplement" 3 3
+"a couplement" 3 3
+course 1 1
+"the course" 1 1
+"a course" 1 1
+courses 2 2
+"the courses" 2 2
+"a courses" 2 2
+cover 2 1
+"the cover" 2 1
+"a cover" 2 1
+covetous 3 3
+"the covetous" 3 3
+"a covetous" 3 3
+coward 2 2
+"the coward" 2 2
+"a coward" 2 2
+crave 1 1
+"the crave" 1 1
+"a crave" 1 1
+crawls 1 1
+"the crawls" 1 1
+"a crawls" 1 1
+created 3 2
+"the created" 3 2
+"a created" 3 2
+creating 3 3
+"the creating" 3 3
+"a creating" 3 3
+creation 3 3
+"the creation" 3 3
+"a creation" 3 3
+creature 2 1
+"the creature" 2 1
+"a creature" 2 1
+creatures 2 2
+"the creatures" 2 2
+"a creatures" 2 2
+credit 2 2
+"the credit" 2 2
+"a credit" 2 2
+creep 1 1
+"the creep" 1 1
+"a creep" 1 1
+crests 1 1
+"the crests" 1 1
+"a crests" 1 1
+cries 1 1
+"the cries" 1 1
+"a cries" 1 1
+crime 1 1
+"the crime" 1 1
+"a crime" 1 1
+critic 2 2
+"the critic" 2 2
+"a critic" 2 2
+crooked 2 2
+"the crooked" 2 2
+"a crooked" 2 2
+cross 1 1
+"the cross" 1 1
+"a cross" 1 1
+crossed 1 1
+"the crossed" 1 1
+"a crossed" 1 1
+crow 1 1
+"the crow" 1 1
+"a crow" 1 1
+crown 1 1
+"the crown" 1 1
+"a crown" 1 1
+crowned 2 1
+"the crowned" 2 1
+"a crowned" 2 1
+crowning 2 2
+"the crowning" 2 2
+"a crowning" 2 2
+cruel 2 1
+"the cruel" 2 1
+"a cruel" 2 1
+crushed 1 1
+"the crushed" 1 1
+"a crushed" 1 1
+cry 1 1
+"the cry" 1 1
+"a cry" 1 1
+crying 2 2
+"the crying" 2 2
+"a crying" 2 2
+crystal 2 2
+"the crystal" 2 2
+"a crystal" 2 2
+cunning 2 2
+"the cunning" 2 2
+"a cunning" 2 2
+cup 1 1
+"the cup" 1 1
+"a cup" 1 1
+cupid 2 2
+"the cupid" 2 2
+"a cupid" 2 2
+cure 1 1
+"the cure" 1 1
+"a cure" 1 1
+cured 1 1
+"the cured" 1 1
+"a cured" 1 1
+cures 1 1
+"the cures" 1 1
+"a cures" 1 1
+curious 2 2
+"the curious" 2 2
+"a curious" 2 2
+curls 1 1
+"the curls" 1 1
+"a curls" 1 1
+curse 1 1
+"the curse" 1 1
+"a curse" 1 1
+cut 1 1
+"the cut" 1 1
+"a cut" 1 1
+daily 2 2
+"the daily" 2 2
+"a daily" 2 2
+damasked 2 2
+"the damasked" 2 2
+"a damasked" 2 2
+dancing 2 2
+"the dancing" 2 2
+"a dancing" 2 2
+dare 1 1
+"the dare" 1 1
+"a dare" 1 1
+dark 1 1
+"the dark" 1 1
+"a dark" 1 1
+darkening 2 2
+"the darkening" 2 2
+"a darkening" 2 2
+darkly 2 2
+"the darkly" 2 2
+"a darkly" 2 2
+darkness 2 2
+"the darkness" 2 2
+"a darkness" 2 2
+darling 2 2
+"the darling" 2 2
+"a darling" 2 2
+dart 1 1
+"the dart" 1 1
+"a dart" 1 1
+date 1 1
+"the date" 1 1
+"a date" 1 1
+dateless 2 2
+"the dateless" 2 2
+"a dateless" 2 2
+dates 1 1
+"the dates" 1 1
+"a dates" 1 1
+day 1 1
+"the day" 1 1
+"a day" 1 1
+day's 1 1
+"the day's" 1 1
+"a day's" 1 1
+days 1 1
+"the days" 1 1
+"a days" 1 1
+dead 1 1
+"the dead" 1 1
+"a dead" 1 1
+deaf 1 1
+"the deaf" 1 1
+"a deaf" 1 1
+dear 1 1
+"the dear" 1 1
+"a dear" 1 1
+dear-purchased 3 3
+"the dear-purchased" 3 3
+"a dear-purchased" 3 3
+dearer 2 1
+"the dearer" 2 1
+"a dearer" 2 1
+dearest 2 2
+"the dearest" 2 2
+"a dearest" 2 2
+dearly 2 1
+"the dearly" 2 1
+"a dearly" 2 1
+dearth 1 1
+"the dearth" 1 1
+"a dearth" 1 1
+dearths 1 1
+"the dearths" 1 1
+"a dearths" 1 1
+death 1 1
+"the death" 1 1
+"a death" 1 1
+death's 1 1
+"the death's" 1 1
+"a death's" 1 1
+death-bed 2 2
+"the death-bed" 2 2
+"a death-bed" 2 2
+deaths 1 1
+"the deaths" 1 1
+"a deaths" 1 1
+debarred 2 2
+"the debarred" 2 2
+"a debarred" 2 2
+debate 2 2
+"the debate" 2 2
+"a debate" 2 2
+debateth 3 3
+"the debateth" 3 3
+"a debateth" 3 3
+debt 1 1
+"the debt" 1 1
+"a debt" 1 1
+debtor 2 2
+"the debtor" 2 2
+"a debtor" 2 2
+decay 2 2
+"the decay" 2 2
+"a decay" 2 2
+decayed 2 2
+"the decayed" 2 2
+"a decayed" 2 2
+decays 2 2
+"the decays" 2 2
+"a decays" 2 2
+decease 2 2
+"the decease" 2 2
+"a decease" 2 2
+deceased 3 3
+"the deceased" 3 3
+"a deceased" 3 3
+deceive 2 2
+"the deceive" 2 2
+"a deceive" 2 2
+deceived 3 2
+"the deceived" 3 2
+"a deceived" 3 2
+deceivest 3 2
+"the deceivest" 3 2
+"a deceivest" 3 2
+december's 3 3
+"the december's" 3 3
+"a december's" 3 3
+declines 2 2
+"the declines" 2 2
+"a declines" 2 2
+decrease 2 2
+"the decrease" 2 2
+"a decrease" 2 2
+decree 2 2
+"the decree" 2 2
+"a decree" 2 2
+decrees 2 2
+"the decrees" 2 2
+"a decrees" 2 2
+decrepit 3 3
+"the decrepit" 3 3
+"a decrepit" 3 3
+dedicated 4 4
+"the dedicated" 4 4
+"a dedicated" 4 4
+deeds 1 1
+"the deeds" 1 1
+"a deeds" 1 1
+deem 1 1
+"the deem" 1 1
+"a deem" 1 1
+deemed 1 1
+"the deemed" 1 1
+"a deemed" 1 1
+deep 1 1
+"the deep" 1 1
+"a deep" 1 1
+deepest 2 2
+"the deepest" 2 2
+"a deepest" 2 2
+deface 2 2
+"the deface" 2 2
+"a deface" 2 2
+defaced 2 2
+"the defaced" 2 2
+"a defaced" 2 2
+defeat 2 2
+"the defeat" 2 2
+"a defeat" 2 2
+defeated 3 2
+"the defeated" 3 2
+"a defeated" 3 2
+defect 2 2
+"the defect" 2 2
+"a defect" 2 2
+defects 2 2
+"the defects" 2 2
+"a defects" 2 2
+defence 2 2
+"the defence" 2 2
+"a defence" 2 2
+defendant 3 3
+"the defendant" 3 3
+"a defendant" 3 3
+define 2 2
+"the define" 2 2
+"a define" 2 2
+deformed'st 2 2
+"the deformed'st" 2 2
+"a deformed'st" 2 2
+defy 2 2
+"the defy" 2 2
+"a defy" 2 2
+delayed 2 2
+"the delayed" 2 2
+"a delayed" 2 2
+delight 2 2
+"the delight" 2 2
+"a delight" 2 2
+delighted 3 2
+"the delighted" 3 2
+"a delighted" 3 2
+delights 2 2
+"the delights" 2 2
+"a delights" 2 2
+delivered 3 3
+"the delivered" 3 3
+"a delivered" 3 3
+delivers 3 3
+"the delivers" 3 3
+"a delivers" 3 3
+delves 1 1
+"the delves" 1 1
+"a delves" 1 1
+denied 2 2
+"the denied" 2 2
+"a denied" 2 2
+denote 2 2
+"the denote" 2 2
+"a denote" 2 2
+deny 2 2
+"the deny" 2 2
+"a deny" 2 2
+depart 2 2
+"the depart" 2 2
+"a depart" 2 2
+departest 3 2
+"the departest" 3 2
+"a departest" 3 2
+depend 2 2
+"the depend" 2 2
+"a depend" 2 2
+depends 2 2
+"the depends" 2 2
+"a depends" 2 2
+derive 2 2
+"the derive" 2 2
+"a derive" 2 2
+describe 2 2
+"the describe" 2 2
+"a describe" 2 2
+descriptions 3 3
+"the descriptions" 3 3
+"a descriptions" 3 3
+desert 2 2
+"the desert" 2 2
+"a desert" 2 2
+deserts 2 2
+"the deserts" 2 2
+"a deserts" 2 2
+deserv'st 2 2
+"the deserv'st" 2 2
+"a deserv'st" 2 2
+deserve 2 2
+"the deserve" 2 2
+"a deserve" 2 2
+deserved 2 2
+"the deserved" 2 2
+"a deserved" 2 2
+deserves 2 2
+"the deserves" 2 2
+"a deserves" 2 2
+deserving 3 2
+"the deserving" 3 2
+"a deserving" 3 2
+desire 2 2
+"the desire" 2 2
+"a desire" 2 2
+desired 3 2
+"the desired" 3 2
+"a desired" 3 2
+desiring 3 3
+"the desiring" 3 3
+"a desiring" 3 3
+despair 2 2
+"the despair" 2 2
+"a despair" 2 2
+desperate 2 2
+"the desperate" 2 2
+"a desperate" 2 2
+despise 2 2
+"the despise" 2 2
+"a despise" 2 2
+despised 3 2
+"the despised" 3 2
+"a despised" 3 2
+despising 3 2
+"the despising" 3 2
+"a despising" 3 2
+despite 2 2
+"the despite" 2 2
+"a despite" 2 2
+destroys 2 2
+"the destroys" 2 2
+"a destroys" 2 2
+detain 2 2
+"the detain" 2 2
+"a detain" 2 2
+determinate 4 4
+"the determinate" 4 4
+"a determinate" 4 4
+determination 5 5
+"the determination" 5 5
+"a determination" 5 5
+determined 4 4
+"the determined" 4 4
+"a determined" 4 4
+devil 2 1
+"the devil" 2 1
+"a devil" 2 1
+devise 2 2
+"the devise" 2 2
+"a devise" 2 2
+devised 2 2
+"the devised" 2 2
+"a devised" 2 2
+devour 2 2
+"the devour" 2 2
+"a devour" 2 2
+devouring 3 3
+"the devouring" 3 3
+"a devouring" 3 3
+dial 2 2
+"the dial" 2 2
+"a dial" 2 2
+dial's 2 2
+"the dial's" 2 2
+"a dial's" 2 2
+dian's 2 2
+"the dian's" 2 2
+"a dian's" 2 2
+did 1 1
+"the did" 1 1
+"a did" 1 1
+didst 1 1
+"the didst" 1 1
+"a didst" 1 1
+die 1 1
+"the die" 1 1
+"a die" 1 1
+died 1 1
+"the died" 1 1
+"a died" 1 1
+dies 1 1
+"the dies" 1 1
+"a dies" 1 1
+diest 1 1
+"the diest" 1 1
+"a diest" 1 1
+difference 3 3
+"the difference" 3 3
+"a difference" 3 3
+different 2 2
+"the different" 2 2
+"a different" 2 2
+dig 1 1
+"the dig" 1 1
+"a dig" 1 1
+dignified 3 3
+"the dignified" 3 3
+"a dignified" 3 3
+dignifies 3 3
+"the dignifies" 3 3
+"a dignifies" 3 3
+dignity 3 3
+"the dignity" 3 3
+"a dignity" 3 3
+dimmed 1 1
+"the dimmed" 1 1
+"a dimmed" 1 1
+directed 3 2
+"the directed" 3 2
+"a directed" 3 2
+directly 3 3
+"the directly" 3 3
+"a directly" 3 3
+disabled 4 4
+"the disabled" 4 4
+"a disabled" 4 4
+disarmed 2 2
+"the disarmed" 2 2
+"a disarmed" 2 2
+discased 2 2
+"the discased" 2 2
+"a discased" 2 2
+discloses 3 3
+"the discloses" 3 3
+"a discloses" 3 3
+discontent 3 3
+"the discontent" 3 3
+"a discontent" 3 3
+discourse 2 2
+"the discourse" 2 2
+"a discourse" 2 2
+disdain 2 2
+"the disdain" 2 2
+"a disdain" 2 2
+disdaineth 3 2
+"the disdaineth" 3 2
+"a disdaineth" 3 2
+disdains 2 2
+"the disdains" 2 2
+"a disdains" 2 2
+disease 2 2
+"the disease" 2 2
+"a disease" 2 2
+diseased 2 2
+"the diseased" 2 2
+"a diseased" 2 2
+disgrace 2 2
+"the disgrace" 2 2
+"a disgrace" 2 2
+disgraced 2 2
+"the disgraced" 2 2
+"a disgraced" 2 2
+dispatch 2 2
+"the dispatch" 2 2
+"a dispatch" 2 2
+dispense 2 2
+"the dispense" 2 2
+"a dispense" 2 2
+disperse 2 2
+"the disperse" 2 2
+"a disperse" 2 2
+disposed 2 2
+"the disposed" 2 2
+"a disposed" 2 2
+dispraise 2 2
+"the dispraise" 2 2
+"a dispraise" 2 2
+dissuade 2 2
+"the dissuade" 2 2
+"a dissuade" 2 2
+distance 2 2
+"the distance" 2 2
+"a distance" 2 2
+distempered 3 3
+"the distempered" 3 3
+"a distempered" 3 3
+distillation 4 4
+"the distillation" 4 4
+"a distillation" 4 4
+distilled 2 2
+"the distilled" 2 2
+"a distilled" 2 2
+distills 2 2
+"the distills" 2 2
+"a distills" 2 2
+distraction 3 3
+"the distraction" 3 3
+"a distraction" 3 3
+divert 2 2
+"the divert" 2 2
+"a divert" 2 2
+divide 2 2
+"the divide" 2 2
+"a divide" 2 2
+divided 3 3
+"the divided" 3 3
+"a divided" 3 3
+divine 2 2
+"the divine" 2 2
+"a divine" 2 2
+divining 3 3
+"the divining" 3 3
+"a divining" 3 3
+do 1 1
+"the do" 1 1
+"a do" 1 1
+doctor-like 3 3
+"the doctor-like" 3 3
+"a doctor-like" 3 3
+doing 2 2
+"the doing" 2 2
+"a doing" 2 2
+done 1 1
+"the done" 1 1
+"a done" 1 1
+doom 1 1
+"the doom" 1 1
+"a doom" 1 1
+dost 1 1
+"the dost" 1 1
+"a dost" 1 1
+dote 1 1
+"the dote" 1 1
+"a dote" 1 1
+doth 1 1
+"the doth" 1 1
+"a doth" 1 1
+doting 2 2
+"the doting" 2 2
+"a doting" 2 2
+double 2 2
+"the double" 2 2
+"a double" 2 2
+double-vantage 4 4
+"the double-vantage" 4 4
+"a double-vantage" 4 4
+doubt 1 1
+"the doubt" 1 1
+"a doubt" 1 1
+doubting 2 2
+"the doubting" 2 2
+"a doubting" 2 2
+dove 1 1
+"the dove" 1 1
+"a dove" 1 1
+down 1 1
+"the down" 1 1
+"a down" 1 1
+down-rased 2 2
+"the down-rased" 2 2
+"a down-rased" 2 2
+drained 1 1
+"the drained" 1 1
+"a drained" 1 1
+draw 1 1
+"the draw" 1 1
+"a draw" 1 1
+drawn 1 1
+"the drawn" 1 1
+"a drawn" 1 1
+dreading 2 2
+"the dreading" 2 2
+"a dreading" 2 2
+dream 1 1
+"the dream" 1 1
+"a dream" 1 1
+dreaming 2 2
+"the dreaming" 2 2
+"a dreaming" 2 2
+dreams 1 1
+"the dreams" 1 1
+"a dreams" 1 1
+dregs 1 1
+"the dregs" 1 1
+"a dregs" 1 1
+dress 1 1
+"the dress" 1 1
+"a dress" 1 1
+dressed 1 1
+"the dressed" 1 1
+"a dressed" 1 1
+dressing 2 2
+"the dressing" 2 2
+"a dressing" 2 2
+dressings 2 2
+"the dressings" 2 2
+"a dressings" 2 2
+drink 1 1
+"the drink" 1 1
+"a drink" 1 1
+drinks 1 1
+"the drinks" 1 1
+"a drinks" 1 1
+drooping 2 2
+"the drooping" 2 2
+"a drooping" 2 2
+drop 1 1
+"the drop" 1 1
+"a drop" 1 1
+drops 1 1
+"the drops" 1 1
+"a drops" 1 1
+dross 1 1
+"the dross" 1 1
+"a dross" 1 1
+drown 1 1
+"the drown" 1 1
+"a drown" 1 1
+drowns 1 1
+"the drowns" 1 1
+"a drowns" 1 1
+drudge 1 1
+"the drudge" 1 1
+"a drudge" 1 1
+drugs 1 1
+"the drugs" 1 1
+"a drugs" 1 1
+drunk 1 1
+"the drunk" 1 1
+"a drunk" 1 1
+dry 1 1
+"the dry" 1 1
+"a dry" 1 1
+due 1 1
+"the due" 1 1
+"a due" 1 1
+dull 1 1
+"the dull" 1 1
+"a dull" 1 1
+dulling 2 2
+"the dulling" 2 2
+"a dulling" 2 2
+dully 2 2
+"the dully" 2 2
+"a dully" 2 2
+dulness 2 1
+"the dulness" 2 1
+"a dulness" 2 1
+dumb 1 1
+"the dumb" 1 1
+"a dumb" 1 1
+dun 1 1
+"the dun" 1 1
+"a dun" 1 1
+durst 1 1
+"the durst" 1 1
+"a durst" 1 1
+dust 1 1
+"the dust" 1 1
+"a dust" 1 1
+duteous 2 2
+"the duteous" 2 2
+"a duteous" 2 2
+duty 2 2
+"the duty" 2 2
+"a duty" 2 2
+dwell 1 1
+"the dwell" 1 1
+"a dwell" 1 1
+dwellers 2 2
+"the dwellers" 2 2
+"a dwellers" 2 2
+dwells 1 1
+"the dwells" 1 1
+"a dwells" 1 1
+dye 1 1
+"the dye" 1 1
+"a dye" 1 1
+dyed 1 1
+"the dyed" 1 1
+"a dyed" 1 1
+dyer's 2 2
+"the dyer's" 2 2
+"a dyer's" 2 2
+dying 2 2
+"the dying" 2 2
+"a dying" 2 2
+each 1 1
+"the each" 1 1
+"a each" 1 1
+eager 2 2
+"the eager" 2 2
+"a eager" 2 2
+ear 1 1
+"the ear" 1 1
+"a ear" 1 1
+early 2 2
+"the early" 2 2
+"a early" 2 2
+ears 1 1
+"the ears" 1 1
+"a ears" 1 1
+earth 1 1
+"the earth" 1 1
+"a earth" 1 1
+earthly 2 2
+"the earthly" 2 2
+"a earthly" 2 2
+eased 1 1
+"the eased" 1 1
+"a eased" 1 1
+east 1 1
+"the east" 1 1
+"a east" 1 1
+easy 2 2
+"the easy" 2 2
+"a easy" 2 2
+eat 1 1
+"the eat" 1 1
+"a eat" 1 1
+eclipse 2 2
+"the eclipse" 2 2
+"a eclipse" 2 2
+eclipses 3 3
+"the eclipses" 3 3
+"a eclipses" 3 3
+edge 1 1
+"the edge" 1 1
+"a edge" 1 1
+effect 2 2
+"the effect" 2 2
+"a effect" 2 2
+effectually 4 4
+"the effectually" 4 4
+"a effectually" 4 4
+eisel 2 2
+"the eisel" 2 2
+"a eisel" 2 2
+either 2 1
+"the either" 2 1
+"a either" 2 1
+either's 2 2
+"the either's" 2 2
+"a either's" 2 2
+elder 2 2
+"the elder" 2 2
+"a elder" 2 2
+elements 3 3
+"the elements" 3 3
+"a elements" 3 3
+eloquence 3 3
+"the eloquence" 3 3
+"a eloquence" 3 3
+else 1 1
+"the else" 1 1
+"a else" 1 1
+elsewhere 2 2
+"the elsewhere" 2 2
+"a elsewhere" 2 2
+embassage 3 3
+"the embassage" 3 3
+"a embassage" 3 3
+embassy 3 3
+"the embassy" 3 3
+"a embassy" 3 3
+enclose 2 2
+"the enclose" 2 2
+"a enclose" 2 2
+end 1 1
+"the end" 1 1
+"a end" 1 1
+endeared 3 3
+"the endeared" 3 3
+"a endeared" 3 3
+ending 2 2
+"the ending" 2 2
+"a ending" 2 2
+endless 2 2
+"the endless" 2 2
+"a endless" 2 2
+endowed 2 2
+"the endowed" 2 2
+"a endowed" 2 2
+endure 2 2
+"the endure" 2 2
+"a endure" 2 2
+endured 2 2
+"the endured" 2 2
+"a endured" 2 2
+enemies 3 3
+"the enemies" 3 3
+"a enemies" 3 3
+enfeebled 3 3
+"the enfeebled" 3 3
+"a enfeebled" 3 3
+enforced 2 2
+"the enforced" 2 2
+"a enforced" 2 2
+engraft 2 2
+"the engraft" 2 2
+"a engraft" 2 2
+engrafted 3 3
+"the engrafted" 3 3
+"a engrafted" 3 3
+engrossed 2 2
+"the engrossed" 2 2
+"a engrossed" 2 2
+enjoy 2 2
+"the enjoy" 2 2
+"a enjoy" 2 2
+enjoyed 2 2
+"the enjoyed" 2 2
+"a enjoyed" 2 2
+enjoyer 3 3
+"the enjoyer" 3 3
+"a enjoyer" 3 3
+enjoys 2 2
+"the enjoys" 2 2
+"a enjoys" 2 2
+enlarged 2 2
+"the enlarged" 2 2
+"a enlarged" 2 2
+enlighten 3 3
+"the enlighten" 3 3
+"a enlighten" 3 3
+enmity 3 3
+"the enmity" 3 3
+"a enmity" 3 3
+enough 2 2
+"the enough" 2 2
+"a enough" 2 2
+enrich 2 2
+"the enrich" 2 2
+"a enrich" 2 2
+ensconce 2 2
+"the ensconce" 2 2
+"a ensconce" 2 2
+entertain 3 3
+"the entertain" 3 3
+"a entertain" 3 3
+entitled 3 3
+"the entitled" 3 3
+"a entitled" 3 3
+entombed 3 3
+"the entombed" 3 3
+"a entombed" 3 3
+envy 2 2
+"the envy" 2 2
+"a envy" 2 2
+epitaph 3 3
+"the epitaph" 3 3
+"a epitaph" 3 3
+equal 2 2
+"the equal" 2 2
+"a equal" 2 2
+equipage 3 3
+"the equipage" 3 3
+"a equipage" 3 3
+ere 1 1
+"the ere" 1 1
+"a ere" 1 1
+err 1 1
+"the err" 1 1
+"a err" 1 1
+erred 1 1
+"the erred" 1 1
+"a erred" 1 1
+error 2 2
+"the error" 2 2
+"a error" 2 2
+errors 2 2
+"the errors" 2 2
+"a errors" 2 2
+erst 1 1
+"the erst" 1 1
+"a erst" 1 1
+essays 2 2
+"the essays" 2 2
+"a essays" 2 2
+esteem 2 2
+"the esteem" 2 2
+"a esteem" 2 2
+esteemed 2 2
+"the esteemed" 2 2
+"a esteemed" 2 2
+esteeming 3 2
+"the esteeming" 3 2
+"a esteeming" 3 2
+estimate 3 3
+"the estimate" 3 3
+"a estimate" 3 3
+eternal 3 3
+"the eternal" 3 3
+"a eternal" 3 3
+eternity 4 4
+"the eternity" 4 4
+"a eternity" 4 4
+eve's 1 1
+"the eve's" 1 1
+"a eve's" 1 1
+even 2 1
+"the even" 2 1
+"a even" 2 1
+ever 2 2
+"the ever" 2 2
+"a ever" 2 2
+ever-fixed 4 4
+"the ever-fixed" 4 4
+"a ever-fixed" 4 4
+evermore 3 3
+"the evermore" 3 3
+"a evermore" 3 3
+every 2 2
+"the every" 2 2
+"a every" 2 2
+everywhere 3 3
+"the everywhere" 3 3
+"a everywhere" 3 3
+evident 3 3
+"the evident" 3 3
+"a evident" 3 3
+evil 2 1
+"the evil" 2 1
+"a evil" 2 1
+example 3 3
+"the example" 3 3
+"a example" 3 3
+exceed 2 2
+"the exceed" 2 2
+"a exceed" 2 2
+exceeded 3 3
+"the exceeded" 3 3
+"a exceeded" 3 3
+exceeds 2 2
+"the exceeds" 2 2
+"a exceeds" 2 2
+excel 2 2
+"the excel" 2 2
+"a excel" 2 2
+excellence 3 3
+"the excellence" 3 3
+"a excellence" 3 3
+excellent 3 3
+"the excellent" 3 3
+"a excellent" 3 3
+except 2 2
+"the except" 2 2
+"a except" 2 2
+excess 2 2
+"the excess" 2 2
+"a excess" 2 2
+exchanged 2 2
+"the exchanged" 2 2
+"a exchanged" 2 2
+exchequer 3 3
+"the exchequer" 3 3
+"a exchequer" 3 3
+excuse 2 2
+"the excuse" 2 2
+"a excuse" 2 2
+excusing 3 3
+"the excusing" 3 3
+"a excusing" 3 3
+executor 4 4
+"the executor" 4 4
+"a executor" 4 4
+expense 2 2
+"the expense" 2 2
+"a expense" 2 2
+expiate 3 3
+"the expiate" 3 3
+"a expiate" 3 3
+expire 2 2
+"the expire" 2 2
+"a expire" 2 2
+expired 2 2
+"the expired" 2 2
+"a expired" 2 2
+express 2 2
+"the express" 2 2
+"a express" 2 2
+expressed 2 2
+"the expressed" 2 2
+"a expressed" 2 2
+expressing 3 3
+"the expressing" 3 3
+"a expressing" 3 3
+extant 2 2
+"the extant" 2 2
+"a extant" 2 2
+extern 2 2
+"the extern" 2 2
+"a extern" 2 2
+external 3 3
+"the external" 3 3
+"a external" 3 3
+extreme 2 2
+"the extreme" 2 2
+"a extreme" 2 2
+extremity 4 4
+"the extremity" 4 4
+"a extremity" 4 4
+eye 1 1
+"the eye" 1 1
+"a eye" 1 1
+eye's 1 1
+"the eye's" 1 1
+"a eye's" 1 1
+eyed 1 1
+"the eyed" 1 1
+"a eyed" 1 1
+eyelids 2 2
+"the eyelids" 2 2
+"a eyelids" 2 2
+eyes 1 1
+"the eyes" 1 1
+"a eyes" 1 1
+face 1 1
+"the face" 1 1
+"a face" 1 1
+faces 2 1
+"the faces" 2 1
+"a faces" 2 1
+faculty 3 3
+"the faculty" 3 3
+"a faculty" 3 3
+fade 1 1
+"the fade" 1 1
+"a fade" 1 1
+fadeth 2 2
+"the fadeth" 2 2
+"a fadeth" 2 2
+fading 2 2
+"the fading" 2 2
+"a fading" 2 2
+faint 1 1
+"the faint" 1 1
+"a faint" 1 1
+fair 1 1
+"the fair" 1 1
+"a fair" 1 1
+fairer 2 2
+"the fairer" 2 2
+"a fairer" 2 2
+fairest 2 2
+"the fairest" 2 2
+"a fairest" 2 2
+fairing 2 2
+"the fairing" 2 2
+"a fairing" 2 2
+fairly 2 2
+"the fairly" 2 2
+"a fairly" 2 2
+faith 1 1
+"the faith" 1 1
+"a faith" 1 1
+fall 1 1
+"the fall" 1 1
+"a fall" 1 1
+falls 1 1
+"the falls" 1 1
+"a falls" 1 1
+false 1 1
+"the false" 1 1
+"a false" 1 1
+false-speaking 3 3
+"the false-speaking" 3 3
+"a false-speaking" 3 3
+falsehood 2 2
+"the falsehood" 2 2
+"a falsehood" 2 2
+falsely 2 2
+"the falsely" 2 2
+"a falsely" 2 2
+fame 1 1
+"the fame" 1 1
+"a fame" 1 1
+familiar 3 3
+"the familiar" 3 3
+"a familiar" 3 3
+famine 2 2
+"the famine" 2 2
+"a famine" 2 2
+famished 2 2
+"the famished" 2 2
+"a famished" 2 2
+famoused 2 2
+"the famoused" 2 2
+"a famoused" 2 2
+far 1 1
+"the far" 1 1
+"a far" 1 1
+farewell 2 2
+"the farewell" 2 2
+"a farewell" 2 2
+faring 2 2
+"the faring" 2 2
+"a faring" 2 2
+farther 2 2
+"the farther" 2 2
+"a farther" 2 2
+farthest 2 2
+"the farthest" 2 2
+"a farthest" 2 2
+fashion 2 1
+"the fashion" 2 1
+"a fashion" 2 1
+fast 1 1
+"the fast" 1 1
+"a fast" 1 1
+faster 2 2
+"the faster" 2 2
+"a faster" 2 2
+fate 1 1
+"the fate" 1 1
+"a fate" 1 1
+father 2 2
+"the father" 2 2
+"a father" 2 2
+fault 1 1
+"the fault" 1 1
+"a fault" 1 1
+faults 1 1
+"the faults" 1 1
+"a faults" 1 1
+favour 2 1
+"the favour" 2 1
+"a favour" 2 1
+favourites 3 3
+"the favourites" 3 3
+"a favourites" 3 3
+fawn 1 1
+"the fawn" 1 1
+"a fawn" 1 1
+fear 1 1
+"the fear" 1 1
+"a fear" 1 1
+fearful 2 2
+"the fearful" 2 2
+"a fearful" 2 2
+fearfully 3 3
+"the fearfully" 3 3
+"a fearfully" 3 3
+fearing 2 2
+"the fearing" 2 2
+"a fearing" 2 2
+fears 1 1
+"the fears" 1 1
+"a fears" 1 1
+feast 1 1
+"the feast" 1 1
+"a feast" 1 1
+feasting 2 2
+"the feasting" 2 2
+"a feasting" 2 2
+feasts 1 1
+"the feasts" 1 1
+"a feasts" 1 1
+feathered 2 2
+"the feathered" 2 2
+"a feathered" 2 2
+feathers 2 2
+"the feathers" 2 2
+"a feathers" 2 2
+feature 2 1
+"the feature" 2 1
+"a feature" 2 1
+featured 2 2
+"the featured" 2 2
+"a featured" 2 2
+featureless 3 3
+"the featureless" 3 3
+"a featureless" 3 3
+fed 1 1
+"the fed" 1 1
+"a fed" 1 1
+fee 1 1
+"the fee" 1 1
+"a fee" 1 1
+feeble 2 2
+"the feeble" 2 2
+"a feeble" 2 2
+feed 1 1
+"the feed" 1 1
+"a feed" 1 1
+feed'st 1 1
+"the feed'st" 1 1
+"a feed'st" 1 1
+feeding 2 1
+"the feeding" 2 1
+"a feeding" 2 1
+feeds 1 1
+"the feeds" 1 1
+"a feeds" 1 1
+feel 1 1
+"the feel" 1 1
+"a feel" 1 1
+feel'st 1 1
+"the feel'st" 1 1
+"a feel'st" 1 1
+feeling 2 2
+"the feeling" 2 2
+"a feeling" 2 2
+feil 1 1
+"the feil" 1 1
+"a feil" 1 1
+fell 1 1
+"the fell" 1 1
+"a fell" 1 1
+felt 1 1
+"the felt" 1 1
+"a felt" 1 1
+female 2 2
+"the female" 2 2
+"a female" 2 2
+fester 2 2
+"the fester" 2 2
+"a fester" 2 2
+fever 2 1
+"the fever" 2 1
+"a fever" 2 1
+few 1 1
+"the few" 1 1
+"a few" 1 1
+fickle 2 2
+"the fickle" 2 2
+"a fickle" 2 2
+field 1 1
+"the field" 1 1
+"a field" 1 1
+fiend 1 1
+"the fiend" 1 1
+"a fiend" 1 1
+fierce 1 1
+"the fierce" 1 1
+"a fierce" 1 1
+fiery 2 2
+"the fiery" 2 2
+"a fiery" 2 2
+fight 1 1
+"the fight" 1 1
+"a fight" 1 1
+figure 2 2
+"the figure" 2 2
+"a figure" 2 2
+figured 2 2
+"the figured" 2 2
+"a figured" 2 2
+figures 2 2
+"the figures" 2 2
+"a figures" 2 2
+filching 2 2
+"the filching" 2 2
+"a filching" 2 2
+filed 1 1
+"the filed" 1 1
+"a filed" 1 1
+fill 1 1
+"the fill" 1 1
+"a fill" 1 1
+filled 1 1
+"the filled" 1 1
+"a filled" 1 1
+find 1 1
+"the find" 1 1
+"a find" 1 1
+finding 2 2
+"the finding" 2 2
+"a finding" 2 2
+finds 1 1
+"the finds" 1 1
+"a finds" 1 1
+fine 1 1
+"the fine" 1 1
+"a fine" 1 1
+finger 2 2
+"the finger" 2 2
+"a finger" 2 2
+fingers 2 2
+"the fingers" 2 2
+"a fingers" 2 2
+fire 1 1
+"the fire" 1 1
+"a fire" 1 1
+firm 1 1
+"the firm" 1 1
+"a firm" 1 1
+first 1 1
+"the first" 1 1
+"a first" 1 1
+first-born 2 2
+"the first-born" 2 2
+"a first-born" 2 2
+fist 1 1
+"the fist" 1 1
+"a fist" 1 1
+fits 1 1
+"the fits" 1 1
+"a fits" 1 1
+fitted 2 1
+"the fitted" 2 1
+"a fitted" 2 1
+five 1 1
+"the five" 1 1
+"a five" 1 1
+fixed 1 1
+"the fixed" 1 1
+"a fixed" 1 1
+flame 1 1
+"the flame" 1 1
+"a flame" 1 1
+flatter 2 1
+"the flatter" 2 1
+"a flatter" 2 1
+flattered 2 2
+"the flattered" 2 2
+"a flattered" 2 2
+flatterer 3 3
+"the flatterer" 3 3
+"a flatterer" 3 3
+flattery 2 3
+"the flattery" 2 3
+"a flattery" 2 3
+fled 1 1
+"the fled" 1 1
+"a fled" 1 1
+fleece 1 1
+"the fleece" 1 1
+"a fleece" 1 1
+fleet'st 1 1
+"the fleet'st" 1 1
+"a fleet'st" 1 1
+fleeting 2 2
+"the fleeting" 2 2
+"a fleeting" 2 2
+flesh 1 1
+"the flesh" 1 1
+"a flesh" 1 1
+flies 1 1
+"the flies" 1 1
+"a flies" 1 1
+flourish 2 2
+"the flourish" 2 2
+"a flourish" 2 2
+flow 1 1
+"the flow" 1 1
+"a flow" 1 1
+flower 1 1
+"the flower" 1 1
+"a flower" 1 1
+flowers 2 1
+"the flowers" 2 1
+"a flowers" 2 1
+flown 1 1
+"the flown" 1 1
+"a flown" 1 1
+fly 1 1
+"the fly" 1 1
+"a fly" 1 1
+foe 1 1
+"the foe" 1 1
+"a foe" 1 1
+foes 1 1
+"the foes" 1 1
+"a foes" 1 1
+foiled 1 1
+"the foiled" 1 1
+"a foiled" 1 1
+foison 2 2
+"the foison" 2 2
+"a foison" 2 2
+foist 1 1
+"the foist" 1 1
+"a foist" 1 1
+follow 2 2
+"the follow" 2 2
+"a follow" 2 2
+followed 2 2
+"the followed" 2 2
+"a followed" 2 2
+follows 2 2
+"the follows" 2 2
+"a follows" 2 2
+folly 2 2
+"the folly" 2 2
+"a folly" 2 2
+fond 1 1
+"the fond" 1 1
+"a fond" 1 1
+food 1 1
+"the food" 1 1
+"a food" 1 1
+fool 1 1
+"the fool" 1 1
+"a fool" 1 1
+foolish 2 2
+"the foolish" 2 2
+"a foolish" 2 2
+fools 1 1
+"the fools" 1 1
+"a fools" 1 1
+foot 1 1
+"the foot" 1 1
+"a foot" 1 1
+for 1 1
+"the for" 1 1
+"a for" 1 1
+for't 1 1
+"the for't" 1 1
+"a for't" 1 1
+forbear 2 2
+"the forbear" 2 2
+"a forbear" 2 2
+forbid 2 2
+"the forbid" 2 2
+"a forbid" 2 2
+forbidden 3 3
+"the forbidden" 3 3
+"a forbidden" 3 3
+force 1 1
+"the force" 1 1
+"a force" 1 1
+forced 1 1
+"the forced" 1 1
+"a forced" 1 1
+fore 1 1
+"the fore" 1 1
+"a fore" 1 1
+fore-bemoaned 4 4
+"the fore-bemoaned" 4 4
+"a fore-bemoaned" 4 4
+foregone 2 2
+"the foregone" 2 2
+"a foregone" 2 2
+forests 2 2
+"the forests" 2 2
+"a forests" 2 2
+forfeit 2 2
+"the forfeit" 2 2
+"a forfeit" 2 2
+forged 2 2
+"the forged" 2 2
+"a forged" 2 2
+forget 2 2
+"the forget" 2 2
+"a forget" 2 2
+forget'st 2 2
+"the forget'st" 2 2
+"a forget'st" 2 2
+forgetful 3 3
+"the forgetful" 3 3
+"a forgetful" 3 3
+forgetfulness 4 4
+"the forgetfulness" 4 4
+"a forgetfulness" 4 4
+forgive 2 2
+"the forgive" 2 2
+"a forgive" 2 2
+forgoing 3 3
+"the forgoing" 3 3
+"a forgoing" 3 3
+forgot 2 2
+"the forgot" 2 2
+"a forgot" 2 2
+forgotten 3 2
+"the forgotten" 3 2
+"a forgotten" 3 2
+forlorn 2 2
+"the forlorn" 2 2
+"a forlorn" 2 2
+form 1 1
+"the form" 1 1
+"a form" 1 1
+former 2 2
+"the former" 2 2
+"a former" 2 2
+forsake 2 2
+"the forsake" 2 2
+"a forsake" 2 2
+forsaken 3 2
+"the forsaken" 3 2
+"a forsaken" 3 2
+forsworn 2 2
+"the forsworn" 2 2
+"a forsworn" 2 2
+forth 1 1
+"the forth" 1 1
+"a forth" 1 1
+fortify 3 3
+"the fortify" 3 3
+"a fortify" 3 3
+fortune 2 2
+"the fortune" 2 2
+"a fortune" 2 2
+fortune's 2 2
+"the fortune's" 2 2
+"a fortune's" 2 2
+forty 2 2
+"the forty" 2 2
+"a forty" 2 2
+forward 2 2
+"the forward" 2 2
+"a forward" 2 2
+forwards 2 2
+"the forwards" 2 2
+"a forwards" 2 2
+foul 1 1
+"the foul" 1 1
+"a foul" 1 1
+found 1 1
+"the found" 1 1
+"a found" 1 1
+fountains 2 2
+"the fountains" 2 2
+"a fountains" 2 2
+four 1 1
+"the four" 1 1
+"a four" 1 1
+fragrant 2 2
+"the fragrant" 2 2
+"a fragrant" 2 2
+frailer 2 2
+"the frailer" 2 2
+"a frailer" 2 2
+frailties 2 2
+"the frailties" 2 2
+"a frailties" 2 2
+frame 1 1
+"the frame" 1 1
+"a frame" 1 1
+frank 1 1
+"the frank" 1 1
+"a frank" 1 1
+frantic-mad 3 3
+"the frantic-mad" 3 3
+"a frantic-mad" 3 3
+free 1 1
+"the free" 1 1
+"a free" 1 1
+freedom 2 2
+"the freedom" 2 2
+"a freedom" 2 2
+freezings 2 2
+"the freezings" 2 2
+"a freezings" 2 2
+frequent 2 2
+"the frequent" 2 2
+"a frequent" 2 2
+fresh 1 1
+"the fresh" 1 1
+"a fresh" 1 1
+fresher 2 2
+"the fresher" 2 2
+"a fresher" 2 2
+friend 1 1
+"the friend" 1 1
+"a friend" 1 1
+friend's 1 1
+"the friend's" 1 1
+"a friend's" 1 1
+friends 1 1
+"the friends" 1 1
+"a friends" 1 1
+from 1 1
+"the from" 1 1
+"a from" 1 1
+front 1 1
+"the front" 1 1
+"a front" 1 1
+frost 1 1
+"the frost" 1 1
+"a frost" 1 1
+frown 1 1
+"the frown" 1 1
+"a frown" 1 1
+frown'st 1 1
+"the frown'st" 1 1
+"a frown'st" 1 1
+frowns 1 1
+"the frowns" 1 1
+"a frowns" 1 1
+fruit 1 1
+"the fruit" 1 1
+"a fruit" 1 1
+fuel 1 1
+"the fuel" 1 1
+"a fuel" 1 1
+fulfil 2 2
+"the fulfil" 2 2
+"a fulfil" 2 2
+full 1 1
+"the full" 1 1
+"a full" 1 1
+fulness 2 1
+"the fulness" 2 1
+"a fulness" 2 1
+function 2 2
+"the function" 2 2
+"a function" 2 2
+furrows 2 2
+"the furrows" 2 2
+"a furrows" 2 2
+fury 2 2
+"the fury" 2 2
+"a fury" 2 2
+gain 1 1
+"the gain" 1 1
+"a gain" 1 1
+gainer 2 2
+"the gainer" 2 2
+"a gainer" 2 2
+gains 1 1
+"the gains" 1 1
+"a gains" 1 1
+gait 1 1
+"the gait" 1 1
+"a gait" 1 1
+gaol 1 1
+"the gaol" 1 1
+"a gaol" 1 1
+gardens 2 2
+"the gardens" 2 2
+"a gardens" 2 2
+garments 2 2
+"the garments" 2 2
+"a garments" 2 2
+gate 1 1
+"the gate" 1 1
+"a gate" 1 1
+gates 1 1
+"the gates" 1 1
+"a gates" 1 1
+gathered 2 1
+"the gathered" 2 1
+"a gathered" 2 1
+gaudy 2 2
+"the gaudy" 2 2
+"a gaudy" 2 2
+gav'st 1 1
+"the gav'st" 1 1
+"a gav'st" 1 1
+gave 1 1
+"the gave" 1 1
+"a gave" 1 1
+gay 1 1
+"the gay" 1 1
+"a gay" 1 1
+gaze 1 1
+"the gaze" 1 1
+"a gaze" 1 1
+gazed 1 1
+"the gazed" 1 1
+"a gazed" 1 1
+gazers 2 2
+"the gazers" 2 2
+"a gazers" 2 2
+gazeth 2 1
+"the gazeth" 2 1
+"a gazeth" 2 1
+gazing 2 2
+"the gazing" 2 2
+"a gazing" 2 2
+gems 1 1
+"the gems" 1 1
+"a gems" 1 1
+general 3 2
+"the general" 3 2
+"a general" 3 2
+gentle 2 2
+"the gentle" 2 2
+"a gentle" 2 2
+gentlest 2 2
+"the gentlest" 2 2
+"a gentlest" 2 2
+gently 2 2
+"the gently" 2 2
+"a gently" 2 2
+get 1 1
+"the get" 1 1
+"a get" 1 1
+ghastly 2 2
+"the ghastly" 2 2
+"a ghastly" 2 2
+ghost 1 1
+"the ghost" 1 1
+"a ghost" 1 1
+gift 1 1
+"the gift" 1 1
+"a gift" 1 1
+gifts 1 1
+"the gifts" 1 1
+"a gifts" 1 1
+gild'st 1 1
+"the gild'st" 1 1
+"a gild'st" 1 1
+gilded 2 2
+"the gilded" 2 2
+"a gilded" 2 2
+gilding 2 2
+"the gilding" 2 2
+"a gilding" 2 2
+girded 2 2
+"the girded" 2 2
+"a girded" 2 2
+give 1 1
+"the give" 1 1
+"a give" 1 1
+given 2 1
+"the given" 2 1
+"a given" 2 1
+gives 1 1
+"the gives" 1 1
+"a gives" 1 1
+giving 2 2
+"the giving" 2 2
+"a giving" 2 2
+glad 1 1
+"the glad" 1 1
+"a glad" 1 1
+gladly 2 1
+"the gladly" 2 1
+"a gladly" 2 1
+glance 1 1
+"the glance" 1 1
+"a glance" 1 1
+glass 1 1
+"the glass" 1 1
+"a glass" 1 1
+glazed 2 2
+"the glazed" 2 2
+"a glazed" 2 2
+glorious 2 2
+"the glorious" 2 2
+"a glorious" 2 2
+glory 2 1
+"the glory" 2 1
+"a glory" 2 1
+glowing 2 2
+"the glowing" 2 2
+"a glowing" 2 2
+glutton 2 2
+"the glutton" 2 2
+"a glutton" 2 2
+gluttoning 3 3
+"the gluttoning" 3 3
+"a gluttoning" 3 3
+go 1 1
+"the go" 1 1
+"a go" 1 1
+god 1 1
+"the god" 1 1
+"a god" 1 1
+goddess 2 2
+"the goddess" 2 2
+"a goddess" 2 2
+goes 1 1
+"the goes" 1 1
+"a goes" 1 1
+goest 1 1
+"the goest" 1 1
+"a goest" 1 1
+going 2 2
+"the going" 2 2
+"a going" 2 2
+gold 1 1
+"the gold" 1 1
+"a gold" 1 1
+golden 2 2
+"the golden" 2 2
+"a golden" 2 2
+gone 1 1
+"the gone" 1 1
+"a gone" 1 1
+good 1 1
+"the good" 1 1
+"a good" 1 1
+goodly 2 2
+"the goodly" 2 2
+"a goodly" 2 2
+goodness 2 2
+"the goodness" 2 2
+"a goodness" 2 2
+gored 1 1
+"the gored" 1 1
+"a gored" 1 1
+got 1 1
+"the got" 1 1
+"a got" 1 1
+governs 2 2
+"the governs" 2 2
+"a governs" 2 2
+grace 1 1
+"the grace" 1 1
+"a grace" 1 1
+graced 2 2
+"the graced" 2 2
+"a graced" 2 2
+graces 2 1
+"the graces" 2 1
+"a graces" 2 1
+gracious 2 3
+"the gracious" 2 3
+"a gracious" 2 3
+graciously 3 3
+"the graciously" 3 3
+"a graciously" 3 3
+grant 1 1
+"the grant" 1 1
+"a grant" 1 1
+granting 2 1
+"the granting" 2 1
+"a granting" 2 1
+grave 1 1
+"the grave" 1 1
+"a grave" 1 1
+graven 2 2
+"the graven" 2 2
+"a graven" 2 2
+graves 1 1
+"the graves" 1 1
+"a graves" 1 1
+gravity 3 3
+"the gravity" 3 3
+"a gravity" 3 3
+great 1 1
+"the great" 1 1
+"a great" 1 1
+greater 2 1
+"the greater" 2 1
+"a greater" 2 1
+greatest 2 2
+"the greatest" 2 2
+"a greatest" 2 2
+grecian 2 2
+"the grecian" 2 2
+"a grecian" 2 2
+green 1 1
+"the green" 1 1
+"a green" 1 1
+greet 1 1
+"the greet" 1 1
+"a greet" 1 1
+grew 1 1
+"the grew" 1 1
+"a grew" 1 1
+grey 1 1
+"the grey" 1 1
+"a grey" 1 1
+grief 1 1
+"the grief" 1 1
+"a grief" 1 1
+grief's 1 1
+"the grief's" 1 1
+"a grief's" 1 1
+griefs 1 1
+"the griefs" 1 1
+"a griefs" 1 1
+grievances 3 3
+"the grievances" 3 3
+"a grievances" 3 3
+grieve 1 1
+"the grieve" 1 1
+"a grieve" 1 1
+grieved 1 1
+"the grieved" 1 1
+"a grieved" 1 1
+grind 1 1
+"the grind" 1 1
+"a grind" 1 1
+groan 1 1
+"the groan" 1 1
+"a groan" 1 1
+groans 1 1
+"the groans" 1 1
+"a groans" 1 1
+gross 1 1
+"the gross" 1 1
+"a gross" 1 1
+grossly 2 2
+"the grossly" 2 2
+"a grossly" 2 2
+ground 1 1
+"the ground" 1 1
+"a ground" 1 1
+grounded 2 2
+"the grounded" 2 2
+"a grounded" 2 2
+grow 1 1
+"the grow" 1 1
+"a grow" 1 1
+grow'st 1 1
+"the grow'st" 1 1
+"a grow'st" 1 1
+growing 2 1
+"the growing" 2 1
+"a growing" 2 1
+grown 1 1
+"the grown" 1 1
+"a grown" 1 1
+grows 1 1
+"the grows" 1 1
+"a grows" 1 1
+growth 1 1
+"the growth" 1 1
+"a growth" 1 1
+guard 1 1
+"the guard" 1 1
+"a guard" 1 1
+guess 1 1
+"the guess" 1 1
+"a guess" 1 1
+guest 1 1
+"the guest" 1 1
+"a guest" 1 1
+guides 1 1
+"the guides" 1 1
+"a guides" 1 1
+guilt 1 1
+"the guilt" 1 1
+"a guilt" 1 1
+guilty 2 2
+"the guilty" 2 2
+"a guilty" 2 2
+gulls 1 1
+"the gulls" 1 1
+"a gulls" 1 1
+gust 1 1
+"the gust" 1 1
+"a gust" 1 1
+gusts 1 1
+"the gusts" 1 1
+"a gusts" 1 1
+habit 2 2
+"the habit" 2 2
+"a habit" 2 2
+habitation 4 4
+"the habitation" 4 4
+"a habitation" 4 4
+had 1 1
+"the had" 1 1
+"a had" 1 1
+hadst 1 1
+"the hadst" 1 1
+"a hadst" 1 1
+hair 1 1
+"the hair" 1 1
+"a hair" 1 1
+hairs 1 1
+"the hairs" 1 1
+"a hairs" 1 1
+half 1 1
+"the half" 1 1
+"a half" 1 1
+hallowed 2 2
+"the hallowed" 2 2
+"a hallowed" 2 2
+halt 1 1
+"the halt" 1 1
+"a halt" 1 1
+hammered 2 2
+"the hammered" 2 2
+"a hammered" 2 2
+hand 1 1
+"the hand" 1 1
+"a hand" 1 1
+hands 1 1
+"the hands" 1 1
+"a hands" 1 1
+hang 1 1
+"the hang" 1 1
+"a hang" 1 1
+hanging 2 2
+"the hanging" 2 2
+"a hanging" 2 2
+hap 1 1
+"the hap" 1 1
+"a hap" 1 1
+haply 2 2
+"the haply" 2 2
+"a haply" 2 2
+happier 2 2
+"the happier" 2 2
+"a happier" 2 2
+happies 2 2
+"the happies" 2 2
+"a happies" 2 2
+happy 2 2
+"the happy" 2 2
+"a happy" 2 2
+hard 1 1
+"the hard" 1 1
+"a hard" 1 1
+harder 2 2
+"the harder" 2 2
+"a harder" 2 2
+hardest 2 2
+"the hardest" 2 2
+"a hardest" 2 2
+harmful 2 2
+"the harmful" 2 2
+"a harmful" 2 2
+harsh 1 1
+"the harsh" 1 1
+"a harsh" 1 1
+harvest 2 2
+"the harvest" 2 2
+"a harvest" 2 2
+hast 1 1
+"the hast" 1 1
+"a hast" 1 1
+haste 1 1
+"the haste" 1 1
+"a haste" 1 1
+hasten 2 2
+"the hasten" 2 2
+"a hasten" 2 2
+hate 1 1
+"the hate" 1 1
+"a hate" 1 1
+hate's 1 1
+"the hate's" 1 1
+"a hate's" 1 1
+hated 2 2
+"the hated" 2 2
+"a hated" 2 2
+hateth 2 2
+"the hateth" 2 2
+"a hateth" 2 2
+hath 1 1
+"the hath" 1 1
+"a hath" 1 1
+hatred 2 2
+"the hatred" 2 2
+"a hatred" 2 2
+have 1 1
+"the have" 1 1
+"a have" 1 1
+having 2 2
+"the having" 2 2
+"a having" 2 2
+hawks 1 1
+"the hawks" 1 1
+"a hawks" 1 1
+he 1 1
+"the he" 1 1
+"a he" 1 1
+he's 1 1
+"the he's" 1 1
+"a he's" 1 1
+head 1 1
+"the head" 1 1
+"a head" 1 1
+heals 1 1
+"the heals" 1 1
+"a heals" 1 1
+health 1 1
+"the health" 1 1
+"a health" 1 1
+healthful 2 2
+"the healthful" 2 2
+"a healthful" 2 2
+hear 1 1
+"the hear" 1 1
+"a hear" 1 1
+hear'st 1 1
+"the hear'st" 1 1
+"a hear'st" 1 1
+heard 1 1
+"the heard" 1 1
+"a heard" 1 1
+hearing 2 2
+"the hearing" 2 2
+"a hearing" 2 2
+hearsay 2 2
+"the hearsay" 2 2
+"a hearsay" 2 2
+heart 1 1
+"the heart" 1 1
+"a heart" 1 1
+heart's 1 1
+"the heart's" 1 1
+"a heart's" 1 1
+heart-inflaming 4 4
+"the heart-inflaming" 4 4
+"a heart-inflaming" 4 4
+hearts 1 1
+"the hearts" 1 1
+"a hearts" 1 1
+heat 1 1
+"the heat" 1 1
+"a heat" 1 1
+heats 1 1
+"the heats" 1 1
+"a heats" 1 1
+heaven 2 1
+"the heaven" 2 1
+"a heaven" 2 1
+heaven's 2 1
+"the heaven's" 2 1
+"a heaven's" 2 1
+heavenly 2 2
+"the heavenly" 2 2
+"a heavenly" 2 2
+heavily 3 3
+"the heavily" 3 3
+"a heavily" 3 3
+heavy 2 2
+"the heavy" 2 2
+"a heavy" 2 2
+heed 1 1
+"the heed" 1 1
+"a heed" 1 1
+height 1 1
+"the height" 1 1
+"a height" 1 1
+heinous 2 2
+"the heinous" 2 2
+"a heinous" 2 2
+heir 1 1
+"the heir" 1 1
+"a heir" 1 1
+held 1 1
+"the held" 1 1
+"a held" 1 1
+helen's 2 2
+"the helen's" 2 2
+"a helen's" 2 2
+hell 1 1
+"the hell" 1 1
+"a hell" 1 1
+help 1 1
+"the help" 1 1
+"a help" 1 1
+hems 1 1
+"the hems" 1 1
+"a hems" 1 1
+hence 1 1
+"the hence" 1 1
+"a hence" 1 1
+her 1 1
+"the her" 1 1
+"a her" 1 1
+herald 2 2
+"the herald" 2 2
+"a herald" 2 2
+herd 1 1
+"the herd" 1 1
+"a herd" 1 1
+here 1 1
+"the here" 1 1
+"a here" 1 1
+here's 1 1
+"the here's" 1 1
+"a here's" 1 1
+herein 2 2
+"the herein" 2 2
+"a herein" 2 2
+heretic 3 3
+"the heretic" 3 3
+"a heretic" 3 3
+hers 1 1
+"the hers" 1 1
+"a hers" 1 1
+herself 2 2
+"the herself" 2 2
+"a herself" 2 2
+hid 1 1
+"the hid" 1 1
+"a hid" 1 1
+hidden 2 2
+"the hidden" 2 2
+"a hidden" 2 2
+hide 1 1
+"the hide" 1 1
+"a hide" 1 1
+hideous 2 2
+"the hideous" 2 2
+"a hideous" 2 2
+hides 1 1
+"the hides" 1 1
+"a hides" 1 1
+hiding 2 2
+"the hiding" 2 2
+"a hiding" 2 2
+hied 1 1
+"the hied" 1 1
+"a hied" 1 1
+high 1 1
+"the high" 1 1
+"a high" 1 1
+highmost 2 2
+"the highmost" 2 2
+"a highmost" 2 2
+hill 1 1
+"the hill" 1 1
+"a hill" 1 1
+him 1 1
+"the him" 1 1
+"a him" 1 1
+himself 2 2
+"the himself" 2 2
+"a himself" 2 2
+hindmost 2 2
+"the hindmost" 2 2
+"a hindmost" 2 2
+his 1 1
+"the his" 1 1
+"a his" 1 1
+history 3 3
+"the history" 3 3
+"a history" 3 3
+hits 1 1
+"the hits" 1 1
+"a hits" 1 1
+hoisted 2 2
+"the hoisted" 2 2
+"a hoisted" 2 2
+hold 1 1
+"the hold" 1 1
+"a hold" 1 1
+holds 1 1
+"the holds" 1 1
+"a holds" 1 1
+holy 2 2
+"the holy" 2 2
+"a holy" 2 2
+homage 2 2
+"the homage" 2 2
+"a homage" 2 2
+home 1 1
+"the home" 1 1
+"a home" 1 1
+honest 2 2
+"the honest" 2 2
+"a honest" 2 2
+honey 2 2
+"the honey" 2 2
+"a honey" 2 2
+honour 2 2
+"the honour" 2 2
+"a honour" 2 2
+honouring 3 3
+"the honouring" 3 3
+"a honouring" 3 3
+hooks 1 1
+"the hooks" 1 1
+"a hooks" 1 1
+hope 1 1
+"the hope" 1 1
+"a hope" 1 1
+hopes 1 1
+"the hopes" 1 1
+"a hopes" 1 1
+horse 1 1
+"the horse" 1 1
+"a horse" 1 1
+horses 2 2
+"the horses" 2 2
+"a horses" 2 2
+hot 1 1
+"the hot" 1 1
+"a hot" 1 1
+hounds 1 1
+"the hounds" 1 1
+"a hounds" 1 1
+hour 1 1
+"the hour" 1 1
+"a hour" 1 1
+hours 2 1
+"the hours" 2 1
+"a hours" 2 1
+house 1 1
+"the house" 1 1
+"a house" 1 1
+how 1 1
+"the how" 1 1
+"a how" 1 1
+hue 1 1
+"the hue" 1 1
+"a hue" 1 1
+hues 1 1
+"the hues" 1 1
+"a hues" 1 1
+huge 1 1
+"the huge" 1 1
+"a huge" 1 1
+hugely 2 2
+"the hugely" 2 2
+"a hugely" 2 2
+humble 2 2
+"the humble" 2 2
+"a humble" 2 2
+humour 2 2
+"the humour" 2 2
+"a humour" 2 2
+hundred 2 2
+"the hundred" 2 2
+"a hundred" 2 2
+hung 1 1
+"the hung" 1 1
+"a hung" 1 1
+hungry 2 2
+"the hungry" 2 2
+"a hungry" 2 2
+hunted 2 2
+"the hunted" 2 2
+"a hunted" 2 2
+hurt 1 1
+"the hurt" 1 1
+"a hurt" 1 1
+husband 2 2
+"the husband" 2 2
+"a husband" 2 2
+husband's 2 2
+"the husband's" 2 2
+"a husband's" 2 2
+husbandry 3 3
+"the husbandry" 3 3
+"a husbandry" 3 3
+hush 1 1
+"the hush" 1 1
+"a hush" 1 1
+huswife 2 2
+"the huswife" 2 2
+"a huswife" 2 2
+hymn 1 1
+"the hymn" 1 1
+"a hymn" 1 1
+hymns 1 1
+"the hymns" 1 1
+"a hymns" 1 1
+i 1 1
+"the i" 1 1
+"a i" 1 1
+i'll 1 1
+"the i'll" 1 1
+"a i'll" 1 1
+idle 2 2
+"the idle" 2 2
+"a idle" 2 2
+idly 2 2
+"the idly" 2 2
+"a idly" 2 2
+idol 2 2
+"the idol" 2 2
+"a idol" 2 2
+idolatry 4 4
+"the idolatry" 4 4
+"a idolatry" 4 4
+if 1 1
+"the if" 1 1
+"a if" 1 1
+ignorance 3 3
+"the ignorance" 3 3
+"a ignorance" 3 3
+ill 1 1
+"the ill" 1 1
+"a ill" 1 1
+ill-used 2 2
+"the ill-used" 2 2
+"a ill-used" 2 2
+ill-wresting 3 3
+"the ill-wresting" 3 3
+"a ill-wresting" 3 3
+ills 1 1
+"the ills" 1 1
+"a ills" 1 1
+image 2 2
+"the image" 2 2
+"a image" 2 2
+images 3 3
+"the images" 3 3
+"a images" 3 3
+imaginary 5 5
+"the imaginary" 5 5
+"a imaginary" 5 5
+imitate 3 3
+"the imitate" 3 3
+"a imitate" 3 3
+imitated 4 4
+"the imitated" 4 4
+"a imitated" 4 4
+immortal 3 3
+"the immortal" 3 3
+"a immortal" 3 3
+immured 3 3
+"the immured" 3 3
+"a immured" 3 3
+impair 2 2
+"the impair" 2 2
+"a impair" 2 2
+impanelled 4 4
+"the impanelled" 4 4
+"a impanelled" 4 4
+impart 2 2
+"the impart" 2 2
+"a impart" 2 2
+impeached 2 2
+"the impeached" 2 2
+"a impeached" 2 2
+impediments 4 4
+"the impediments" 4 4
+"a impediments" 4 4
+imperfect 3 3
+"the imperfect" 3 3
+"a imperfect" 3 3
+impiety 4 4
+"the impiety" 4 4
+"a impiety" 4 4
+import 2 2
+"the import" 2 2
+"a import" 2 2
+importune 3 3
+"the importune" 3 3
+"a importune" 3 3
+impregnable 4 4
+"the impregnable" 4 4
+"a impregnable" 4 4
+impression 3 3
+"the impression" 3 3
+"a impression" 3 3
+imprint 2 2
+"the imprint" 2 2
+"a imprint" 2 2
+imprisoned 3 3
+"the imprisoned" 3 3
+"a imprisoned" 3 3
+impute 2 2
+"the impute" 2 2
+"a impute" 2 2
+in 1 1
+"the in" 1 1
+"a in" 1 1
+incapable 4 4
+"the incapable" 4 4
+"a incapable" 4 4
+incertainties 4 4
+"the incertainties" 4 4
+"a incertainties" 4 4
+incertainty 4 4
+"the incertainty" 4 4
+"a incertainty" 4 4
+inconstant 3 3
+"the inconstant" 3 3
+"a inconstant" 3 3
+increase 2 2
+"the increase" 2 2
+"a increase" 2 2
+increasing 3 3
+"the increasing" 3 3
+"a increasing" 3 3
+indeed 2 2
+"the indeed" 2 2
+"a indeed" 2 2
+indigest 3 3
+"the indigest" 3 3
+"a indigest" 3 3
+indirectly 4 4
+"the indirectly" 4 4
+"a indirectly" 4 4
+infant's 2 2
+"the infant's" 2 2
+"a infant's" 2 2
+infection 3 2
+"the infection" 3 2
+"a infection" 3 2
+inferior 3 3
+"the inferior" 3 3
+"a inferior" 3 3
+influence 3 2
+"the influence" 3 2
+"a influence" 3 2
+informer 3 3
+"the informer" 3 3
+"a informer" 3 3
+inhabit 3 3
+"the inhabit" 3 3
+"a inhabit" 3 3
+inhearse 2 2
+"the inhearse" 2 2
+"a inhearse" 2 2
+inherit 3 3
+"the inherit" 3 3
+"a inherit" 3 3
+inheritors 4 4
+"the inheritors" 4 4
+"a inheritors" 4 4
+iniquity 4 4
+"the iniquity" 4 4
+"a iniquity" 4 4
+injuries 3 3
+"the injuries" 3 3
+"a injuries" 3 3
+injurious 3 3
+"the injurious" 3 3
+"a injurious" 3 3
+injury 3 3
+"the injury" 3 3
+"a injury" 3 3
+ink 1 1
+"the ink" 1 1
+"a ink" 1 1
+instant 2 2
+"the instant" 2 2
+"a instant" 2 2
+instinct 2 2
+"the instinct" 2 2
+"a instinct" 2 2
+insufficiency 5 5
+"the insufficiency" 5 5
+"a insufficiency" 5 5
+insults 2 2
+"the insults" 2 2
+"a insults" 2 2
+intelligence 4 4
+"the intelligence" 4 4
+"a intelligence" 4 4
+intend 2 2
+"the intend" 2 2
+"a intend" 2 2
+intents 2 2
+"the intents" 2 2
+"a intents" 2 2
+interchange 3 3
+"the interchange" 3 3
+"a interchange" 3 3
+interest 2 3
+"the interest" 2 3
+"a interest" 2 3
+interim 2 2
+"the interim" 2 2
+"a interim" 2 2
+intermixed 3 3
+"the intermixed" 3 3
+"a intermixed" 3 3
+into 2 2
+"the into" 2 2
+"a into" 2 2
+invent 2 2
+"the invent" 2 2
+"a invent" 2 2
+invention 3 3
+"the invention" 3 3
+"a invention" 3 3
+invited 3 2
+"the invited" 3 2
+"a invited" 3 2
+inviting 3 3
+"the inviting" 3 3
+"a inviting" 3 3
+invocate 3 3
+"the invocate" 3 3
+"a invocate" 3 3
+invoked 2 2
+"the invoked" 2 2
+"a invoked" 2 2
+inward 2 2
+"the inward" 2 2
+"a inward" 2 2
+is 1 1
+"the is" 1 1
+"a is" 1 1
+is't 1 1
+"the is't" 1 1
+"a is't" 1 1
+issue 2 2
+"the issue" 2 2
+"a issue" 2 2
+issueless 3 3
+"the issueless" 3 3
+"a issueless" 3 3
+it 1 1
+"the it" 1 1
+"a it" 1 1
+jacks 1 1
+"the jacks" 1 1
+"a jacks" 1 1
+jade 1 1
+"the jade" 1 1
+"a jade" 1 1
+jaws 1 1
+"the jaws" 1 1
+"a jaws" 1 1
+jealous 2 2
+"the jealous" 2 2
+"a jealous" 2 2
+jealousy 3 3
+"the jealousy" 3 3
+"a jealousy" 3 3
+jewel 2 1
+"the jewel" 2 1
+"a jewel" 2 1
+jewels 2 2
+"the jewels" 2 2
+"a jewels" 2 2
+join 1 1
+"the join" 1 1
+"a join" 1 1
+jollity 3 3
+"the jollity" 3 3
+"a jollity" 3 3
+journey 2 2
+"the journey" 2 2
+"a journey" 2 2
+joy 1 1
+"the joy" 1 1
+"a joy" 1 1
+judgement 2 2
+"the judgement" 2 2
+"a judgement" 2 2
+judgment 2 2
+"the judgment" 2 2
+"a judgment" 2 2
+judgment's 2 2
+"the judgment's" 2 2
+"a judgment's" 2 2
+jump 1 1
+"the jump" 1 1
+"a jump" 1 1
+junes 1 1
+"the junes" 1 1
+"a junes" 1 1
+just 1 1
+"the just" 1 1
+"a just" 1 1
+justify 3 3
+"the justify" 3 3
+"a justify" 3 3
+keen 1 1
+"the keen" 1 1
+"a keen" 1 1
+keep 1 1
+"the keep" 1 1
+"a keep" 1 1
+keep'st 1 1
+"the keep'st" 1 1
+"a keep'st" 1 1
+keeps 1 1
+"the keeps" 1 1
+"a keeps" 1 1
+kept 1 1
+"the kept" 1 1
+"a kept" 1 1
+key 1 1
+"the key" 1 1
+"a key" 1 1
+kill 1 1
+"the kill" 1 1
+"a kill" 1 1
+kills 1 1
+"the kills" 1 1
+"a kills" 1 1
+kind 1 1
+"the kind" 1 1
+"a kind" 1 1
+kind-hearted 3 3
+"the kind-hearted" 3 3
+"a kind-hearted" 3 3
+kindness 2 1
+"the kindness" 2 1
+"a kindness" 2 1
+kinds 1 1
+"the kinds" 1 1
+"a kinds" 1 1
+king 1 1
+"the king" 1 1
+"a king" 1 1
+kingdom 2 2
+"the kingdom" 2 2
+"a kingdom" 2 2
+kingdoms 2 2
+"the kingdoms" 2 2
+"a kingdoms" 2 2
+kingly 2 2
+"the kingly" 2 2
+"a kingly" 2 2
+kings 1 1
+"the kings" 1 1
+"a kings" 1 1
+kiss 1 1
+"the kiss" 1 1
+"a kiss" 1 1
+kissing 2 2
+"the kissing" 2 2
+"a kissing" 2 2
+knew 1 1
+"the knew" 1 1
+"a knew" 1 1
+knife 1 1
+"the knife" 1 1
+"a knife" 1 1
+knights 1 1
+"the knights" 1 1
+"a knights" 1 1
+knit 1 1
+"the knit" 1 1
+"a knit" 1 1
+know 1 1
+"the know" 1 1
+"a know" 1 1
+know'st 1 1
+"the know'st" 1 1
+"a know'st" 1 1
+knowing 2 1
+"the knowing" 2 1
+"a knowing" 2 1
+knowledge 2 2
+"the knowledge" 2 2
+"a knowledge" 2 2
+known 1 1
+"the known" 1 1
+"a known" 1 1
+knows 1 1
+"the knows" 1 1
+"a knows" 1 1
+labouring 2 2
+"the labouring" 2 2
+"a labouring" 2 2
+lace 1 1
+"the lace" 1 1
+"a lace" 1 1
+lack 1 1
+"the lack" 1 1
+"a lack" 1 1
+lacked 1 1
+"the lacked" 1 1
+"a lacked" 1 1
+lacking 2 2
+"the lacking" 2 2
+"a lacking" 2 2
+ladies 2 2
+"the ladies" 2 2
+"a ladies" 2 2
+laid 1 1
+"the laid" 1 1
+"a laid" 1 1
+lamb 1 1
+"the lamb" 1 1
+"a lamb" 1 1
+lambs 1 1
+"the lambs" 1 1
+"a lambs" 1 1
+lame 1 1
+"the lame" 1 1
+"a lame" 1 1
+lameness 2 2
+"the lameness" 2 2
+"a lameness" 2 2
+land 1 1
+"the land" 1 1
+"a land" 1 1
+languished 2 2
+"the languished" 2 2
+"a languished" 2 2
+lap 1 1
+"the lap" 1 1
+"a lap" 1 1
+large 1 1
+"the large" 1 1
+"a large" 1 1
+largess 2 2
+"the largess" 2 2
+"a largess" 2 2
+lark 1 1
+"the lark" 1 1
+"a lark" 1 1
+lascivious 3 3
+"the lascivious" 3 3
+"a lascivious" 3 3
+last 1 1
+"the last" 1 1
+"a last" 1 1
+lasting 2 2
+"the lasting" 2 2
+"a lasting" 2 2
+latch 1 1
+"the latch" 1 1
+"a latch" 1 1
+late 1 1
+"the late" 1 1
+"a late" 1 1
+laughed 1 1
+"the laughed" 1 1
+"a laughed" 1 1
+lawful 2 2
+"the lawful" 2 2
+"a lawful" 2 2
+laws 1 1
+"the laws" 1 1
+"a laws" 1 1
+lay 1 1
+"the lay" 1 1
+"a lay" 1 1
+lays 1 1
+"the lays" 1 1
+"a lays" 1 1
+lead 1 1
+"the lead" 1 1
+"a lead" 1 1
+leads 1 1
+"the leads" 1 1
+"a leads" 1 1
+league 1 1
+"the league" 1 1
+"a league" 1 1
+lean 1 1
+"the lean" 1 1
+"a lean" 1 1
+leap 1 1
+"the leap" 1 1
+"a leap" 1 1
+leaped 1 1
+"the leaped" 1 1
+"a leaped" 1 1
+learn 1 1
+"the learn" 1 1
+"a learn" 1 1
+learned 1 1
+"the learned" 1 1
+"a learned" 1 1
+learned's 2 2
+"the learned's" 2 2
+"a learned's" 2 2
+learning 2 2
+"the learning" 2 2
+"a learning" 2 2
+lease 1 1
+"the lease" 1 1
+"a lease" 1 1
+leases 2 2
+"the leases" 2 2
+"a leases" 2 2
+least 1 1
+"the least" 1 1
+"a least" 1 1
+leave 1 1
+"the leave" 1 1
+"a leave" 1 1
+leaves 1 1
+"the leaves" 1 1
+"a leaves" 1 1
+leaving 2 2
+"the leaving" 2 2
+"a leaving" 2 2
+leese 1 1
+"the leese" 1 1
+"a leese" 1 1
+left 1 1
+"the left" 1 1
+"a left" 1 1
+legacy 3 3
+"the legacy" 3 3
+"a legacy" 3 3
+legions 2 2
+"the legions" 2 2
+"a legions" 2 2
+leisure 2 1
+"the leisure" 2 1
+"a leisure" 2 1
+lend 1 1
+"the lend" 1 1
+"a lend" 1 1
+lends 1 1
+"the lends" 1 1
+"a lends" 1 1
+length 1 1
+"the length" 1 1
+"a length" 1 1
+lengths 1 1
+"the lengths" 1 1
+"a lengths" 1 1
+less 1 1
+"the less" 1 1
+"a less" 1 1
+lesser 2 2
+"the lesser" 2 2
+"a lesser" 2 2
+lesson 2 2
+"the lesson" 2 2
+"a lesson" 2 2
+lest 1 1
+"the lest" 1 1
+"a lest" 1 1
+let 1 1
+"the let" 1 1
+"a let" 1 1
+lets 1 1
+"the lets" 1 1
+"a lets" 1 1
+level 2 1
+"the level" 2 1
+"a level" 2 1
+liberty 3 3
+"the liberty" 3 3
+"a liberty" 3 3
+lie 1 1
+"the lie" 1 1
+"a lie" 1 1
+lies 1 1
+"the lies" 1 1
+"a lies" 1 1
+life 1 1
+"the life" 1 1
+"a life" 1 1
+life's 1 1
+"the life's" 1 1
+"a life's" 1 1
+lifts 1 1
+"the lifts" 1 1
+"a lifts" 1 1
+light 1 1
+"the light" 1 1
+"a light" 1 1
+light's 1 1
+"the light's" 1 1
+"a light's" 1 1
+like 1 1
+"the like" 1 1
+"a like" 1 1
+likeness 2 2
+"the likeness" 2 2
+"a likeness" 2 2
+liker 2 2
+"the liker" 2 2
+"a liker" 2 2
+lilies 2 2
+"the lilies" 2 2
+"a lilies" 2 2
+lily 2 2
+"the lily" 2 2
+"a lily" 2 2
+lily's 2 2
+"the lily's" 2 2
+"a lily's" 2 2
+limbecks 2 2
+"the limbecks" 2 2
+"a limbecks" 2 2
+limbs 1 1
+"the limbs" 1 1
+"a limbs" 1 1
+limit 2 2
+"the limit" 2 2
+"a limit" 2 2
+limits 2 2
+"the limits" 2 2
+"a limits" 2 2
+limping 2 2
+"the limping" 2 2
+"a limping" 2 2
+line 1 1
+"the line" 1 1
+"a line" 1 1
+lines 1 1
+"the lines" 1 1
+"a lines" 1 1
+linger 2 2
+"the linger" 2 2
+"a linger" 2 2
+lion's 2 2
+"the lion's" 2 2
+"a lion's" 2 2
+lip 1 1
+"the lip" 1 1
+"a lip" 1 1
+lips 1 1
+"the lips" 1 1
+"a lips" 1 1
+liquid 2 2
+"the liquid" 2 2
+"a liquid" 2 2
+list 1 1
+"the list" 1 1
+"a list" 1 1
+little 2 2
+"the little" 2 2
+"a little" 2 2
+live 1 1
+"the live" 1 1
+"a live" 1 1
+lived 1 1
+"the lived" 1 1
+"a lived" 1 1
+lively 2 2
+"the lively" 2 2
+"a lively" 2 2
+livery 3 3
+"the livery" 3 3
+"a livery" 3 3
+lives 1 1
+"the lives" 1 1
+"a lives" 1 1
+living 2 2
+"the living" 2 2
+"a living" 2 2
+lo 1 1
+"the lo" 1 1
+"a lo" 1 1
+loan 1 1
+"the loan" 1 1
+"a loan" 1 1
+loathsome 2 2
+"the loathsome" 2 2
+"a loathsome" 2 2
+locked 1 1
+"the locked" 1 1
+"a locked" 1 1
+lodged 1 1
+"the lodged" 1 1
+"a lodged" 1 1
+lofty 2 2
+"the lofty" 2 2
+"a lofty" 2 2
+long 1 1
+"the long" 1 1
+"a long" 1 1
+long-lived 2 2
+"the long-lived" 2 2
+"a long-lived" 2 2
+longer 2 1
+"the longer" 2 1
+"a longer" 2 1
+longing 2 2
+"the longing" 2 2
+"a longing" 2 2
+look 1 1
+"the look" 1 1
+"a look" 1 1
+looked 1 1
+"the looked" 1 1
+"a looked" 1 1
+looking 2 2
+"the looking" 2 2
+"a looking" 2 2
+looks 1 1
+"the looks" 1 1
+"a looks" 1 1
+lord 1 1
+"the lord" 1 1
+"a lord" 1 1
+lords 1 1
+"the lords" 1 1
+"a lords" 1 1
+lose 1 1
+"the lose" 1 1
+"a lose" 1 1
+losing 2 2
+"the losing" 2 2
+"a losing" 2 2
+loss 1 1
+"the loss" 1 1
+"a loss" 1 1
+losses 2 2
+"the losses" 2 2
+"a losses" 2 2
+lost 1 1
+"the lost" 1 1
+"a lost" 1 1
+loud 1 1
+"the loud" 1 1
+"a loud" 1 1
+lour'st 1 1
+"the lour'st" 1 1
+"a lour'st" 1 1
+lov'st 1 1
+"the lov'st" 1 1
+"a lov'st" 1 1
+love 1 1
+"the love" 1 1
+"a love" 1 1
+love's 1 1
+"the love's" 1 1
+"a love's" 1 1
+love-god 2 2
+"the love-god" 2 2
+"a love-god" 2 2
+love-kindling 3 3
+"the love-kindling" 3 3
+"a love-kindling" 3 3
+love-suit 2 2
+"the love-suit" 2 2
+"a love-suit" 2 2
+loved 1 1
+"the loved" 1 1
+"a loved" 1 1
+loveliness 3 3
+"the loveliness" 3 3
+"a loveliness" 3 3
+lovely 2 2
+"the lovely" 2 2
+"a lovely" 2 2
+lover 2 1
+"the lover" 2 1
+"a lover" 2 1
+lover's 2 2
+"the lover's" 2 2
+"a lover's" 2 2
+lovers 2 2
+"the lovers" 2 2
+"a lovers" 2 2
+loves 1 1
+"the loves" 1 1
+"a loves" 1 1
+loving 2 1
+"the loving" 2 1
+"a loving" 2 1
+low 1 1
+"the low" 1 1
+"a low" 1 1
+luck 1 1
+"the luck" 1 1
+"a luck" 1 1
+lust 1 1
+"the lust" 1 1
+"a lust" 1 1
+lusty 2 2
+"the lusty" 2 2
+"a lusty" 2 2
+lying 2 2
+"the lying" 2 2
+"a lying" 2 2
+mad 1 1
+"the mad" 1 1
+"a mad" 1 1
+madding 2 2
+"the madding" 2 2
+"a madding" 2 2
+made 1 1
+"the made" 1 1
+"a made" 1 1
+madness 2 2
+"the madness" 2 2
+"a madness" 2 2
+maid 1 1
+"the maid" 1 1
+"a maid" 1 1
+maiden 2 2
+"the maiden" 2 2
+"a maiden" 2 2
+main 1 1
+"the main" 1 1
+"a main" 1 1
+maintain 2 2
+"the maintain" 2 2
+"a maintain" 2 2
+majesty 3 3
+"the majesty" 3 3
+"a majesty" 3 3
+mak'st 1 1
+"the mak'st" 1 1
+"a mak'st" 1 1
+make 1 1
+"the make" 1 1
+"a make" 1 1
+makeless 2 2
+"the makeless" 2 2
+"a makeless" 2 2
+makes 1 1
+"the makes" 1 1
+"a makes" 1 1
+maketh 2 2
+"the maketh" 2 2
+"a maketh" 2 2
+making 2 1
+"the making" 2 1
+"a making" 2 1
+maladies 3 3
+"the maladies" 3 3
+"a maladies" 3 3
+man 1 1
+"the man" 1 1
+"a man" 1 1
+man's 1 1
+"the man's" 1 1
+"a man's" 1 1
+manner 2 2
+"the manner" 2 2
+"a manner" 2 2
+manners 2 2
+"the manners" 2 2
+"a manners" 2 2
+mansion 2 2
+"the mansion" 2 2
+"a mansion" 2 2
+many 2 1
+"the many" 2 1
+"a many" 2 1
+many's 2 2
+"the many's" 2 2
+"a many's" 2 2
+map 1 1
+"the map" 1 1
+"a map" 1 1
+mar 1 1
+"the mar" 1 1
+"a mar" 1 1
+marble 2 2
+"the marble" 2 2
+"a marble" 2 2
+march 1 1
+"the march" 1 1
+"a march" 1 1
+marigold 3 3
+"the marigold" 3 3
+"a marigold" 3 3
+marjoram 3 3
+"the marjoram" 3 3
+"a marjoram" 3 3
+mark 1 1
+"the mark" 1 1
+"a mark" 1 1
+marriage 2 2
+"the marriage" 2 2
+"a marriage" 2 2
+married 2 2
+"the married" 2 2
+"a married" 2 2
+mars 1 1
+"the mars" 1 1
+"a mars" 1 1
+marvel 2 2
+"the marvel" 2 2
+"a marvel" 2 2
+masked 1 1
+"the masked" 1 1
+"a masked" 1 1
+masonry 3 3
+"the masonry" 3 3
+"a masonry" 3 3
+master 2 2
+"the master" 2 2
+"a master" 2 2
+matcheth 2 2
+"the matcheth" 2 2
+"a matcheth" 2 2
+matter 2 1
+"the matter" 2 1
+"a matter" 2 1
+maturity 4 4
+"the maturity" 4 4
+"a maturity" 4 4
+may 1 1
+"the may" 1 1
+"a may" 1 1
+mayst 1 1
+"the mayst" 1 1
+"a mayst" 1 1
+me 1 1
+"the me" 1 1
+"a me" 1 1
+meadows 2 2
+"the meadows" 2 2
+"a meadows" 2 2
+means 1 1
+"the means" 1 1
+"a means" 1 1
+meant 1 1
+"the meant" 1 1
+"a meant" 1 1
+measure 2 1
+"the measure" 2 1
+"a measure" 2 1
+measured 2 2
+"the measured" 2 2
+"a measured" 2 2
+medicine 3 3
+"the medicine" 3 3
+"a medicine" 3 3
+meditation 4 4
+"the meditation" 4 4
+"a meditation" 4 4
+meet 1 1
+"the meet" 1 1
+"a meet" 1 1
+meetness 2 1
+"the meetness" 2 1
+"a meetness" 2 1
+melancholy 4 3
+"the melancholy" 4 3
+"a melancholy" 4 3
+memorial 3 3
+"the memorial" 3 3
+"a memorial" 3 3
+memory 3 3
+"the memory" 3 3
+"a memory" 3 3
+men 1 1
+"the men" 1 1
+"a men" 1 1
+men's 1 1
+"the men's" 1 1
+"a men's" 1 1
+mend 1 1
+"the mend" 1 1
+"a mend" 1 1
+mended 2 2
+"the mended" 2 2
+"a mended" 2 2
+merchandized 3 3
+"the merchandized" 3 3
+"a merchandized" 3 3
+mercy 2 2
+"the mercy" 2 2
+"a mercy" 2 2
+merit 2 1
+"the merit" 2 1
+"a merit" 2 1
+merits 2 2
+"the merits" 2 2
+"a merits" 2 2
+messengers 3 3
+"the messengers" 3 3
+"a messengers" 3 3
+methinks 2 2
+"the methinks" 2 2
+"a methinks" 2 2
+methods 2 2
+"the methods" 2 2
+"a methods" 2 2
+metre 2 2
+"the metre" 2 2
+"a metre" 2 2
+middle 2 2
+"the middle" 2 2
+"a middle" 2 2
+might 1 1
+"the might" 1 1
+"a might" 1 1
+mightier 2 2
+"the mightier" 2 2
+"a mightier" 2 2
+mightst 1 1
+"the mightst" 1 1
+"a mightst" 1 1
+miles 1 1
+"the miles" 1 1
+"a miles" 1 1
+millioned 2 2
+"the millioned" 2 2
+"a millioned" 2 2
+millions 2 2
+"the millions" 2 2
+"a millions" 2 2
+mind 1 1
+"the mind" 1 1
+"a mind" 1 1
+mind's 1 1
+"the mind's" 1 1
+"a mind's" 1 1
+minded 2 2
+"the minded" 2 2
+"a minded" 2 2
+minds 1 1
+"the minds" 1 1
+"a minds" 1 1
+mine 1 1
+"the mine" 1 1
+"a mine" 1 1
+minion 2 2
+"the minion" 2 2
+"a minion" 2 2
+minutes 2 2
+"the minutes" 2 2
+"a minutes" 2 2
+miracle 3 3
+"the miracle" 3 3
+"a miracle" 3 3
+miscalled 2 2
+"the miscalled" 2 2
+"a miscalled" 2 2
+miser 2 2
+"the miser" 2 2
+"a miser" 2 2
+misplaced 2 2
+"the misplaced" 2 2
+"a misplaced" 2 2
+misprision 3 3
+"the misprision" 3 3
+"a misprision" 3 3
+missed 1 1
+"the missed" 1 1
+"a missed" 1 1
+mistake 2 2
+"the mistake" 2 2
+"a mistake" 2 2
+mistaking 3 2
+"the mistaking" 3 2
+"a mistaking" 3 2
+mistress 2 2
+"the mistress" 2 2
+"a mistress" 2 2
+misuse 2 2
+"the misuse" 2 2
+"a misuse" 2 2
+mixed 1 1
+"the mixed" 1 1
+"a mixed" 1 1
+moan 1 1
+"the moan" 1 1
+"a moan" 1 1
+mock 1 1
+"the mock" 1 1
+"a mock" 1 1
+modern 2 2
+"the modern" 2 2
+"a modern" 2 2
+moiety 2 2
+"the moiety" 2 2
+"a moiety" 2 2
+moment 2 1
+"the moment" 2 1
+"a moment" 2 1
+monarch's 2 2
+"the monarch's" 2 2
+"a monarch's" 2 2
+monsters 2 2
+"the monsters" 2 2
+"a monsters" 2 2
+monument 3 3
+"the monument" 3 3
+"a monument" 3 3
+monuments 3 3
+"the monuments" 3 3
+"a monuments" 3 3
+moods 1 1
+"the moods" 1 1
+"a moods" 1 1
+moon 1 1
+"the moon" 1 1
+"a moon" 1 1
+more 1 1
+"the more" 1 1
+"a more" 1 1
+morn 1 1
+"the morn" 1 1
+"a morn" 1 1
+morning 2 2
+"the morning" 2 2
+"a morning" 2 2
+morrow 2 1
+"the morrow" 2 1
+"a morrow" 2 1
+mortal 2 2
+"the mortal" 2 2
+"a mortal" 2 2
+mortality 4 4
+"the mortality" 4 4
+"a mortality" 4 4
+mortgaged 2 2
+"the mortgaged" 2 2
+"a mortgaged" 2 2
+most 1 1
+"the most" 1 1
+"a most" 1 1
+mother 2 1
+"the mother" 2 1
+"a mother" 2 1
+mother's 2 2
+"the mother's" 2 2
+"a mother's" 2 2
+motion 2 2
+"the motion" 2 2
+"a motion" 2 2
+motley 2 2
+"the motley" 2 2
+"a motley" 2 2
+mountain 2 2
+"the mountain" 2 2
+"a mountain" 2 2
+mounted 2 2
+"the mounted" 2 2
+"a mounted" 2 2
+mourn 1 1
+"the mourn" 1 1
+"a mourn" 1 1
+mourners 2 2
+"the mourners" 2 2
+"a mourners" 2 2
+mournful 2 2
+"the mournful" 2 2
+"a mournful" 2 2
+mourning 2 2
+"the mourning" 2 2
+"a mourning" 2 2
+mouthed 2 2
+"the mouthed" 2 2
+"a mouthed" 2 2
+mouths 1 1
+"the mouths" 1 1
+"a mouths" 1 1
+move 1 1
+"the move" 1 1
+"a move" 1 1
+moving 2 1
+"the moving" 2 1
+"a moving" 2 1
+mow 1 1
+"the mow" 1 1
+"a mow" 1 1
+much 1 1
+"the much" 1 1
+"a much" 1 1
+mud 1 1
+"the mud" 1 1
+"a mud" 1 1
+murd'rous 2 2
+"the murd'rous" 2 2
+"a murd'rous" 2 2
+muse 1 1
+"the muse" 1 1
+"a muse" 1 1
+muses 2 2
+"the muses" 2 2
+"a muses" 2 2
+music 2 2
+"the music" 2 2
+"a music" 2 2
+must 1 1
+"the must" 1 1
+"a must" 1 1
+mute 1 1
+"the mute" 1 1
+"a mute" 1 1
+mutual 2 2
+"the mutual" 2 2
+"a mutual" 2 2
+my 1 1
+"the my" 1 1
+"a my" 1 1
+naked 2 2
+"the naked" 2 2
+"a naked" 2 2
+name 1 1
+"the name" 1 1
+"a name" 1 1
+naming 2 2
+"the naming" 2 2
+"a naming" 2 2
+nativity 4 4
+"the nativity" 4 4
+"a nativity" 4 4
+nature 2 2
+"the nature" 2 2
+"a nature" 2 2
+nature's 2 2
+"the nature's" 2 2
+"a nature's" 2 2
+nay 1 1
+"the nay" 1 1
+"a nay" 1 1
+ne'er 1 1
+"the ne'er" 1 1
+"a ne'er" 1 1
+ne'er-cloying 2 2
+"the ne'er-cloying" 2 2
+"a ne'er-cloying" 2 2
+near 1 1
+"the near" 1 1
+"a near" 1 1
+nearly 2 1
+"the nearly" 2 1
+"a nearly" 2 1
+necessary 4 4
+"the necessary" 4 4
+"a necessary" 4 4
+neck 1 1
+"the neck" 1 1
+"a neck" 1 1
+need 1 1
+"the need" 1 1
+"a need" 1 1
+need'st 1 1
+"the need'st" 1 1
+"a need'st" 1 1
+needing 2 1
+"the needing" 2 1
+"a needing" 2 1
+needs 1 1
+"the needs" 1 1
+"a needs" 1 1
+needy 2 2
+"the needy" 2 2
+"a needy" 2 2
+neglect 2 2
+"the neglect" 2 2
+"a neglect" 2 2
+neglected 3 3
+"the neglected" 3 3
+"a neglected" 3 3
+neigh 1 1
+"the neigh" 1 1
+"a neigh" 1 1
+neither 2 2
+"the neither" 2 2
+"a neither" 2 2
+nerves 1 1
+"the nerves" 1 1
+"a nerves" 1 1
+never 2 1
+"the never" 2 1
+"a never" 2 1
+never-resting 4 4
+"the never-resting" 4 4
+"a never-resting" 4 4
+new 1 1
+"the new" 1 1
+"a new" 1 1
+new-appearing 4 4
+"the new-appearing" 4 4
+"a new-appearing" 4 4
+new-fangled 3 3
+"the new-fangled" 3 3
+"a new-fangled" 3 3
+new-fired 2 2
+"the new-fired" 2 2
+"a new-fired" 2 2
+new-found 2 2
+"the new-found" 2 2
+"a new-found" 2 2
+newer 2 2
+"the newer" 2 2
+"a newer" 2 2
+news 1 1
+"the news" 1 1
+"a news" 1 1
+next 1 1
+"the next" 1 1
+"a next" 1 1
+niggard 2 2
+"the niggard" 2 2
+"a niggard" 2 2
+niggarding 3 3
+"the niggarding" 3 3
+"a niggarding" 3 3
+night 1 1
+"the night" 1 1
+"a night" 1 1
+nightly 2 2
+"the nightly" 2 2
+"a nightly" 2 2
+nights 1 1
+"the nights" 1 1
+"a nights" 1 1
+nimble 2 2
+"the nimble" 2 2
+"a nimble" 2 2
+nine 1 1
+"the nine" 1 1
+"a nine" 1 1
+no 1 1
+"the no" 1 1
+"a no" 1 1
+nobler 2 2
+"the nobler" 2 2
+"a nobler" 2 2
+none 1 1
+"the none" 1 1
+"a none" 1 1
+noon 1 1
+"the noon" 1 1
+"a noon" 1 1
+nor 1 1
+"the nor" 1 1
+"a nor" 1 1
+not 1 1
+"the not" 1 1
+"a not" 1 1
+note 1 1
+"the note" 1 1
+"a note" 1 1
+noted 2 2
+"the noted" 2 2
+"a noted" 2 2
+nothing 2 1
+"the nothing" 2 1
+"a nothing" 2 1
+nought 1 1
+"the nought" 1 1
+"a nought" 1 1
+nourished 2 2
+"the nourished" 2 2
+"a nourished" 2 2
+novel 2 2
+"the novel" 2 2
+"a novel" 2 2
+now 1 1
+"the now" 1 1
+"a now" 1 1
+number 2 2
+"the number" 2 2
+"a number" 2 2
+numbers 2 2
+"the numbers" 2 2
+"a numbers" 2 2
+nurse 1 1
+"the nurse" 1 1
+"a nurse" 1 1
+nursed 1 1
+"the nursed" 1 1
+"a nursed" 1 1
+nurseth 2 2
+"the nurseth" 2 2
+"a nurseth" 2 2
+nymphs 1 1
+"the nymphs" 1 1
+"a nymphs" 1 1
+o 1 1
+"the o" 1 1
+"a o" 1 1
+o'er 1 1
+"the o'er" 1 1
+"a o'er" 1 1
+o'er-green 2 2
+"the o'er-green" 2 2
+"a o'er-green" 2 2
+o'er-read 2 2
+"the o'er-read" 2 2
+"a o'er-read" 2 2
+o'er-snowed 2 2
+"the o'er-snowed" 2 2
+"a o'er-snowed" 2 2
+o'ercharged 2 2
+"the o'ercharged" 2 2
+"a o'ercharged" 2 2
+o'erlook 2 2
+"the o'erlook" 2 2
+"a o'erlook" 2 2
+o'erpressed 2 2
+"the o'erpressed" 2 2
+"a o'erpressed" 2 2
+o'ersways 2 2
+"the o'ersways" 2 2
+"a o'ersways" 2 2
+o'ertake 2 2
+"the o'ertake" 2 2
+"a o'ertake" 2 2
+o'erworn 2 2
+"the o'erworn" 2 2
+"a o'erworn" 2 2
+oaths 1 1
+"the oaths" 1 1
+"a oaths" 1 1
+object 2 2
+"the object" 2 2
+"a object" 2 2
+objects 2 2
+"the objects" 2 2
+"a objects" 2 2
+oblation 3 3
+"the oblation" 3 3
+"a oblation" 3 3
+oblivion 3 3
+"the oblivion" 3 3
+"a oblivion" 3 3
+obsequious 3 3
+"the obsequious" 3 3
+"a obsequious" 3 3
+ocean 2 2
+"the ocean" 2 2
+"a ocean" 2 2
+odour 2 2
+"the odour" 2 2
+"a odour" 2 2
+odours 2 2
+"the odours" 2 2
+"a odours" 2 2
+of 1 1
+"the of" 1 1
+"a of" 1 1
+off 1 1
+"the off" 1 1
+"a off" 1 1
+offence 2 2
+"the offence" 2 2
+"a offence" 2 2
+offence's 3 3
+"the offence's" 3 3
+"a offence's" 3 3
+offences 3 3
+"the offences" 3 3
+"a offences" 3 3
+offend 2 2
+"the offend" 2 2
+"a offend" 2 2
+offender's 3 3
+"the offender's" 3 3
+"a offender's" 3 3
+offenders 3 3
+"the offenders" 3 3
+"a offenders" 3 3
+office 2 2
+"the office" 2 2
+"a office" 2 2
+offices 3 3
+"the offices" 3 3
+"a offices" 3 3
+oft 1 1
+"the oft" 1 1
+"a oft" 1 1
+often 2 2
+"the often" 2 2
+"a often" 2 2
+old 1 1
+"the old" 1 1
+"a old" 1 1
+older 2 2
+"the older" 2 2
+"a older" 2 2
+olives 2 2
+"the olives" 2 2
+"a olives" 2 2
+on 1 1
+"the on" 1 1
+"a on" 1 1
+once 1 1
+"the once" 1 1
+"a once" 1 1
+one 1 1
+"the one" 1 1
+"a one" 1 1
+only 2 2
+"the only" 2 2
+"a only" 2 2
+onset 2 2
+"the onset" 2 2
+"a onset" 2 2
+onward 2 2
+"the onward" 2 2
+"a onward" 2 2
+onwards 2 2
+"the onwards" 2 2
+"a onwards" 2 2
+open 2 1
+"the open" 2 1
+"a open" 2 1
+oppressed 2 2
+"the oppressed" 2 2
+"a oppressed" 2 2
+oppression 3 3
+"the oppression" 3 3
+"a oppression" 3 3
+or 1 1
+"the or" 1 1
+"a or" 1 1
+ordering 3 3
+"the ordering" 3 3
+"a ordering" 3 3
+orient 2 2
+"the orient" 2 2
+"a orient" 2 2
+ornament 3 3
+"the ornament" 3 3
+"a ornament" 3 3
+ornaments 3 3
+"the ornaments" 3 3
+"a ornaments" 3 3
+orphans 2 2
+"the orphans" 2 2
+"a orphans" 2 2
+other 2 1
+"the other" 2 1
+"a other" 2 1
+others 2 2
+"the others" 2 2
+"a others" 2 2
+our 2 1
+"the our" 2 1
+"a our" 2 1
+out 1 1
+"the out" 1 1
+"a out" 1 1
+out-going 3 3
+"the out-going" 3 3
+"a out-going" 3 3
+outbraves 2 2
+"the outbraves" 2 2
+"a outbraves" 2 2
+outcast 2 2
+"the outcast" 2 2
+"a outcast" 2 2
+outlive 2 2
+"the outlive" 2 2
+"a outlive" 2 2
+outright 2 2
+"the outright" 2 2
+"a outright" 2 2
+outstripped 2 2
+"the outstripped" 2 2
+"a outstripped" 2 2
+outward 2 2
+"the outward" 2 2
+"a outward" 2 2
+outworn 2 2
+"the outworn" 2 2
+"a outworn" 2 2
+over 2 2
+"the over" 2 2
+"a over" 2 2
+over-goes 3 3
+"the over-goes" 3 3
+"a over-goes" 3 3
+over-partial 4 4
+"the over-partial" 4 4
+"a over-partial" 4 4
+over-plus 3 3
+"the over-plus" 3 3
+"a over-plus" 3 3
+overthrow 3 3
+"the overthrow" 3 3
+"a overthrow" 3 3
+overturn 3 3
+"the overturn" 3 3
+"a overturn" 3 3
+ow'st 1 1
+"the ow'st" 1 1
+"a ow'st" 1 1
+owe 1 1
+"the owe" 1 1
+"a owe" 1 1
+owes 1 1
+"the owes" 1 1
+"a owes" 1 1
+own 1 1
+"the own" 1 1
+"a own" 1 1
+owner's 2 2
+"the owner's" 2 2
+"a owner's" 2 2
+owners 2 2
+"the owners" 2 2
+"a owners" 2 2
+pace 1 1
+"the pace" 1 1
+"a pace" 1 1
+page 1 1
+"the page" 1 1
+"a page" 1 1
+paid 1 1
+"the paid" 1 1
+"a paid" 1 1
+pain 1 1
+"the pain" 1 1
+"a pain" 1 1
+painful 2 2
+"the painful" 2 2
+"a painful" 2 2
+painted 2 1
+"the painted" 2 1
+"a painted" 2 1
+painter 2 2
+"the painter" 2 2
+"a painter" 2 2
+painter's 2 2
+"the painter's" 2 2
+"a painter's" 2 2
+painting 2 2
+"the painting" 2 2
+"a painting" 2 2
+palate 2 2
+"the palate" 2 2
+"a palate" 2 2
+pale 1 1
+"the pale" 1 1
+"a pale" 1 1
+paper 2 2
+"the paper" 2 2
+"a paper" 2 2
+papers 2 2
+"the papers" 2 2
+"a papers" 2 2
+parallels 3 3
+"the parallels" 3 3
+"a parallels" 3 3
+pardon 2 2
+"the pardon" 2 2
+"a pardon" 2 2
+part 1 1
+"the part" 1 1
+"a part" 1 1
+partake 2 2
+"the partake" 2 2
+"a partake" 2 2
+particulars 4 4
+"the particulars" 4 4
+"a particulars" 4 4
+partly 2 2
+"the partly" 2 2
+"a partly" 2 2
+parts 1 1
+"the parts" 1 1
+"a parts" 1 1
+party 2 2
+"the party" 2 2
+"a party" 2 2
+pass 1 1
+"the pass" 1 1
+"a pass" 1 1
+passed 1 1
+"the passed" 1 1
+"a passed" 1 1
+passion 2 1
+"the passion" 2 1
+"a passion" 2 1
+past 1 1
+"the past" 1 1
+"a past" 1 1
+patent 2 2
+"the patent" 2 2
+"a patent" 2 2
+patience 2 2
+"the patience" 2 2
+"a patience" 2 2
+patient 2 2
+"the patient" 2 2
+"a patient" 2 2
+pattern 2 2
+"the pattern" 2 2
+"a pattern" 2 2
+paws 1 1
+"the paws" 1 1
+"a paws" 1 1
+pay 1 1
+"the pay" 1 1
+"a pay" 1 1
+paying 2 2
+"the paying" 2 2
+"a paying" 2 2
+pays 1 1
+"the pays" 1 1
+"a pays" 1 1
+peace 1 1
+"the peace" 1 1
+"a peace" 1 1
+pearl 1 1
+"the pearl" 1 1
+"a pearl" 1 1
+pebbled 2 2
+"the pebbled" 2 2
+"a pebbled" 2 2
+peep 1 1
+"the peep" 1 1
+"a peep" 1 1
+pen 1 1
+"the pen" 1 1
+"a pen" 1 1
+penance 2 2
+"the penance" 2 2
+"a penance" 2 2
+pencil 2 2
+"the pencil" 2 2
+"a pencil" 2 2
+pent 1 1
+"the pent" 1 1
+"a pent" 1 1
+penury 3 3
+"the penury" 3 3
+"a penury" 3 3
+perceiv'st 2 2
+"the perceiv'st" 2 2
+"a perceiv'st" 2 2
+perceive 2 2
+"the perceive" 2 2
+"a perceive" 2 2
+perceived 2 2
+"the perceived" 2 2
+"a perceived" 2 2
+perfect 2 2
+"the perfect" 2 2
+"a perfect" 2 2
+perfect'st 2 2
+"the perfect'st" 2 2
+"a perfect'st" 2 2
+perfection 3 3
+"the perfection" 3 3
+"a perfection" 3 3
+perforce 2 2
+"the perforce" 2 2
+"a perforce" 2 2
+perfumed 2 2
+"the perfumed" 2 2
+"a perfumed" 2 2
+perfumes 2 2
+"the perfumes" 2 2
+"a perfumes" 2 2
+perhaps 2 2
+"the perhaps" 2 2
+"a perhaps" 2 2
+perish 2 1
+"the perish" 2 1
+"a perish" 2 1
+perjured 2 2
+"the perjured" 2 2
+"a perjured" 2 2
+permit 2 2
+"the permit" 2 2
+"a permit" 2 2
+perpetual 3 4
+"the perpetual" 3 4
+"a perpetual" 3 4
+perspective 3 3
+"the perspective" 3 3
+"a perspective" 3 3
+persuade 2 2
+"the persuade" 2 2
+"a persuade" 2 2
+perusal 3 3
+"the perusal" 3 3
+"a perusal" 3 3
+petty 2 2
+"the petty" 2 2
+"a petty" 2 2
+philomel 3 3
+"the philomel" 3 3
+"a philomel" 3 3
+phoenix 2 2
+"the phoenix" 2 2
+"a phoenix" 2 2
+phrase 1 1
+"the phrase" 1 1
+"a phrase" 1 1
+physic 2 2
+"the physic" 2 2
+"a physic" 2 2
+physician 3 3
+"the physician" 3 3
+"a physician" 3 3
+physicians 3 3
+"the physicians" 3 3
+"a physicians" 3 3
+picture 2 2
+"the picture" 2 2
+"a picture" 2 2
+picture's 2 2
+"the picture's" 2 2
+"a picture's" 2 2
+pictured 2 2
+"the pictured" 2 2
+"a pictured" 2 2
+pierced 1 1
+"the pierced" 1 1
+"a pierced" 1 1
+pilgrimage 3 3
+"the pilgrimage" 3 3
+"a pilgrimage" 3 3
+pine 1 1
+"the pine" 1 1
+"a pine" 1 1
+pipe 1 1
+"the pipe" 1 1
+"a pipe" 1 1
+pitch 1 1
+"the pitch" 1 1
+"a pitch" 1 1
+pitied 2 2
+"the pitied" 2 2
+"a pitied" 2 2
+pitiful 3 3
+"the pitiful" 3 3
+"a pitiful" 3 3
+pity 2 2
+"the pity" 2 2
+"a pity" 2 2
+pity-wanting 4 4
+"the pity-wanting" 4 4
+"a pity-wanting" 4 4
+pitying 2 2
+"the pitying" 2 2
+"a pitying" 2 2
+place 1 1
+"the place" 1 1
+"a place" 1 1
+placed 2 2
+"the placed" 2 2
+"a placed" 2 2
+plague 1 1
+"the plague" 1 1
+"a plague" 1 1
+plagues 1 1
+"the plagues" 1 1
+"a plagues" 1 1
+plain 1 1
+"the plain" 1 1
+"a plain" 1 1
+plants 1 1
+"the plants" 1 1
+"a plants" 1 1
+play 1 1
+"the play" 1 1
+"a play" 1 1
+play'st 1 1
+"the play'st" 1 1
+"a play'st" 1 1
+played 1 1
+"the played" 1 1
+"a played" 1 1
+plea 1 1
+"the plea" 1 1
+"a plea" 1 1
+plead 1 1
+"the plead" 1 1
+"a plead" 1 1
+pleasant 2 2
+"the pleasant" 2 2
+"a pleasant" 2 2
+please 1 1
+"the please" 1 1
+"a please" 1 1
+pleased 1 1
+"the pleased" 1 1
+"a pleased" 1 1
+pleasing 2 2
+"the pleasing" 2 2
+"a pleasing" 2 2
+pleasure 2 1
+"the pleasure" 2 1
+"a pleasure" 2 1
+pleasures 2 2
+"the pleasures" 2 2
+"a pleasures" 2 2
+plight 1 1
+"the plight" 1 1
+"a plight" 1 1
+plods 1 1
+"the plods" 1 1
+"a plods" 1 1
+plot 1 1
+"the plot" 1 1
+"a plot" 1 1
+pluck 1 1
+"the pluck" 1 1
+"a pluck" 1 1
+poesy 3 3
+"the poesy" 3 3
+"a poesy" 3 3
+poet 2 2
+"the poet" 2 2
+"a poet" 2 2
+poet's 2 2
+"the poet's" 2 2
+"a poet's" 2 2
+poets 2 2
+"the poets" 2 2
+"a poets" 2 2
+point 1 1
+"the point" 1 1
+"a point" 1 1
+pointing 2 2
+"the pointing" 2 2
+"a pointing" 2 2
+points 1 1
+"the points" 1 1
+"a points" 1 1
+poison 2 2
+"the poison" 2 2
+"a poison" 2 2
+poisoned 2 2
+"the poisoned" 2 2
+"a poisoned" 2 2
+policy 3 3
+"the policy" 3 3
+"a policy" 3 3
+polished 2 2
+"the polished" 2 2
+"a polished" 2 2
+politic 3 3
+"the politic" 3 3
+"a politic" 3 3
+pomp 1 1
+"the pomp" 1 1
+"a pomp" 1 1
+poor 1 1
+"the poor" 1 1
+"a poor" 1 1
+poorly 2 2
+"the poorly" 2 2
+"a poorly" 2 2
+possessed 2 2
+"the possessed" 2 2
+"a possessed" 2 2
+possesseth 3 3
+"the possesseth" 3 3
+"a possesseth" 3 3
+possessing 3 2
+"the possessing" 3 2
+"a possessing" 3 2
+possession 3 3
+"the possession" 3 3
+"a possession" 3 3
+posterity 4 4
+"the posterity" 4 4
+"a posterity" 4 4
+posting 2 2
+"the posting" 2 2
+"a posting" 2 2
+potions 2 2
+"the potions" 2 2
+"a potions" 2 2
+pour'st 1 1
+"the pour'st" 1 1
+"a pour'st" 1 1
+poverty 3 3
+"the poverty" 3 3
+"a poverty" 3 3
+power 1 1
+"the power" 1 1
+"a power" 1 1
+powerful 2 2
+"the powerful" 2 2
+"a powerful" 2 2
+powers 1 1
+"the powers" 1 1
+"a powers" 1 1
+praise 1 1
+"the praise" 1 1
+"a praise" 1 1
+praised 1 1
+"the praised" 1 1
+"a praised" 1 1
+praises 2 2
+"the praises" 2 2
+"a praises" 2 2
+praising 2 2
+"the praising" 2 2
+"a praising" 2 2
+pray 1 1
+"the pray" 1 1
+"a pray" 1 1
+prayers 1 1
+"the prayers" 1 1
+"a prayers" 1 1
+precious 2 2
+"the precious" 2 2
+"a precious" 2 2
+predict 2 2
+"the predict" 2 2
+"a predict" 2 2
+prefiguring 4 4
+"the prefiguring" 4 4
+"a prefiguring" 4 4
+prepare 2 2
+"the prepare" 2 2
+"a prepare" 2 2
+preposterously 4 4
+"the preposterously" 4 4
+"a preposterously" 4 4
+presage 2 2
+"the presage" 2 2
+"a presage" 2 2
+presagers 3 3
+"the presagers" 3 3
+"a presagers" 3 3
+prescriptions 3 3
+"the prescriptions" 3 3
+"a prescriptions" 3 3
+presence 2 2
+"the presence" 2 2
+"a presence" 2 2
+present 2 2
+"the present" 2 2
+"a present" 2 2
+present'st 2 2
+"the present'st" 2 2
+"a present'st" 2 2
+present-absent 4 4
+"the present-absent" 4 4
+"a present-absent" 4 4
+presenteth 3 3
+"the presenteth" 3 3
+"a presenteth" 3 3
+presents 2 2
+"the presents" 2 2
+"a presents" 2 2
+preserve 2 2
+"the preserve" 2 2
+"a preserve" 2 2
+press 1 1
+"the press" 1 1
+"a press" 1 1
+presume 2 2
+"the presume" 2 2
+"a presume" 2 2
+pretty 2 2
+"the pretty" 2 2
+"a pretty" 2 2
+prevailed 2 2
+"the prevailed" 2 2
+"a prevailed" 2 2
+prevent 2 2
+"the prevent" 2 2
+"a prevent" 2 2
+prevent'st 2 2
+"the prevent'st" 2 2
+"a prevent'st" 2 2
+prey 1 1
+"the prey" 1 1
+"a prey" 1 1
+pricked 1 1
+"the pricked" 1 1
+"a pricked" 1 1
+pride 1 1
+"the pride" 1 1
+"a pride" 1 1
+prime 1 1
+"the prime" 1 1
+"a prime" 1 1
+princes 2 2
+"the princes" 2 2
+"a princes" 2 2
+print 1 1
+"the print" 1 1
+"a print" 1 1
+prison 2 2
+"the prison" 2 2
+"a prison" 2 2
+prisoner 2 2
+"the prisoner" 2 2
+"a prisoner" 2 2
+private 2 2
+"the private" 2 2
+"a private" 2 2
+privilage 3 3
+"the privilage" 3 3
+"a privilage" 3 3
+privilege 3 3
+"the privilege" 3 3
+"a privilege" 3 3
+prize 1 1
+"the prize" 1 1
+"a prize" 1 1
+prizing 2 2
+"the prizing" 2 2
+"a prizing" 2 2
+proceed 2 2
+"the proceed" 2 2
+"a proceed" 2 2
+proceeds 2 2
+"the proceeds" 2 2
+"a proceeds" 2 2
+process 2 2
+"the process" 2 2
+"a process" 2 2
+proclaims 2 2
+"the proclaims" 2 2
+"a proclaims" 2 2
+profane 2 2
+"the profane" 2 2
+"a profane" 2 2
+profaned 2 2
+"the profaned" 2 2
+"a profaned" 2 2
+profit 2 2
+"the profit" 2 2
+"a profit" 2 2
+profitless 3 3
+"the profitless" 3 3
+"a profitless" 3 3
+profound 2 2
+"the profound" 2 2
+"a profound" 2 2
+prognosticate 4 4
+"the prognosticate" 4 4
+"a prognosticate" 4 4
+progress 2 2
+"the progress" 2 2
+"a progress" 2 2
+promise 2 2
+"the promise" 2 2
+"a promise" 2 2
+prone 1 1
+"the prone" 1 1
+"a prone" 1 1
+proof 1 1
+"the proof" 1 1
+"a proof" 1 1
+prophecies 3 3
+"the prophecies" 3 3
+"a prophecies" 3 3
+prophetic 3 3
+"the prophetic" 3 3
+"a prophetic" 3 3
+proposed 2 2
+"the proposed" 2 2
+"a proposed" 2 2
+proud 1 1
+"the proud" 1 1
+"a proud" 1 1
+proud-pied 2 2
+"the proud-pied" 2 2
+"a proud-pied" 2 2
+prouder 2 2
+"the prouder" 2 2
+"a prouder" 2 2
+proudest 2 2
+"the proudest" 2 2
+"a proudest" 2 2
+proudly 2 2
+"the proudly" 2 2
+"a proudly" 2 2
+prove 1 1
+"the prove" 1 1
+"a prove" 1 1
+proved 1 1
+"the proved" 1 1
+"a proved" 1 1
+proves 1 1
+"the proves" 1 1
+"a proves" 1 1
+provide 2 2
+"the provide" 2 2
+"a provide" 2 2
+proving 2 2
+"the proving" 2 2
+"a proving" 2 2
+provoke 2 2
+"the provoke" 2 2
+"a provoke" 2 2
+pry 1 1
+"the pry" 1 1
+"a pry" 1 1
+public 2 2
+"the public" 2 2
+"a public" 2 2
+publish 2 2
+"the publish" 2 2
+"a publish" 2 2
+pupil 2 2
+"the pupil" 2 2
+"a pupil" 2 2
+pure 1 1
+"the pure" 1 1
+"a pure" 1 1
+purest 2 2
+"the purest" 2 2
+"a purest" 2 2
+purge 1 1
+"the purge" 1 1
+"a purge" 1 1
+purging 2 2
+"the purging" 2 2
+"a purging" 2 2
+purity 3 3
+"the purity" 3 3
+"a purity" 3 3
+purple 2 2
+"the purple" 2 2
+"a purple" 2 2
+purpose 2 2
+"the purpose" 2 2
+"a purpose" 2 2
+purposed 2 2
+"the purposed" 2 2
+"a purposed" 2 2
+pursuing 3 3
+"the pursuing" 3 3
+"a pursuing" 3 3
+pursuit 2 2
+"the pursuit" 2 2
+"a pursuit" 2 2
+put 1 1
+"the put" 1 1
+"a put" 1 1
+put'st 1 1
+"the put'st" 1 1
+"a put'st" 1 1
+puts 1 1
+"the puts" 1 1
+"a puts" 1 1
+pyramids 3 3
+"the pyramids" 3 3
+"a pyramids" 3 3
+qualify 3 3
+"the qualify" 3 3
+"a qualify" 3 3
+quality 3 3
+"the quality" 3 3
+"a quality" 3 3
+queen 1 1
+"the queen" 1 1
+"a queen" 1 1
+quenched 2 2
+"the quenched" 2 2
+"a quenched" 2 2
+quest 1 1
+"the quest" 1 1
+"a quest" 1 1
+question 2 2
+"the question" 2 2
+"a question" 2 2
+quick 1 1
+"the quick" 1 1
+"a quick" 1 1
+quicker 2 2
+"the quicker" 2 2
+"a quicker" 2 2
+quickly 2 2
+"the quickly" 2 2
+"a quickly" 2 2
+quiet 2 2
+"the quiet" 2 2
+"a quiet" 2 2
+quietus 3 3
+"the quietus" 3 3
+"a quietus" 3 3
+quill 1 1
+"the quill" 1 1
+"a quill" 1 1
+quite 1 1
+"the quite" 1 1
+"a quite" 1 1
+race 1 1
+"the race" 1 1
+"a race" 1 1
+rack 1 1
+"the rack" 1 1
+"a rack" 1 1
+rage 1 1
+"the rage" 1 1
+"a rage" 1 1
+ragged 2 2
+"the ragged" 2 2
+"a ragged" 2 2
+raiment 2 2
+"the raiment" 2 2
+"a raiment" 2 2
+rain 1 1
+"the rain" 1 1
+"a rain" 1 1
+rainy 2 2
+"the rainy" 2 2
+"a rainy" 2 2
+raised 1 1
+"the raised" 1 1
+"a raised" 1 1
+random 2 2
+"the random" 2 2
+"a random" 2 2
+ranged 1 1
+"the ranged" 1 1
+"a ranged" 1 1
+rank 1 1
+"the rank" 1 1
+"a rank" 1 1
+ranks 1 1
+"the ranks" 1 1
+"a ranks" 1 1
+ransom 2 2
+"the ransom" 2 2
+"a ransom" 2 2
+ransoms 2 2
+"the ransoms" 2 2
+"a ransoms" 2 2
+rare 1 1
+"the rare" 1 1
+"a rare" 1 1
+rarities 3 3
+"the rarities" 3 3
+"a rarities" 3 3
+rather 2 2
+"the rather" 2 2
+"a rather" 2 2
+raven 2 2
+"the raven" 2 2
+"a raven" 2 2
+razed 2 1
+"the razed" 2 1
+"a razed" 2 1
+re-survey 3 3
+"the re-survey" 3 3
+"a re-survey" 3 3
+read 1 1
+"the read" 1 1
+"a read" 1 1
+reap 1 1
+"the reap" 1 1
+"a reap" 1 1
+rearward 2 2
+"the rearward" 2 2
+"a rearward" 2 2
+reason 2 1
+"the reason" 2 1
+"a reason" 2 1
+reasons 2 2
+"the reasons" 2 2
+"a reasons" 2 2
+rebel 2 2
+"the rebel" 2 2
+"a rebel" 2 2
+rebuked 2 2
+"the rebuked" 2 2
+"a rebuked" 2 2
+receipt 2 2
+"the receipt" 2 2
+"a receipt" 2 2
+receiv'st 2 2
+"the receiv'st" 2 2
+"a receiv'st" 2 2
+receive 2 2
+"the receive" 2 2
+"a receive" 2 2
+receives 2 2
+"the receives" 2 2
+"a receives" 2 2
+receivest 3 2
+"the receivest" 3 2
+"a receivest" 3 2
+receiving 3 3
+"the receiving" 3 3
+"a receiving" 3 3
+recite 2 2
+"the recite" 2 2
+"a recite" 2 2
+reckon 2 2
+"the reckon" 2 2
+"a reckon" 2 2
+reckoned 2 2
+"the reckoned" 2 2
+"a reckoned" 2 2
+reckoning 2 2
+"the reckoning" 2 2
+"a reckoning" 2 2
+recompense 3 3
+"the recompense" 3 3
+"a recompense" 3 3
+record 2 2
+"the record" 2 2
+"a record" 2 2
+records 2 2
+"the records" 2 2
+"a records" 2 2
+recounting 3 3
+"the recounting" 3 3
+"a recounting" 3 3
+recured 2 2
+"the recured" 2 2
+"a recured" 2 2
+red 1 1
+"the red" 1 1
+"a red" 1 1
+redeem 2 2
+"the redeem" 2 2
+"a redeem" 2 2
+reeks 1 1
+"the reeks" 1 1
+"a reeks" 1 1
+reeleth 2 2
+"the reeleth" 2 2
+"a reeleth" 2 2
+refigured 3 3
+"the refigured" 3 3
+"a refigured" 3 3
+refined 3 3
+"the refined" 3 3
+"a refined" 3 3
+refuse 2 2
+"the refuse" 2 2
+"a refuse" 2 2
+refusest 3 2
+"the refusest" 3 2
+"a refusest" 3 2
+region 2 2
+"the region" 2 2
+"a region" 2 2
+register 3 3
+"the register" 3 3
+"a register" 3 3
+registers 3 3
+"the registers" 3 3
+"a registers" 3 3
+rehearse 2 2
+"the rehearse" 2 2
+"a rehearse" 2 2
+reign 1 1
+"the reign" 1 1
+"a reign" 1 1
+reigned 1 1
+"the reigned" 1 1
+"a reigned" 1 1
+reigns 1 1
+"the reigns" 1 1
+"a reigns" 1 1
+releasing 3 2
+"the releasing" 3 2
+"a releasing" 3 2
+relief 2 2
+"the relief" 2 2
+"a relief" 2 2
+religious 3 3
+"the religious" 3 3
+"a religious" 3 3
+remain 2 2
+"the remain" 2 2
+"a remain" 2 2
+remains 2 2
+"the remains" 2 2
+"a remains" 2 2
+remedy 3 3
+"the remedy" 3 3
+"a remedy" 3 3
+remember 3 3
+"the remember" 3 3
+"a remember" 3 3
+remembered 4 3
+"the remembered" 4 3
+"a remembered" 4 3
+remembrance 3 3
+"the remembrance" 3 3
+"a remembrance" 3 3
+remote 2 2
+"the remote" 2 2
+"a remote" 2 2
+remove 2 2
+"the remove" 2 2
+"a remove" 2 2
+removed 2 2
+"the removed" 2 2
+"a removed" 2 2
+remover 3 3
+"the remover" 3 3
+"a remover" 3 3
+render 2 2
+"the render" 2 2
+"a render" 2 2
+renew 2 2
+"the renew" 2 2
+"a renew" 2 2
+renewed 2 2
+"the renewed" 2 2
+"a renewed" 2 2
+renewest 3 2
+"the renewest" 3 2
+"a renewest" 3 2
+rent 1 1
+"the rent" 1 1
+"a rent" 1 1
+rents 1 1
+"the rents" 1 1
+"a rents" 1 1
+repair 2 2
+"the repair" 2 2
+"a repair" 2 2
+repay 2 2
+"the repay" 2 2
+"a repay" 2 2
+repent 2 2
+"the repent" 2 2
+"a repent" 2 2
+replete 2 2
+"the replete" 2 2
+"a replete" 2 2
+report 2 2
+"the report" 2 2
+"a report" 2 2
+repose 2 2
+"the repose" 2 2
+"a repose" 2 2
+reproach 2 2
+"the reproach" 2 2
+"a reproach" 2 2
+reproving 3 2
+"the reproving" 3 2
+"a reproving" 3 2
+require 2 2
+"the require" 2 2
+"a require" 2 2
+resemble 3 2
+"the resemble" 3 2
+"a resemble" 3 2
+resembling 3 3
+"the resembling" 3 3
+"a resembling" 3 3
+reserve 2 2
+"the reserve" 2 2
+"a reserve" 2 2
+resort 2 2
+"the resort" 2 2
+"a resort" 2 2
+respect 2 2
+"the respect" 2 2
+"a respect" 2 2
+respects 2 2
+"the respects" 2 2
+"a respects" 2 2
+respose 2 2
+"the respose" 2 2
+"a respose" 2 2
+rest 1 1
+"the rest" 1 1
+"a rest" 1 1
+restful 2 2
+"the restful" 2 2
+"a restful" 2 2
+restore 2 2
+"the restore" 2 2
+"a restore" 2 2
+restored 2 2
+"the restored" 2 2
+"a restored" 2 2
+resty 2 2
+"the resty" 2 2
+"a resty" 2 2
+retention 3 3
+"the retention" 3 3
+"a retention" 3 3
+return 2 2
+"the return" 2 2
+"a return" 2 2
+returned 2 2
+"the returned" 2 2
+"a returned" 2 2
+revenge 2 2
+"the revenge" 2 2
+"a revenge" 2 2
+revenues 3 3
+"the revenues" 3 3
+"a revenues" 3 3
+review 2 2
+"the review" 2 2
+"a review" 2 2
+reviewest 3 3
+"the reviewest" 3 3
+"a reviewest" 3 3
+revolt 2 2
+"the revolt" 2 2
+"a revolt" 2 2
+revolution 4 4
+"the revolution" 4 4
+"a revolution" 4 4
+rhetoric 3 3
+"the rhetoric" 3 3
+"a rhetoric" 3 3
+rhyme 1 1
+"the rhyme" 1 1
+"a rhyme" 1 1
+rhymers 2 2
+"the rhymers" 2 2
+"a rhymers" 2 2
+rich 1 1
+"the rich" 1 1
+"a rich" 1 1
+rich-proud 2 2
+"the rich-proud" 2 2
+"a rich-proud" 2 2
+richer 2 2
+"the richer" 2 2
+"a richer" 2 2
+riches 2 2
+"the riches" 2 2
+"a riches" 2 2
+richly 2 2
+"the richly" 2 2
+"a richly" 2 2
+rid 1 1
+"the rid" 1 1
+"a rid" 1 1
+ride 1 1
+"the ride" 1 1
+"a ride" 1 1
+rider 2 2
+"the rider" 2 2
+"a rider" 2 2
+right 1 1
+"the right" 1 1
+"a right" 1 1
+rightly 2 2
+"the rightly" 2 2
+"a rightly" 2 2
+rights 1 1
+"the rights" 1 1
+"a rights" 1 1
+rigour 2 2
+"the rigour" 2 2
+"a rigour" 2 2
+riot 2 2
+"the riot" 2 2
+"a riot" 2 2
+ripe 1 1
+"the ripe" 1 1
+"a ripe" 1 1
+riper 2 2
+"the riper" 2 2
+"a riper" 2 2
+rise 1 1
+"the rise" 1 1
+"a rise" 1 1
+rising 2 2
+"the rising" 2 2
+"a rising" 2 2
+rite 1 1
+"the rite" 1 1
+"a rite" 1 1
+robbed 1 1
+"the robbed" 1 1
+"a robbed" 1 1
+robbery 2 2
+"the robbery" 2 2
+"a robbery" 2 2
+robbing 2 2
+"the robbing" 2 2
+"a robbing" 2 2
+robe 1 1
+"the robe" 1 1
+"a robe" 1 1
+robs 1 1
+"the robs" 1 1
+"a robs" 1 1
+rocks 1 1
+"the rocks" 1 1
+"a rocks" 1 1
+rolling 2 1
+"the rolling" 2 1
+"a rolling" 2 1
+rondure 2 2
+"the rondure" 2 2
+"a rondure" 2 2
+roof 1 1
+"the roof" 1 1
+"a roof" 1 1
+room 1 1
+"the room" 1 1
+"a room" 1 1
+root 1 1
+"the root" 1 1
+"a root" 1 1
+rose 1 1
+"the rose" 1 1
+"a rose" 1 1
+roses 2 2
+"the roses" 2 2
+"a roses" 2 2
+rosy 2 2
+"the rosy" 2 2
+"a rosy" 2 2
+rotten 2 1
+"the rotten" 2 1
+"a rotten" 2 1
+rough 1 1
+"the rough" 1 1
+"a rough" 1 1
+rud'st 1 1
+"the rud'st" 1 1
+"a rud'st" 1 1
+rude 1 1
+"the rude" 1 1
+"a rude" 1 1
+rudely 2 2
+"the rudely" 2 2
+"a rudely" 2 2
+ruin 2 2
+"the ruin" 2 2
+"a ruin" 2 2
+ruinate 3 3
+"the ruinate" 3 3
+"a ruinate" 3 3
+ruined 2 2
+"the ruined" 2 2
+"a ruined" 2 2
+ruining 3 3
+"the ruining" 3 3
+"a ruining" 3 3
+ruminate 3 3
+"the ruminate" 3 3
+"a ruminate" 3 3
+run 1 1
+"the run" 1 1
+"a run" 1 1
+run'st 1 1
+"the run'st" 1 1
+"a run'st" 1 1
+runs 1 1
+"the runs" 1 1
+"a runs" 1 1
+ruth 1 1
+"the ruth" 1 1
+"a ruth" 1 1
+sable 2 2
+"the sable" 2 2
+"a sable" 2 2
+sacred 2 2
+"the sacred" 2 2
+"a sacred" 2 2
+sad 1 1
+"the sad" 1 1
+"a sad" 1 1
+sadly 2 1
+"the sadly" 2 1
+"a sadly" 2 1
+said 1 1
+"the said" 1 1
+"a said" 1 1
+sail 1 1
+"the sail" 1 1
+"a sail" 1 1
+saint 1 1
+"the saint" 1 1
+"a saint" 1 1
+saith 1 1
+"the saith" 1 1
+"a saith" 1 1
+sake 1 1
+"the sake" 1 1
+"a sake" 1 1
+salutation 4 4
+"the salutation" 4 4
+"a salutation" 4 4
+salve 1 1
+"the salve" 1 1
+"a salve" 1 1
+salving 2 2
+"the salving" 2 2
+"a salving" 2 2
+same 1 1
+"the same" 1 1
+"a same" 1 1
+sang 1 1
+"the sang" 1 1
+"a sang" 1 1
+sap 1 1
+"the sap" 1 1
+"a sap" 1 1
+satire 2 2
+"the satire" 2 2
+"a satire" 2 2
+saturn 2 2
+"the saturn" 2 2
+"a saturn" 2 2
+sauces 2 2
+"the sauces" 2 2
+"a sauces" 2 2
+saucy 2 2
+"the saucy" 2 2
+"a saucy" 2 2
+savage 2 2
+"the savage" 2 2
+"a savage" 2 2
+save 1 1
+"the save" 1 1
+"a save" 1 1
+saved 1 1
+"the saved" 1 1
+"a saved" 1 1
+savour 2 1
+"the savour" 2 1
+"a savour" 2 1
+saw 1 1
+"the saw" 1 1
+"a saw" 1 1
+say 1 1
+"the say" 1 1
+"a say" 1 1
+saying 2 2
+"the saying" 2 2
+"a saying" 2 2
+says 1 1
+"the says" 1 1
+"a says" 1 1
+scandal 2 2
+"the scandal" 2 2
+"a scandal" 2 2
+scanted 2 2
+"the scanted" 2 2
+"a scanted" 2 2
+scarcely 2 2
+"the scarcely" 2 2
+"a scarcely" 2 2
+scarlet 2 2
+"the scarlet" 2 2
+"a scarlet" 2 2
+scope 1 1
+"the scope" 1 1
+"a scope" 1 1
+score 1 1
+"the score" 1 1
+"a score" 1 1
+scorn 1 1
+"the scorn" 1 1
+"a scorn" 1 1
+scorned 1 1
+"the scorned" 1 1
+"a scorned" 1 1
+scythe 1 1
+"the scythe" 1 1
+"a scythe" 1 1
+sea 1 1
+"the sea" 1 1
+"a sea" 1 1
+sea's 1 1
+"the sea's" 1 1
+"a sea's" 1 1
+seal 1 1
+"the seal" 1 1
+"a seal" 1 1
+sealed 1 1
+"the sealed" 1 1
+"a sealed" 1 1
+seals 1 1
+"the seals" 1 1
+"a seals" 1 1
+seasons 2 2
+"the seasons" 2 2
+"a seasons" 2 2
+seat 1 1
+"the seat" 1 1
+"a seat" 1 1
+second 2 2
+"the second" 2 2
+"a second" 2 2
+seconds 2 2
+"the seconds" 2 2
+"a seconds" 2 2
+secret 2 2
+"the secret" 2 2
+"a secret" 2 2
+see 1 1
+"the see" 1 1
+"a see" 1 1
+seeing 2 1
+"the seeing" 2 1
+"a seeing" 2 1
+seek 1 1
+"the seek" 1 1
+"a seek" 1 1
+seeking 2 2
+"the seeking" 2 2
+"a seeking" 2 2
+seem 1 1
+"the seem" 1 1
+"a seem" 1 1
+seemed 1 1
+"the seemed" 1 1
+"a seemed" 1 1
+seeming 2 1
+"the seeming" 2 1
+"a seeming" 2 1
+seemly 2 2
+"the seemly" 2 2
+"a seemly" 2 2
+seems 1 1
+"the seems" 1 1
+"a seems" 1 1
+seen 1 1
+"the seen" 1 1
+"a seen" 1 1
+sees 1 1
+"the sees" 1 1
+"a sees" 1 1
+seest 1 1
+"the seest" 1 1
+"a seest" 1 1
+seeting 2 2
+"the seeting" 2 2
+"a seeting" 2 2
+seldom 2 2
+"the seldom" 2 2
+"a seldom" 2 2
+self 1 1
+"the self" 1 1
+"a self" 1 1
+self's 1 1
+"the self's" 1 1
+"a self's" 1 1
+self-doing 3 3
+"the self-doing" 3 3
+"a self-doing" 3 3
+self-example 4 4
+"the self-example" 4 4
+"a self-example" 4 4
+self-killed 2 2
+"the self-killed" 2 2
+"a self-killed" 2 2
+self-love 2 2
+"the self-love" 2 2
+"a self-love" 2 2
+self-loving 3 3
+"the self-loving" 3 3
+"a self-loving" 3 3
+self-same 2 2
+"the self-same" 2 2
+"a self-same" 2 2
+self-substantial 4 4
+"the self-substantial" 4 4
+"a self-substantial" 4 4
+self-willed 2 2
+"the self-willed" 2 2
+"a self-willed" 2 2
+sell 1 1
+"the sell" 1 1
+"a sell" 1 1
+selling 2 2
+"the selling" 2 2
+"a selling" 2 2
+semblance 2 2
+"the semblance" 2 2
+"a semblance" 2 2
+send 1 1
+"the send" 1 1
+"a send" 1 1
+send'st 1 1
+"the send'st" 1 1
+"a send'st" 1 1
+sense 1 1
+"the sense" 1 1
+"a sense" 1 1
+senses 2 2
+"the senses" 2 2
+"a senses" 2 2
+sensual 2 2
+"the sensual" 2 2
+"a sensual" 2 2
+separable 4 4
+"the separable" 4 4
+"a separable" 4 4
+separation 4 4
+"the separation" 4 4
+"a separation" 4 4
+sepulchres 3 3
+"the sepulchres" 3 3
+"a sepulchres" 3 3
+sequent 2 2
+"the sequent" 2 2
+"a sequent" 2 2
+servant 2 2
+"the servant" 2 2
+"a servant" 2 2
+servant's 2 2
+"the servant's" 2 2
+"a servant's" 2 2
+service 2 2
+"the service" 2 2
+"a service" 2 2
+services 3 3
+"the services" 3 3
+"a services" 3 3
+serving 2 2
+"the serving" 2 2
+"a serving" 2 2
+sessions 2 2
+"the sessions" 2 2
+"a sessions" 2 2
+set 1 1
+"the set" 1 1
+"a set" 1 1
+sets 1 1
+"the sets" 1 1
+"a sets" 1 1
+settled 2 2
+"the settled" 2 2
+"a settled" 2 2
+several 2 2
+"the several" 2 2
+"a several" 2 2
+shade 1 1
+"the shade" 1 1
+"a shade" 1 1
+shadow 2 2
+"the shadow" 2 2
+"a shadow" 2 2
+shadow's 2 2
+"the shadow's" 2 2
+"a shadow's" 2 2
+shadows 2 2
+"the shadows" 2 2
+"a shadows" 2 2
+shady 2 2
+"the shady" 2 2
+"a shady" 2 2
+shake 1 1
+"the shake" 1 1
+"a shake" 1 1
+shaken 2 1
+"the shaken" 2 1
+"a shaken" 2 1
+shall 1 1
+"the shall" 1 1
+"a shall" 1 1
+shallowest 2 2
+"the shallowest" 2 2
+"a shallowest" 2 2
+shalt 1 1
+"the shalt" 1 1
+"a shalt" 1 1
+shame 1 1
+"the shame" 1 1
+"a shame" 1 1
+shamed 1 1
+"the shamed" 1 1
+"a shamed" 1 1
+shamefully 3 3
+"the shamefully" 3 3
+"a shamefully" 3 3
+shames 1 1
+"the shames" 1 1
+"a shames" 1 1
+shape 1 1
+"the shape" 1 1
+"a shape" 1 1
+shapes 1 1
+"the shapes" 1 1
+"a shapes" 1 1
+share 1 1
+"the share" 1 1
+"a share" 1 1
+sharp 1 1
+"the sharp" 1 1
+"a sharp" 1 1
+sharp'st 1 1
+"the sharp'st" 1 1
+"a sharp'st" 1 1
+sharpened 2 2
+"the sharpened" 2 2
+"a sharpened" 2 2
+she 1 1
+"the she" 1 1
+"a she" 1 1
+sheaves 1 1
+"the sheaves" 1 1
+"a sheaves" 1 1
+sheds 1 1
+"the sheds" 1 1
+"a sheds" 1 1
+shifting 2 2
+"the shifting" 2 2
+"a shifting" 2 2
+shifts 1 1
+"the shifts" 1 1
+"a shifts" 1 1
+shine 1 1
+"the shine" 1 1
+"a shine" 1 1
+shines 1 1
+"the shines" 1 1
+"a shines" 1 1
+shook 1 1
+"the shook" 1 1
+"a shook" 1 1
+shoot 1 1
+"the shoot" 1 1
+"a shoot" 1 1
+shop 1 1
+"the shop" 1 1
+"a shop" 1 1
+shore 1 1
+"the shore" 1 1
+"a shore" 1 1
+shorn 1 1
+"the shorn" 1 1
+"a shorn" 1 1
+short 1 1
+"the short" 1 1
+"a short" 1 1
+short-numbered 3 3
+"the short-numbered" 3 3
+"a short-numbered" 3 3
+should 1 1
+"the should" 1 1
+"a should" 1 1
+shouldst 1 1
+"the shouldst" 1 1
+"a shouldst" 1 1
+show 1 1
+"the show" 1 1
+"a show" 1 1
+show'st 1 1
+"the show'st" 1 1
+"a show'st" 1 1
+showers 1 1
+"the showers" 1 1
+"a showers" 1 1
+showing 2 2
+"the showing" 2 2
+"a showing" 2 2
+shown 1 1
+"the shown" 1 1
+"a shown" 1 1
+shows 1 1
+"the shows" 1 1
+"a shows" 1 1
+shun 1 1
+"the shun" 1 1
+"a shun" 1 1
+sick 1 1
+"the sick" 1 1
+"a sick" 1 1
+sicken 2 2
+"the sicken" 2 2
+"a sicken" 2 2
+sickle's 2 2
+"the sickle's" 2 2
+"a sickle's" 2 2
+sickly 2 2
+"the sickly" 2 2
+"a sickly" 2 2
+sickness 2 2
+"the sickness" 2 2
+"a sickness" 2 2
+side 1 1
+"the side" 1 1
+"a side" 1 1
+sides 1 1
+"the sides" 1 1
+"a sides" 1 1
+siege 1 1
+"the siege" 1 1
+"a siege" 1 1
+sigh 1 1
+"the sigh" 1 1
+"a sigh" 1 1
+sighs 1 1
+"the sighs" 1 1
+"a sighs" 1 1
+sight 1 1
+"the sight" 1 1
+"a sight" 1 1
+sightless 2 2
+"the sightless" 2 2
+"a sightless" 2 2
+signs 1 1
+"the signs" 1 1
+"a signs" 1 1
+silence 2 2
+"the silence" 2 2
+"a silence" 2 2
+silent 2 2
+"the silent" 2 2
+"a silent" 2 2
+silver 2 2
+"the silver" 2 2
+"a silver" 2 2
+silvered 2 2
+"the silvered" 2 2
+"a silvered" 2 2
+simple 2 2
+"the simple" 2 2
+"a simple" 2 2
+simplicity 4 4
+"the simplicity" 4 4
+"a simplicity" 4 4
+simply 2 2
+"the simply" 2 2
+"a simply" 2 2
+sin 1 1
+"the sin" 1 1
+"a sin" 1 1
+since 1 1
+"the since" 1 1
+"a since" 1 1
+sinful 2 2
+"the sinful" 2 2
+"a sinful" 2 2
+sing 1 1
+"the sing" 1 1
+"a sing" 1 1
+single 2 2
+"the single" 2 2
+"a single" 2 2
+singleness 3 3
+"the singleness" 3 3
+"a singleness" 3 3
+sings 1 1
+"the sings" 1 1
+"a sings" 1 1
+sinks 1 1
+"the sinks" 1 1
+"a sinks" 1 1
+sins 1 1
+"the sins" 1 1
+"a sins" 1 1
+sire 1 1
+"the sire" 1 1
+"a sire" 1 1
+siren 2 2
+"the siren" 2 2
+"a siren" 2 2
+sit 1 1
+"the sit" 1 1
+"a sit" 1 1
+sits 1 1
+"the sits" 1 1
+"a sits" 1 1
+situation 4 4
+"the situation" 4 4
+"a situation" 4 4
+skill 1 1
+"the skill" 1 1
+"a skill" 1 1
+sky 1 1
+"the sky" 1 1
+"a sky" 1 1
+slain 1 1
+"the slain" 1 1
+"a slain" 1 1
+slander 2 2
+"the slander" 2 2
+"a slander" 2 2
+slander's 2 2
+"the slander's" 2 2
+"a slander's" 2 2
+slandered 2 2
+"the slandered" 2 2
+"a slandered" 2 2
+slanderers 3 3
+"the slanderers" 3 3
+"a slanderers" 3 3
+slandering 2 2
+"the slandering" 2 2
+"a slandering" 2 2
+slave 1 1
+"the slave" 1 1
+"a slave" 1 1
+slavery 2 2
+"the slavery" 2 2
+"a slavery" 2 2
+slay 1 1
+"the slay" 1 1
+"a slay" 1 1
+sleep 1 1
+"the sleep" 1 1
+"a sleep" 1 1
+sleeping 2 2
+"the sleeping" 2 2
+"a sleeping" 2 2
+slept 1 1
+"the slept" 1 1
+"a slept" 1 1
+slide 1 1
+"the slide" 1 1
+"a slide" 1 1
+slight 1 1
+"the slight" 1 1
+"a slight" 1 1
+slow 1 1
+"the slow" 1 1
+"a slow" 1 1
+slumbers 2 2
+"the slumbers" 2 2
+"a slumbers" 2 2
+sluttish 2 2
+"the sluttish" 2 2
+"a sluttish" 2 2
+small 1 1
+"the small" 1 1
+"a small" 1 1
+smell 1 1
+"the smell" 1 1
+"a smell" 1 1
+smells 1 1
+"the smells" 1 1
+"a smells" 1 1
+smiling 2 2
+"the smiling" 2 2
+"a smiling" 2 2
+smoke 1 1
+"the smoke" 1 1
+"a smoke" 1 1
+smother 2 1
+"the smother" 2 1
+"a smother" 2 1
+snow 1 1
+"the snow" 1 1
+"a snow" 1 1
+so 1 1
+"the so" 1 1
+"a so" 1 1
+sober 2 2
+"the sober" 2 2
+"a sober" 2 2
+society 4 4
+"the society" 4 4
+"a society" 4 4
+soft 1 1
+"the soft" 1 1
+"a soft" 1 1
+soil 1 1
+"the soil" 1 1
+"a soil" 1 1
+sold 1 1
+"the sold" 1 1
+"a sold" 1 1
+sole 1 1
+"the sole" 1 1
+"a sole" 1 1
+solemn 2 2
+"the solemn" 2 2
+"a solemn" 2 2
+some 1 1
+"the some" 1 1
+"a some" 1 1
+something 2 2
+"the something" 2 2
+"a something" 2 2
+sometime 2 2
+"the sometime" 2 2
+"a sometime" 2 2
+sometimes 2 2
+"the sometimes" 2 2
+"a sometimes" 2 2
+son 1 1
+"the son" 1 1
+"a son" 1 1
+song 1 1
+"the song" 1 1
+"a song" 1 1
+songs 1 1
+"the songs" 1 1
+"a songs" 1 1
+soon 1 1
+"the soon" 1 1
+"a soon" 1 1
+sooner 2 2
+"the sooner" 2 2
+"a sooner" 2 2
+sorrow 2 1
+"the sorrow" 2 1
+"a sorrow" 2 1
+sorrows 2 2
+"the sorrows" 2 2
+"a sorrows" 2 2
+sorry 2 2
+"the sorry" 2 2
+"a sorry" 2 2
+sort 1 1
+"the sort" 1 1
+"a sort" 1 1
+sought 1 1
+"the sought" 1 1
+"a sought" 1 1
+soul 1 1
+"the soul" 1 1
+"a soul" 1 1
+soul's 1 1
+"the soul's" 1 1
+"a soul's" 1 1
+souls 1 1
+"the souls" 1 1
+"a souls" 1 1
+sound 1 1
+"the sound" 1 1
+"a sound" 1 1
+soundless 2 2
+"the soundless" 2 2
+"a soundless" 2 2
+sounds 1 1
+"the sounds" 1 1
+"a sounds" 1 1
+sour 1 1
+"the sour" 1 1
+"a sour" 1 1
+sourest 2 2
+"the sourest" 2 2
+"a sourest" 2 2
+sourly 2 2
+"the sourly" 2 2
+"a sourly" 2 2
+sovereign 2 2
+"the sovereign" 2 2
+"a sovereign" 2 2
+space 1 1
+"the space" 1 1
+"a space" 1 1
+spacious 3 3
+"the spacious" 3 3
+"a spacious" 3 3
+sparkling 2 2
+"the sparkling" 2 2
+"a sparkling" 2 2
+speak 1 1
+"the speak" 1 1
+"a speak" 1 1
+speaking 2 2
+"the speaking" 2 2
+"a speaking" 2 2
+special 2 2
+"the special" 2 2
+"a special" 2 2
+special-blest 3 3
+"the special-blest" 3 3
+"a special-blest" 3 3
+speechless 2 2
+"the speechless" 2 2
+"a speechless" 2 2
+speed 1 1
+"the speed" 1 1
+"a speed" 1 1
+spend 1 1
+"the spend" 1 1
+"a spend" 1 1
+spend'st 1 1
+"the spend'st" 1 1
+"a spend'st" 1 1
+spending 2 2
+"the spending" 2 2
+"a spending" 2 2
+spends 1 1
+"the spends" 1 1
+"a spends" 1 1
+spent 1 1
+"the spent" 1 1
+"a spent" 1 1
+spheres 1 1
+"the spheres" 1 1
+"a spheres" 1 1
+spies 1 1
+"the spies" 1 1
+"a spies" 1 1
+spirit 2 1
+"the spirit" 2 1
+"a spirit" 2 1
+spirits 2 2
+"the spirits" 2 2
+"a spirits" 2 2
+spite 1 1
+"the spite" 1 1
+"a spite" 1 1
+spites 1 1
+"the spites" 1 1
+"a spites" 1 1
+splendour 2 2
+"the splendour" 2 2
+"a splendour" 2 2
+spoil 1 1
+"the spoil" 1 1
+"a spoil" 1 1
+spoils 1 1
+"the spoils" 1 1
+"a spoils" 1 1
+sport 1 1
+"the sport" 1 1
+"a sport" 1 1
+sportive 2 2
+"the sportive" 2 2
+"a sportive" 2 2
+spot 1 1
+"the spot" 1 1
+"a spot" 1 1
+spread 1 1
+"the spread" 1 1
+"a spread" 1 1
+spring 1 1
+"the spring" 1 1
+"a spring" 1 1
+springs 1 1
+"the springs" 1 1
+"a springs" 1 1
+spur 1 1
+"the spur" 1 1
+"a spur" 1 1
+spurring 2 2
+"the spurring" 2 2
+"a spurring" 2 2
+stage 1 1
+"the stage" 1 1
+"a stage" 1 1
+stain 1 1
+"the stain" 1 1
+"a stain" 1 1
+stained 1 1
+"the stained" 1 1
+"a stained" 1 1
+staineth 2 1
+"the staineth" 2 1
+"a staineth" 2 1
+stamp 1 1
+"the stamp" 1 1
+"a stamp" 1 1
+stamped 1 1
+"the stamped" 1 1
+"a stamped" 1 1
+stand 1 1
+"the stand" 1 1
+"a stand" 1 1
+stands 1 1
+"the stands" 1 1
+"a stands" 1 1
+star 1 1
+"the star" 1 1
+"a star" 1 1
+stars 1 1
+"the stars" 1 1
+"a stars" 1 1
+starved 2 2
+"the starved" 2 2
+"a starved" 2 2
+state 1 1
+"the state" 1 1
+"a state" 1 1
+statues 2 2
+"the statues" 2 2
+"a statues" 2 2
+statute 2 2
+"the statute" 2 2
+"a statute" 2 2
+stay 1 1
+"the stay" 1 1
+"a stay" 1 1
+stays 1 1
+"the stays" 1 1
+"a stays" 1 1
+steal 1 1
+"the steal" 1 1
+"a steal" 1 1
+stealing 2 2
+"the stealing" 2 2
+"a stealing" 2 2
+steals 1 1
+"the steals" 1 1
+"a steals" 1 1
+stealth 1 1
+"the stealth" 1 1
+"a stealth" 1 1
+steel 1 1
+"the steel" 1 1
+"a steel" 1 1
+steeled 1 1
+"the steeled" 1 1
+"a steeled" 1 1
+steep 1 1
+"the steep" 1 1
+"a steep" 1 1
+steep-up 2 2
+"the steep-up" 2 2
+"a steep-up" 2 2
+steepy 2 2
+"the steepy" 2 2
+"a steepy" 2 2
+stelled 1 1
+"the stelled" 1 1
+"a stelled" 1 1
+stern 1 1
+"the stern" 1 1
+"a stern" 1 1
+stewards 2 2
+"the stewards" 2 2
+"a stewards" 2 2
+stick'st 1 1
+"the stick'st" 1 1
+"a stick'st" 1 1
+still 1 1
+"the still" 1 1
+"a still" 1 1
+stirred 1 1
+"the stirred" 1 1
+"a stirred" 1 1
+stol'n 1 1
+"the stol'n" 1 1
+"a stol'n" 1 1
+stole 1 1
+"the stole" 1 1
+"a stole" 1 1
+stone 1 1
+"the stone" 1 1
+"a stone" 1 1
+stones 1 1
+"the stones" 1 1
+"a stones" 1 1
+stop 1 1
+"the stop" 1 1
+"a stop" 1 1
+stopped 1 1
+"the stopped" 1 1
+"a stopped" 1 1
+stops 1 1
+"the stops" 1 1
+"a stops" 1 1
+store 1 1
+"the store" 1 1
+"a store" 1 1
+store's 1 1
+"the store's" 1 1
+"a store's" 1 1
+stores 1 1
+"the stores" 1 1
+"a stores" 1 1
+storm-beaten 3 3
+"the storm-beaten" 3 3
+"a storm-beaten" 3 3
+stormy 2 2
+"the stormy" 2 2
+"a stormy" 2 2
+story 2 1
+"the story" 2 1
+"a story" 2 1
+stout 1 1
+"the stout" 1 1
+"a stout" 1 1
+straight 1 1
+"the straight" 1 1
+"a straight" 1 1
+strained 2 2
+"the strained" 2 2
+"a strained" 2 2
+strains 1 1
+"the strains" 1 1
+"a strains" 1 1
+strange 1 1
+"the strange" 1 1
+"a strange" 1 1
+strangely 2 2
+"the strangely" 2 2
+"a strangely" 2 2
+strangle 2 2
+"the strangle" 2 2
+"a strangle" 2 2
+straying 2 2
+"the straying" 2 2
+"a straying" 2 2
+streams 1 1
+"the streams" 1 1
+"a streams" 1 1
+strength 1 1
+"the strength" 1 1
+"a strength" 1 1
+strength's 1 1
+"the strength's" 1 1
+"a strength's" 1 1
+strengthened 2 2
+"the strengthened" 2 2
+"a strengthened" 2 2
+stretched 2 2
+"the stretched" 2 2
+"a stretched" 2 2
+strife 1 1
+"the strife" 1 1
+"a strife" 1 1
+strikes 1 1
+"the strikes" 1 1
+"a strikes" 1 1
+string 1 1
+"the string" 1 1
+"a string" 1 1
+strive 1 1
+"the strive" 1 1
+"a strive" 1 1
+striving 2 2
+"the striving" 2 2
+"a striving" 2 2
+strong 1 1
+"the strong" 1 1
+"a strong" 1 1
+stronger 2 1
+"the stronger" 2 1
+"a stronger" 2 1
+strongly 2 2
+"the strongly" 2 2
+"a strongly" 2 2
+struck 1 1
+"the struck" 1 1
+"a struck" 1 1
+strumpeted 3 3
+"the strumpeted" 3 3
+"a strumpeted" 3 3
+style 1 1
+"the style" 1 1
+"a style" 1 1
+subdued 2 2
+"the subdued" 2 2
+"a subdued" 2 2
+subject 2 2
+"the subject" 2 2
+"a subject" 2 2
+subjects 2 2
+"the subjects" 2 2
+"a subjects" 2 2
+suborned 2 2
+"the suborned" 2 2
+"a suborned" 2 2
+subscribes 2 2
+"the subscribes" 2 2
+"a subscribes" 2 2
+subsist 2 2
+"the subsist" 2 2
+"a subsist" 2 2
+substance 2 2
+"the substance" 2 2
+"a substance" 2 2
+subtleties 3 3
+"the subtleties" 3 3
+"a subtleties" 3 3
+succeeding 3 3
+"the succeeding" 3 3
+"a succeeding" 3 3
+succession 3 3
+"the succession" 3 3
+"a succession" 3 3
+successive 3 3
+"the successive" 3 3
+"a successive" 3 3
+such 1 1
+"the such" 1 1
+"a such" 1 1
+sue 1 1
+"the sue" 1 1
+"a sue" 1 1
+suff'ring 2 2
+"the suff'ring" 2 2
+"a suff'ring" 2 2
+suffer 2 2
+"the suffer" 2 2
+"a suffer" 2 2
+sufferance 2 2
+"the sufferance" 2 2
+"a sufferance" 2 2
+suffered 2 2
+"the suffered" 2 2
+"a suffered" 2 2
+suffers 2 2
+"the suffers" 2 2
+"a suffers" 2 2
+sufficed 2 2
+"the sufficed" 2 2
+"a sufficed" 2 2
+suggest 2 2
+"the suggest" 2 2
+"a suggest" 2 2
+suit 1 1
+"the suit" 1 1
+"a suit" 1 1
+suited 2 2
+"the suited" 2 2
+"a suited" 2 2
+sullen 2 2
+"the sullen" 2 2
+"a sullen" 2 2
+sullied 2 2
+"the sullied" 2 2
+"a sullied" 2 2
+sum 1 1
+"the sum" 1 1
+"a sum" 1 1
+summer 2 2
+"the summer" 2 2
+"a summer" 2 2
+summer's 2 2
+"the summer's" 2 2
+"a summer's" 2 2
+summers 2 2
+"the summers" 2 2
+"a summers" 2 2
+summon 2 2
+"the summon" 2 2
+"a summon" 2 2
+sums 1 1
+"the sums" 1 1
+"a sums" 1 1
+sun 1 1
+"the sun" 1 1
+"a sun" 1 1
+sun's 1 1
+"the sun's" 1 1
+"a sun's" 1 1
+sunk 1 1
+"the sunk" 1 1
+"a sunk" 1 1
+sunken 2 2
+"the sunken" 2 2
+"a sunken" 2 2
+suns 1 1
+"the suns" 1 1
+"a suns" 1 1
+sunset 2 2
+"the sunset" 2 2
+"a sunset" 2 2
+suppose 2 2
+"the suppose" 2 2
+"a suppose" 2 2
+supposed 3 2
+"the supposed" 3 2
+"a supposed" 3 2
+supposing 3 3
+"the supposing" 3 3
+"a supposing" 3 3
+suppressed 2 2
+"the suppressed" 2 2
+"a suppressed" 2 2
+sure 1 1
+"the sure" 1 1
+"a sure" 1 1
+surety-like 3 3
+"the surety-like" 3 3
+"a surety-like" 3 3
+surfeit 2 2
+"the surfeit" 2 2
+"a surfeit" 2 2
+surly 2 2
+"the surly" 2 2
+"a surly" 2 2
+surmise 2 2
+"the surmise" 2 2
+"a surmise" 2 2
+surmount 2 2
+"the surmount" 2 2
+"a surmount" 2 2
+survey 2 2
+"the survey" 2 2
+"a survey" 2 2
+survive 2 2
+"the survive" 2 2
+"a survive" 2 2
+suspect 2 2
+"the suspect" 2 2
+"a suspect" 2 2
+swallowed 2 2
+"the swallowed" 2 2
+"a swallowed" 2 2
+swart-complexioned 4 4
+"the swart-complexioned" 4 4
+"a swart-complexioned" 4 4
+sway 1 1
+"the sway" 1 1
+"a sway" 1 1
+sway'st 1 1
+"the sway'st" 1 1
+"a sway'st" 1 1
+swear 1 1
+"the swear" 1 1
+"a swear" 1 1
+swearing 2 1
+"the swearing" 2 1
+"a swearing" 2 1
+swears 1 1
+"the swears" 1 1
+"a swears" 1 1
+sweet 1 1
+"the sweet" 1 1
+"a sweet" 1 1
+sweet'st 1 1
+"the sweet'st" 1 1
+"a sweet'st" 1 1
+sweet-seasoned 3 3
+"the sweet-seasoned" 3 3
+"a sweet-seasoned" 3 3
+sweetest 2 2
+"the sweetest" 2 2
+"a sweetest" 2 2
+sweetly 2 2
+"the sweetly" 2 2
+"a sweetly" 2 2
+sweetness 2 1
+"the sweetness" 2 1
+"a sweetness" 2 1
+sweets 1 1
+"the sweets" 1 1
+"a sweets" 1 1
+swerving 2 1
+"the swerving" 2 1
+"a swerving" 2 1
+swift 1 1
+"the swift" 1 1
+"a swift" 1 1
+swift-footed 3 3
+"the swift-footed" 3 3
+"a swift-footed" 3 3
+sword 1 1
+"the sword" 1 1
+"a sword" 1 1
+sworn 1 1
+"the sworn" 1 1
+"a sworn" 1 1
+sympathized 3 3
+"the sympathized" 3 3
+"a sympathized" 3 3
+t' 0 0
+"the t'" 0 0
+"a t'" 0 0
+table 2 2
+"the table" 2 2
+"a table" 2 2
+tables 2 2
+"the tables" 2 2
+"a tables" 2 2
+take 1 1
+"the take" 1 1
+"a take" 1 1
+taken 2 1
+"the taken" 2 1
+"a taken" 2 1
+taker 2 2
+"the taker" 2 2
+"a taker" 2 2
+takes 1 1
+"the takes" 1 1
+"a takes" 1 1
+tall 1 1
+"the tall" 1 1
+"a tall" 1 1
+tallies 2 2
+"the tallies" 2 2
+"a tallies" 2 2
+tame 1 1
+"the tame" 1 1
+"a tame" 1 1
+tan 1 1
+"the tan" 1 1
+"a tan" 1 1
+tanned 1 1
+"the tanned" 1 1
+"a tanned" 1 1
+task 1 1
+"the task" 1 1
+"a task" 1 1
+taste 1 1
+"the taste" 1 1
+"a taste" 1 1
+tattered 2 2
+"the tattered" 2 2
+"a tattered" 2 2
+taught 1 1
+"the taught" 1 1
+"a taught" 1 1
+teach 1 1
+"the teach" 1 1
+"a teach" 1 1
+teachest 2 2
+"the teachest" 2 2
+"a teachest" 2 2
+tear 1 1
+"the tear" 1 1
+"a tear" 1 1
+tears 1 1
+"the tears" 1 1
+"a tears" 1 1
+teeming 2 2
+"the teeming" 2 2
+"a teeming" 2 2
+teeth 1 1
+"the teeth" 1 1
+"a teeth" 1 1
+tell 1 1
+"the tell" 1 1
+"a tell" 1 1
+telling 2 2
+"the telling" 2 2
+"a telling" 2 2
+tells 1 1
+"the tells" 1 1
+"a tells" 1 1
+temperate 3 3
+"the temperate" 3 3
+"a temperate" 3 3
+tempests 2 2
+"the tempests" 2 2
+"a tempests" 2 2
+temptation 3 3
+"the temptation" 3 3
+"a temptation" 3 3
+tempteth 2 2
+"the tempteth" 2 2
+"a tempteth" 2 2
+tempting 2 2
+"the tempting" 2 2
+"a tempting" 2 2
+ten 1 1
+"the ten" 1 1
+"a ten" 1 1
+tenants 2 2
+"the tenants" 2 2
+"a tenants" 2 2
+tend 1 1
+"the tend" 1 1
+"a tend" 1 1
+tender 2 2
+"the tender" 2 2
+"a tender" 2 2
+tendered 2 1
+"the tendered" 2 1
+"a tendered" 2 1
+tenth 1 1
+"the tenth" 1 1
+"a tenth" 1 1
+tenure 2 2
+"the tenure" 2 2
+"a tenure" 2 2
+term 1 1
+"the term" 1 1
+"a term" 1 1
+termed 1 1
+"the termed" 1 1
+"a termed" 1 1
+terms 1 1
+"the terms" 1 1
+"a terms" 1 1
+testy 2 2
+"the testy" 2 2
+"a testy" 2 2
+th' 0 0
+"the th'" 0 0
+"a th'" 0 0
+than 1 1
+"the than" 1 1
+"a than" 1 1
+thank 1 1
+"the thank" 1 1
+"a thank" 1 1
+thanks 1 1
+"the thanks" 1 1
+"a thanks" 1 1
+that 1 1
+"the that" 1 1
+"a that" 1 1
+that's 1 1
+"the that's" 1 1
+"a that's" 1 1
+the 1 1
+"the the" 1 1
+"a the" 1 1
+thee 1 1
+"the thee" 1 1
+"a thee" 1 1
+theft 1 1
+"the theft" 1 1
+"a theft" 1 1
+their 1 1
+"the their" 1 1
+"a their" 1 1
+theirs 1 1
+"the theirs" 1 1
+"a theirs" 1 1
+them 1 1
+"the them" 1 1
+"a them" 1 1
+themes 1 1
+"the themes" 1 1
+"a themes" 1 1
+themselves 2 2
+"the themselves" 2 2
+"a themselves" 2 2
+then 1 1
+"the then" 1 1
+"a then" 1 1
+thence 1 1
+"the thence" 1 1
+"a thence" 1 1
+there 1 1
+"the there" 1 1
+"a there" 1 1
+there's 1 1
+"the there's" 1 1
+"a there's" 1 1
+thereby 2 2
+"the thereby" 2 2
+"a thereby" 2 2
+therefore 2 2
+"the therefore" 2 2
+"a therefore" 2 2
+therein 2 2
+"the therein" 2 2
+"a therein" 2 2
+thereof 2 2
+"the thereof" 2 2
+"a thereof" 2 2
+these 1 1
+"the these" 1 1
+"a these" 1 1
+they 1 1
+"the they" 1 1
+"a they" 1 1
+thief 1 1
+"the thief" 1 1
+"a thief" 1 1
+thievish 2 2
+"the thievish" 2 2
+"a thievish" 2 2
+thine 1 1
+"the thine" 1 1
+"a thine" 1 1
+thing 1 1
+"the thing" 1 1
+"a thing" 1 1
+things 1 1
+"the things" 1 1
+"a things" 1 1
+think 1 1
+"the think" 1 1
+"a think" 1 1
+thinking 2 2
+"the thinking" 2 2
+"a thinking" 2 2
+thinks 1 1
+"the thinks" 1 1
+"a thinks" 1 1
+thinly 2 2
+"the thinly" 2 2
+"a thinly" 2 2
+third 1 1
+"the third" 1 1
+"a third" 1 1
+this 1 1
+"the this" 1 1
+"a this" 1 1
+thither 2 2
+"the thither" 2 2
+"a thither" 2 2
+thorns 1 1
+"the thorns" 1 1
+"a thorns" 1 1
+those 1 1
+"the those" 1 1
+"a those" 1 1
+thou 1 1
+"the thou" 1 1
+"a thou" 1 1
+though 1 1
+"the though" 1 1
+"a though" 1 1
+thought 1 1
+"the thought" 1 1
+"a thought" 1 1
+thoughts 1 1
+"the thoughts" 1 1
+"a thoughts" 1 1
+thousand 2 2
+"the thousand" 2 2
+"a thousand" 2 2
+thrall 1 1
+"the thrall" 1 1
+"a thrall" 1 1
+thralled 2 2
+"the thralled" 2 2
+"a thralled" 2 2
+three 1 1
+"the three" 1 1
+"a three" 1 1
+three-fold 2 2
+"the three-fold" 2 2
+"a three-fold" 2 2
+threescore 2 2
+"the threescore" 2 2
+"a threescore" 2 2
+threw 1 1
+"the threw" 1 1
+"a threw" 1 1
+thrice 1 1
+"the thrice" 1 1
+"a thrice" 1 1
+thriftless 2 2
+"the thriftless" 2 2
+"a thriftless" 2 2
+thrive 1 1
+"the thrive" 1 1
+"a thrive" 1 1
+thrivers 2 2
+"the thrivers" 2 2
+"a thrivers" 2 2
+throned 2 2
+"the throned" 2 2
+"a throned" 2 2
+through 1 1
+"the through" 1 1
+"a through" 1 1
+throw 1 1
+"the throw" 1 1
+"a throw" 1 1
+thrust 1 1
+"the thrust" 1 1
+"a thrust" 1 1
+thrusts 1 1
+"the thrusts" 1 1
+"a thrusts" 1 1
+thunder 2 2
+"the thunder" 2 2
+"a thunder" 2 2
+thus 1 1
+"the thus" 1 1
+"a thus" 1 1
+thy 1 1
+"the thy" 1 1
+"a thy" 1 1
+thyself 2 2
+"the thyself" 2 2
+"a thyself" 2 2
+tibey 1 1
+"the tibey" 1 1
+"a tibey" 1 1
+tickled 2 2
+"the tickled" 2 2
+"a tickled" 2 2
+tie 1 1
+"the tie" 1 1
+"a tie" 1 1
+tied 1 1
+"the tied" 1 1
+"a tied" 1 1
+tiger's 2 2
+"the tiger's" 2 2
+"a tiger's" 2 2
+till 1 1
+"the till" 1 1
+"a till" 1 1
+tillage 2 2
+"the tillage" 2 2
+"a tillage" 2 2
+time 1 1
+"the time" 1 1
+"a time" 1 1
+time's 1 1
+"the time's" 1 1
+"a time's" 1 1
+time-bettering 3 3
+"the time-bettering" 3 3
+"a time-bettering" 3 3
+times 1 1
+"the times" 1 1
+"a times" 1 1
+tincture 2 2
+"the tincture" 2 2
+"a tincture" 2 2
+tired 2 1
+"the tired" 2 1
+"a tired" 2 1
+tires 1 1
+"the tires" 1 1
+"a tires" 1 1
+title 2 2
+"the title" 2 2
+"a title" 2 2
+titles 2 2
+"the titles" 2 2
+"a titles" 2 2
+to 1 1
+"the to" 1 1
+"a to" 1 1
+to-day 2 2
+"the to-day" 2 2
+"a to-day" 2 2
+to-morrow 3 3
+"the to-morrow" 3 3
+"a to-morrow" 3 3
+together 3 3
+"the together" 3 3
+"a together" 3 3
+toil 1 1
+"the toil" 1 1
+"a toil" 1 1
+toiled 1 1
+"the toiled" 1 1
+"a toiled" 1 1
+told 1 1
+"the told" 1 1
+"a told" 1 1
+tomb 1 1
+"the tomb" 1 1
+"a tomb" 1 1
+tombed 1 1
+"the tombed" 1 1
+"a tombed" 1 1
+tombs 1 1
+"the tombs" 1 1
+"a tombs" 1 1
+tongue 1 1
+"the tongue" 1 1
+"a tongue" 1 1
+tongue's 1 1
+"the tongue's" 1 1
+"a tongue's" 1 1
+tongue-tied 2 2
+"the tongue-tied" 2 2
+"a tongue-tied" 2 2
+tongues 1 1
+"the tongues" 1 1
+"a tongues" 1 1
+too 1 1
+"the too" 1 1
+"a too" 1 1
+took 1 1
+"the took" 1 1
+"a took" 1 1
+top 1 1
+"the top" 1 1
+"a top" 1 1
+tops 1 1
+"the tops" 1 1
+"a tops" 1 1
+torment 2 2
+"the torment" 2 2
+"a torment" 2 2
+torn 1 1
+"the torn" 1 1
+"a torn" 1 1
+torture 2 2
+"the torture" 2 2
+"a torture" 2 2
+touch 1 1
+"the touch" 1 1
+"a touch" 1 1
+touched 1 1
+"the touched" 1 1
+"a touched" 1 1
+touches 2 2
+"the touches" 2 2
+"a touches" 2 2
+toward 1 1
+"the toward" 1 1
+"a toward" 1 1
+towards 1 1
+"the towards" 1 1
+"a towards" 1 1
+towers 1 1
+"the towers" 1 1
+"a towers" 1 1
+tract 1 1
+"the tract" 1 1
+"a tract" 1 1
+traffic 2 2
+"the traffic" 2 2
+"a traffic" 2 2
+transferred 2 2
+"the transferred" 2 2
+"a transferred" 2 2
+transfix 2 2
+"the transfix" 2 2
+"a transfix" 2 2
+transgression 3 3
+"the transgression" 3 3
+"a transgression" 3 3
+translate 2 2
+"the translate" 2 2
+"a translate" 2 2
+translated 3 3
+"the translated" 3 3
+"a translated" 3 3
+transport 2 2
+"the transport" 2 2
+"a transport" 2 2
+travail 2 2
+"the travail" 2 2
+"a travail" 2 2
+travel 2 2
+"the travel" 2 2
+"a travel" 2 2
+travel's 2 2
+"the travel's" 2 2
+"a travel's" 2 2
+travelled 2 2
+"the travelled" 2 2
+"a travelled" 2 2
+travels 2 2
+"the travels" 2 2
+"a travels" 2 2
+treads 1 1
+"the treads" 1 1
+"a treads" 1 1
+treason 2 1
+"the treason" 2 1
+"a treason" 2 1
+treasure 2 1
+"the treasure" 2 1
+"a treasure" 2 1
+trees 1 1
+"the trees" 1 1
+"a trees" 1 1
+trenches 2 2
+"the trenches" 2 2
+"a trenches" 2 2
+trespass 2 2
+"the trespass" 2 2
+"a trespass" 2 2
+tresses 2 2
+"the tresses" 2 2
+"a tresses" 2 2
+trial 2 2
+"the trial" 2 2
+"a trial" 2 2
+tribes 1 1
+"the tribes" 1 1
+"a tribes" 1 1
+trifle 2 2
+"the trifle" 2 2
+"a trifle" 2 2
+trifles 2 2
+"the trifles" 2 2
+"a trifles" 2 2
+trim 1 1
+"the trim" 1 1
+"a trim" 1 1
+trimmed 1 1
+"the trimmed" 1 1
+"a trimmed" 1 1
+tripping 2 2
+"the tripping" 2 2
+"a tripping" 2 2
+triumph 2 2
+"the triumph" 2 2
+"a triumph" 2 2
+triumphant 3 3
+"the triumphant" 3 3
+"a triumphant" 3 3
+trophies 2 2
+"the trophies" 2 2
+"a trophies" 2 2
+trouble 1 1
+"the trouble" 1 1
+"a trouble" 1 1
+truant 2 2
+"the truant" 2 2
+"a truant" 2 2
+true 1 1
+"the true" 1 1
+"a true" 1 1
+true-telling 3 3
+"the true-telling" 3 3
+"a true-telling" 3 3
+truest 2 2
+"the truest" 2 2
+"a truest" 2 2
+truly 2 2
+"the truly" 2 2
+"a truly" 2 2
+trust 1 1
+"the trust" 1 1
+"a trust" 1 1
+truth 1 1
+"the truth" 1 1
+"a truth" 1 1
+truth's 1 1
+"the truth's" 1 1
+"a truth's" 1 1
+truths 1 1
+"the truths" 1 1
+"a truths" 1 1
+try 1 1
+"the try" 1 1
+"a try" 1 1
+tune 1 1
+"the tune" 1 1
+"a tune" 1 1
+turn 1 1
+"the turn" 1 1
+"a turn" 1 1
+turned 1 1
+"the turned" 1 1
+"a turned" 1 1
+turns 1 1
+"the turns" 1 1
+"a turns" 1 1
+twain 1 1
+"the twain" 1 1
+"a twain" 1 1
+twenty 2 2
+"the twenty" 2 2
+"a twenty" 2 2
+twice 1 1
+"the twice" 1 1
+"a twice" 1 1
+twilight 2 2
+"the twilight" 2 2
+"a twilight" 2 2
+twire 1 1
+"the twire" 1 1
+"a twire" 1 1
+two 1 1
+"the two" 1 1
+"a two" 1 1
+twofold 2 2
+"the twofold" 2 2
+"a twofold" 2 2
+tyrannous 3 3
+"the tyrannous" 3 3
+"a tyrannous" 3 3
+tyranny 3 3
+"the tyranny" 3 3
+"a tyranny" 3 3
+tyrant 2 2
+"the tyrant" 2 2
+"a tyrant" 2 2
+tyrants 2 2
+"the tyrants" 2 2
+"a tyrants" 2 2
+ugly 2 2
+"the ugly" 2 2
+"a ugly" 2 2
+unbless 2 2
+"the unbless" 2 2
+"a unbless" 2 2
+unbred 2 2
+"the unbred" 2 2
+"a unbred" 2 2
+uncertain 3 3
+"the uncertain" 3 3
+"a uncertain" 3 3
+under 2 2
+"the under" 2 2
+"a under" 2 2
+undivided 4 4
+"the undivided" 4 4
+"a undivided" 4 4
+uneared 2 2
+"the uneared" 2 2
+"a uneared" 2 2
+unfair 2 2
+"the unfair" 2 2
+"a unfair" 2 2
+unfathered 3 2
+"the unfathered" 3 2
+"a unfathered" 3 2
+unfolding 3 3
+"the unfolding" 3 3
+"a unfolding" 3 3
+unhappily 4 4
+"the unhappily" 4 4
+"a unhappily" 4 4
+unions 2 2
+"the unions" 2 2
+"a unions" 2 2
+universe 3 3
+"the universe" 3 3
+"a universe" 3 3
+unjust 2 2
+"the unjust" 2 2
+"a unjust" 2 2
+unkind 2 2
+"the unkind" 2 2
+"a unkind" 2 2
+unkindness 3 3
+"the unkindness" 3 3
+"a unkindness" 3 3
+unknown 2 2
+"the unknown" 2 2
+"a unknown" 2 2
+unlearned 3 3
+"the unlearned" 3 3
+"a unlearned" 3 3
+unless 2 2
+"the unless" 2 2
+"a unless" 2 2
+unlettered 3 3
+"the unlettered" 3 3
+"a unlettered" 3 3
+unlooked 2 2
+"the unlooked" 2 2
+"a unlooked" 2 2
+unmoved 3 3
+"the unmoved" 3 3
+"a unmoved" 3 3
+unperfect 3 3
+"the unperfect" 3 3
+"a unperfect" 3 3
+unprovident 4 4
+"the unprovident" 4 4
+"a unprovident" 4 4
+unrespected 4 3
+"the unrespected" 4 3
+"a unrespected" 4 3
+unrest 2 2
+"the unrest" 2 2
+"a unrest" 2 2
+unseeing 3 3
+"the unseeing" 3 3
+"a unseeing" 3 3
+unseen 2 2
+"the unseen" 2 2
+"a unseen" 2 2
+unset 2 2
+"the unset" 2 2
+"a unset" 2 2
+unstained 3 3
+"the unstained" 3 3
+"a unstained" 3 3
+unswayed 2 2
+"the unswayed" 2 2
+"a unswayed" 2 2
+unswept 2 2
+"the unswept" 2 2
+"a unswept" 2 2
+untainted 3 3
+"the untainted" 3 3
+"a untainted" 3 3
+unthrift 2 2
+"the unthrift" 2 2
+"a unthrift" 2 2
+unthrifts 2 2
+"the unthrifts" 2 2
+"a unthrifts" 2 2
+unthrifty 3 3
+"the unthrifty" 3 3
+"a unthrifty" 3 3
+until 2 2
+"the until" 2 2
+"a until" 2 2
+unto 2 2
+"the unto" 2 2
+"a unto" 2 2
+untold 2 2
+"the untold" 2 2
+"a untold" 2 2
+untrimmed 2 2
+"the untrimmed" 2 2
+"a untrimmed" 2 2
+untrue 2 2
+"the untrue" 2 2
+"a untrue" 2 2
+untutored 3 3
+"the untutored" 3 3
+"a untutored" 3 3
+unused 3 2
+"the unused" 3 2
+"a unused" 3 2
+unwooed 2 2
+"the unwooed" 2 2
+"a unwooed" 2 2
+unworthiness 4 4
+"the unworthiness" 4 4
+"a unworthiness" 4 4
+up 1 1
+"the up" 1 1
+"a up" 1 1
+up-locked 3 3
+"the up-locked" 3 3
+"a up-locked" 3 3
+uphold 2 2
+"the uphold" 2 2
+"a uphold" 2 2
+upon 2 2
+"the upon" 2 2
+"a upon" 2 2
+uprear 2 2
+"the uprear" 2 2
+"a uprear" 2 2
+urge 1 1
+"the urge" 1 1
+"a urge" 1 1
+us 1 1
+"the us" 1 1
+"a us" 1 1
+use 1 1
+"the use" 1 1
+"a use" 1 1
+used 2 1
+"the used" 2 1
+"a used" 2 1
+user 2 2
+"the user" 2 2
+"a user" 2 2
+usest 2 1
+"the usest" 2 1
+"a usest" 2 1
+ushers 2 2
+"the ushers" 2 2
+"a ushers" 2 2
+usurer 3 3
+"the usurer" 3 3
+"a usurer" 3 3
+usury 3 3
+"the usury" 3 3
+"a usury" 3 3
+utmost 2 2
+"the utmost" 2 2
+"a utmost" 2 2
+uttering 2 2
+"the uttering" 2 2
+"a uttering" 2 2
+vacant 2 2
+"the vacant" 2 2
+"a vacant" 2 2
+vainly 2 2
+"the vainly" 2 2
+"a vainly" 2 2
+valley-fountain 4 4
+"the valley-fountain" 4 4
+"a valley-fountain" 4 4
+vanished 2 2
+"the vanished" 2 2
+"a vanished" 2 2
+vanishing 3 3
+"the vanishing" 3 3
+"a vanishing" 3 3
+vantage 2 2
+"the vantage" 2 2
+"a vantage" 2 2
+variation 4 4
+"the variation" 4 4
+"a variation" 4 4
+varying 2 2
+"the varying" 2 2
+"a varying" 2 2
+vassal 2 2
+"the vassal" 2 2
+"a vassal" 2 2
+vassalage 3 3
+"the vassalage" 3 3
+"a vassalage" 3 3
+vaunt 1 1
+"the vaunt" 1 1
+"a vaunt" 1 1
+veil 1 1
+"the veil" 1 1
+"a veil" 1 1
+veins 1 1
+"the veins" 1 1
+"a veins" 1 1
+vengeful 2 2
+"the vengeful" 2 2
+"a vengeful" 2 2
+verdict 2 2
+"the verdict" 2 2
+"a verdict" 2 2
+vermilion 3 3
+"the vermilion" 3 3
+"a vermilion" 3 3
+verse 1 1
+"the verse" 1 1
+"a verse" 1 1
+verses 2 2
+"the verses" 2 2
+"a verses" 2 2
+very 2 2
+"the very" 2 2
+"a very" 2 2
+vex 1 1
+"the vex" 1 1
+"a vex" 1 1
+vexed 1 1
+"the vexed" 1 1
+"a vexed" 1 1
+vial 2 2
+"the vial" 2 2
+"a vial" 2 2
+vice 1 1
+"the vice" 1 1
+"a vice" 1 1
+vices 2 2
+"the vices" 2 2
+"a vices" 2 2
+victor 2 2
+"the victor" 2 2
+"a victor" 2 2
+victories 3 3
+"the victories" 3 3
+"a victories" 3 3
+victors 2 2
+"the victors" 2 2
+"a victors" 2 2
+view 1 1
+"the view" 1 1
+"a view" 1 1
+viewest 2 1
+"the viewest" 2 1
+"a viewest" 2 1
+vile 1 1
+"the vile" 1 1
+"a vile" 1 1
+vilest 2 2
+"the vilest" 2 2
+"a vilest" 2 2
+violet 3 3
+"the violet" 3 3
+"a violet" 3 3
+virgin 2 2
+"the virgin" 2 2
+"a virgin" 2 2
+virtue 2 2
+"the virtue" 2 2
+"a virtue" 2 2
+virtuous 2 2
+"the virtuous" 2 2
+"a virtuous" 2 2
+visage 2 2
+"the visage" 2 2
+"a visage" 2 2
+vision 2 2
+"the vision" 2 2
+"a vision" 2 2
+voice 1 1
+"the voice" 1 1
+"a voice" 1 1
+voices 2 2
+"the voices" 2 2
+"a voices" 2 2
+votary 3 3
+"the votary" 3 3
+"a votary" 3 3
+vouchsafe 2 2
+"the vouchsafe" 2 2
+"a vouchsafe" 2 2
+vow 1 1
+"the vow" 1 1
+"a vow" 1 1
+vowed 1 1
+"the vowed" 1 1
+"a vowed" 1 1
+vowing 2 2
+"the vowing" 2 2
+"a vowing" 2 2
+vows 1 1
+"the vows" 1 1
+"a vows" 1 1
+vulgar 2 2
+"the vulgar" 2 2
+"a vulgar" 2 2
+wail 1 1
+"the wail" 1 1
+"a wail" 1 1
+wailing 2 2
+"the wailing" 2 2
+"a wailing" 2 2
+wait 1 1
+"the wait" 1 1
+"a wait" 1 1
+waiting 2 2
+"the waiting" 2 2
+"a waiting" 2 2
+wake 1 1
+"the wake" 1 1
+"a wake" 1 1
+wakened 2 2
+"the wakened" 2 2
+"a wakened" 2 2
+waking 2 2
+"the waking" 2 2
+"a waking" 2 2
+walk 1 1
+"the walk" 1 1
+"a walk" 1 1
+walks 1 1
+"the walks" 1 1
+"a walks" 1 1
+walls 1 1
+"the walls" 1 1
+"a walls" 1 1
+wand'rest 2 2
+"the wand'rest" 2 2
+"a wand'rest" 2 2
+wand'ring 2 2
+"the wand'ring" 2 2
+"a wand'ring" 2 2
+wane 1 1
+"the wane" 1 1
+"a wane" 1 1
+waning 2 2
+"the waning" 2 2
+"a waning" 2 2
+want 1 1
+"the want" 1 1
+"a want" 1 1
+wanting 2 1
+"the wanting" 2 1
+"a wanting" 2 1
+wanton 2 2
+"the wanton" 2 2
+"a wanton" 2 2
+wantonly 3 3
+"the wantonly" 3 3
+"a wantonly" 3 3
+wantonness 3 3
+"the wantonness" 3 3
+"a wantonness" 3 3
+war 1 1
+"the war" 1 1
+"a war" 1 1
+war's 1 1
+"the war's" 1 1
+"a war's" 1 1
+ward 1 1
+"the ward" 1 1
+"a ward" 1 1
+wardrobe 2 2
+"the wardrobe" 2 2
+"a wardrobe" 2 2
+wards 1 1
+"the wards" 1 1
+"a wards" 1 1
+warm 1 1
+"the warm" 1 1
+"a warm" 1 1
+warmed 1 1
+"the warmed" 1 1
+"a warmed" 1 1
+warning 2 2
+"the warning" 2 2
+"a warning" 2 2
+warrantise 3 3
+"the warrantise" 3 3
+"a warrantise" 3 3
+warrior 3 3
+"the warrior" 3 3
+"a warrior" 3 3
+wary 2 1
+"the wary" 2 1
+"a wary" 2 1
+was 1 1
+"the was" 1 1
+"a was" 1 1
+waste 1 1
+"the waste" 1 1
+"a waste" 1 1
+wasted 2 2
+"the wasted" 2 2
+"a wasted" 2 2
+wasteful 2 2
+"the wasteful" 2 2
+"a wasteful" 2 2
+wastes 1 1
+"the wastes" 1 1
+"a wastes" 1 1
+watch 1 1
+"the watch" 1 1
+"a watch" 1 1
+watching 2 2
+"the watching" 2 2
+"a watching" 2 2
+watchman 2 2
+"the watchman" 2 2
+"a watchman" 2 2
+water 2 2
+"the water" 2 2
+"a water" 2 2
+watery 2 2
+"the watery" 2 2
+"a watery" 2 2
+waves 1 1
+"the waves" 1 1
+"a waves" 1 1
+way 1 1
+"the way" 1 1
+"a way" 1 1
+we 1 1
+"the we" 1 1
+"a we" 1 1
+weak 1 1
+"the weak" 1 1
+"a weak" 1 1
+weakens 2 2
+"the weakens" 2 2
+"a weakens" 2 2
+weakness 2 2
+"the weakness" 2 2
+"a weakness" 2 2
+wealth 1 1
+"the wealth" 1 1
+"a wealth" 1 1
+wear 1 1
+"the wear" 1 1
+"a wear" 1 1
+weary 2 2
+"the weary" 2 2
+"a weary" 2 2
+weed 1 1
+"the weed" 1 1
+"a weed" 1 1
+weeds 1 1
+"the weeds" 1 1
+"a weeds" 1 1
+weeks 1 1
+"the weeks" 1 1
+"a weeks" 1 1
+weep 1 1
+"the weep" 1 1
+"a weep" 1 1
+weigh 1 1
+"the weigh" 1 1
+"a weigh" 1 1
+weighs 1 1
+"the weighs" 1 1
+"a weighs" 1 1
+weight 1 1
+"the weight" 1 1
+"a weight" 1 1
+welcome 2 2
+"the welcome" 2 2
+"a welcome" 2 2
+welfare 2 2
+"the welfare" 2 2
+"a welfare" 2 2
+well 1 1
+"the well" 1 1
+"a well" 1 1
+well-contented 4 4
+"the well-contented" 4 4
+"a well-contented" 4 4
+well-seeing 3 3
+"the well-seeing" 3 3
+"a well-seeing" 3 3
+well-tuned 3 3
+"the well-tuned" 3 3
+"a well-tuned" 3 3
+went 1 1
+"the went" 1 1
+"a went" 1 1
+were 1 1
+"the were" 1 1
+"a were" 1 1
+were't 1 1
+"the were't" 1 1
+"a were't" 1 1
+wert 1 1
+"the wert" 1 1
+"a wert" 1 1
+west 1 1
+"the west" 1 1
+"a west" 1 1
+wet 1 1
+"the wet" 1 1
+"a wet" 1 1
+what 1 1
+"the what" 1 1
+"a what" 1 1
+what's 1 1
+"the what's" 1 1
+"a what's" 1 1
+whate'er 2 2
+"the whate'er" 2 2
+"a whate'er" 2 2
+whatsoever 4 4
+"the whatsoever" 4 4
+"a whatsoever" 4 4
+when 1 1
+"the when" 1 1
+"a when" 1 1
+whence 1 1
+"the whence" 1 1
+"a whence" 1 1
+where 1 1
+"the where" 1 1
+"a where" 1 1
+where-through 2 2
+"the where-through" 2 2
+"a where-through" 2 2
+wherefore 2 2
+"the wherefore" 2 2
+"a wherefore" 2 2
+wherein 2 2
+"the wherein" 2 2
+"a wherein" 2 2
+whereof 2 2
+"the whereof" 2 2
+"a whereof" 2 2
+whereon 2 2
+"the whereon" 2 2
+"a whereon" 2 2
+whereto 2 2
+"the whereto" 2 2
+"a whereto" 2 2
+whereupon 3 3
+"the whereupon" 3 3
+"a whereupon" 3 3
+wherever 3 3
+"the wherever" 3 3
+"a wherever" 3 3
+wherewith 2 2
+"the wherewith" 2 2
+"a wherewith" 2 2
+whether 2 1
+"the whether" 2 1
+"a whether" 2 1
+which 1 1
+"the which" 1 1
+"a which" 1 1
+while 1 1
+"the while" 1 1
+"a while" 1 1
+whilst 1 1
+"the whilst" 1 1
+"a whilst" 1 1
+whit 1 1
+"the whit" 1 1
+"a whit" 1 1
+white 1 1
+"the white" 1 1
+"a white" 1 1
+who 1 1
+"the who" 1 1
+"a who" 1 1
+who's 1 1
+"the who's" 1 1
+"a who's" 1 1
+whoe'er 2 2
+"the whoe'er" 2 2
+"a whoe'er" 2 2
+whoever 3 3
+"the whoever" 3 3
+"a whoever" 3 3
+whole 1 1
+"the whole" 1 1
+"a whole" 1 1
+whom 1 1
+"the whom" 1 1
+"a whom" 1 1
+whose 1 1
+"the whose" 1 1
+"a whose" 1 1
+why 1 1
+"the why" 1 1
+"a why" 1 1
+wide 1 1
+"the wide" 1 1
+"a wide" 1 1
+widow 2 2
+"the widow" 2 2
+"a widow" 2 2
+widow's 2 2
+"the widow's" 2 2
+"a widow's" 2 2
+widowed 2 2
+"the widowed" 2 2
+"a widowed" 2 2
+wife 1 1
+"the wife" 1 1
+"a wife" 1 1
+wights 1 1
+"the wights" 1 1
+"a wights" 1 1
+wild 1 1
+"the wild" 1 1
+"a wild" 1 1
+wilful 2 2
+"the wilful" 2 2
+"a wilful" 2 2
+wilful-slow 3 3
+"the wilful-slow" 3 3
+"a wilful-slow" 3 3
+wilfully 3 3
+"the wilfully" 3 3
+"a wilfully" 3 3
+wilfulness 3 3
+"the wilfulness" 3 3
+"a wilfulness" 3 3
+will 1 1
+"the will" 1 1
+"a will" 1 1
+willing 2 2
+"the willing" 2 2
+"a willing" 2 2
+willingly 3 3
+"the willingly" 3 3
+"a willingly" 3 3
+wills 1 1
+"the wills" 1 1
+"a wills" 1 1
+wilt 1 1
+"the wilt" 1 1
+"a wilt" 1 1
+win 1 1
+"the win" 1 1
+"a win" 1 1
+wind 1 1
+"the wind" 1 1
+"a wind" 1 1
+windows 2 2
+"the windows" 2 2
+"a windows" 2 2
+winds 1 1
+"the winds" 1 1
+"a winds" 1 1
+windy 2 2
+"the windy" 2 2
+"a windy" 2 2
+wing 1 1
+"the wing" 1 1
+"a wing" 1 1
+winged 2 2
+"the winged" 2 2
+"a winged" 2 2
+wink 1 1
+"the wink" 1 1
+"a wink" 1 1
+winter 2 2
+"the winter" 2 2
+"a winter" 2 2
+winter's 2 2
+"the winter's" 2 2
+"a winter's" 2 2
+winters 2 2
+"the winters" 2 2
+"a winters" 2 2
+wires 1 1
+"the wires" 1 1
+"a wires" 1 1
+wiry 2 2
+"the wiry" 2 2
+"a wiry" 2 2
+wisdom 2 2
+"the wisdom" 2 2
+"a wisdom" 2 2
+wise 1 1
+"the wise" 1 1
+"a wise" 1 1
+wish 1 1
+"the wish" 1 1
+"a wish" 1 1
+wished 1 1
+"the wished" 1 1
+"a wished" 1 1
+wishing 2 2
+"the wishing" 2 2
+"a wishing" 2 2
+wit 1 1
+"the wit" 1 1
+"a wit" 1 1
+with 1 1
+"the with" 1 1
+"a with" 1 1
+withal 2 2
+"the withal" 2 2
+"a withal" 2 2
+withering 2 2
+"the withering" 2 2
+"a withering" 2 2
+within 2 2
+"the within" 2 2
+"a within" 2 2
+without 2 2
+"the without" 2 2
+"a without" 2 2
+witness 2 2
+"the witness" 2 2
+"a witness" 2 2
+wits 1 1
+"the wits" 1 1
+"a wits" 1 1
+woe 1 1
+"the woe" 1 1
+"a woe" 1 1
+woeful 2 2
+"the woeful" 2 2
+"a woeful" 2 2
+woes 1 1
+"the woes" 1 1
+"a woes" 1 1
+wolf 1 1
+"the wolf" 1 1
+"a wolf" 1 1
+woman 2 2
+"the woman" 2 2
+"a woman" 2 2
+woman's 2 2
+"the woman's" 2 2
+"a woman's" 2 2
+womb 1 1
+"the womb" 1 1
+"a womb" 1 1
+wombs 1 1
+"the wombs" 1 1
+"a wombs" 1 1
+women's 2 2
+"the women's" 2 2
+"a women's" 2 2
+won 1 1
+"the won" 1 1
+"a won" 1 1
+wond'ring 2 2
+"the wond'ring" 2 2
+"a wond'ring" 2 2
+wonder 2 2
+"the wonder" 2 2
+"a wonder" 2 2
+wondrous 2 2
+"the wondrous" 2 2
+"a wondrous" 2 2
+wont 1 1
+"the wont" 1 1
+"a wont" 1 1
+woo 1 1
+"the woo" 1 1
+"a woo" 1 1
+wood 1 1
+"the wood" 1 1
+"a wood" 1 1
+wood's 1 1
+"the wood's" 1 1
+"a wood's" 1 1
+wooed 1 1
+"the wooed" 1 1
+"a wooed" 1 1
+wooing 2 2
+"the wooing" 2 2
+"a wooing" 2 2
+woos 1 1
+"the woos" 1 1
+"a woos" 1 1
+word 1 1
+"the word" 1 1
+"a word" 1 1
+words 1 1
+"the words" 1 1
+"a words" 1 1
+work 1 1
+"the work" 1 1
+"a work" 1 1
+work's 1 1
+"the work's" 1 1
+"a work's" 1 1
+workings 2 2
+"the workings" 2 2
+"a workings" 2 2
+works 1 1
+"the works" 1 1
+"a works" 1 1
+world 1 1
+"the world" 1 1
+"a world" 1 1
+world's 1 1
+"the world's" 1 1
+"a world's" 1 1
+world-without-end 4 4
+"the world-without-end" 4 4
+"a world-without-end" 4 4
+worms 1 1
+"the worms" 1 1
+"a worms" 1 1
+worse 1 1
+"the worse" 1 1
+"a worse" 1 1
+worser 2 2
+"the worser" 2 2
+"a worser" 2 2
+worship 2 2
+"the worship" 2 2
+"a worship" 2 2
+worst 1 1
+"the worst" 1 1
+"a worst" 1 1
+worth 1 1
+"the worth" 1 1
+"a worth" 1 1
+worth's 1 1
+"the worth's" 1 1
+"a worth's" 1 1
+worthier 2 2
+"the worthier" 2 2
+"a worthier" 2 2
+worthiness 3 3
+"the worthiness" 3 3
+"a worthiness" 3 3
+worthless 2 2
+"the worthless" 2 2
+"a worthless" 2 2
+worths 1 1
+"the worths" 1 1
+"a worths" 1 1
+worthy 2 2
+"the worthy" 2 2
+"a worthy" 2 2
+would 1 1
+"the would" 1 1
+"a would" 1 1
+wouldst 1 1
+"the wouldst" 1 1
+"a wouldst" 1 1
+wound 1 1
+"the wound" 1 1
+"a wound" 1 1
+wounded 2 2
+"the wounded" 2 2
+"a wounded" 2 2
+wrack 1 1
+"the wrack" 1 1
+"a wrack" 1 1
+wrackful 2 2
+"the wrackful" 2 2
+"a wrackful" 2 2
+wrecked 1 1
+"the wrecked" 1 1
+"a wrecked" 1 1
+wretch 1 1
+"the wretch" 1 1
+"a wretch" 1 1
+wretch's 2 2
+"the wretch's" 2 2
+"a wretch's" 2 2
+wretched 2 2
+"the wretched" 2 2
+"a wretched" 2 2
+wrinkle 2 2
+"the wrinkle" 2 2
+"a wrinkle" 2 2
+wrinkles 2 2
+"the wrinkles" 2 2
+"a wrinkles" 2 2
+writ 1 1
+"the writ" 1 1
+"a writ" 1 1
+write 1 1
+"the write" 1 1
+"a write" 1 1
+writers 2 2
+"the writers" 2 2
+"a writers" 2 2
+writes 1 1
+"the writes" 1 1
+"a writes" 1 1
+written 2 2
+"the written" 2 2
+"a written" 2 2
+wrong 1 1
+"the wrong" 1 1
+"a wrong" 1 1
+wrongfully 3 3
+"the wrongfully" 3 3
+"a wrongfully" 3 3
+wrongs 1 1
+"the wrongs" 1 1
+"a wrongs" 1 1
+wronk 1 1
+"the wronk" 1 1
+"a wronk" 1 1
+wrought 1 1
+"the wrought" 1 1
+"a wrought" 1 1
+y'have 1 1
+"the y'have" 1 1
+"a y'have" 1 1
+ye 1 1
+"the ye" 1 1
+"a ye" 1 1
+yea 1 1
+"the yea" 1 1
+"a yea" 1 1
+year 1 1
+"the year" 1 1
+"a year" 1 1
+years 1 1
+"the years" 1 1
+"a years" 1 1
+yellow 2 2
+"the yellow" 2 2
+"a yellow" 2 2
+yellowed 2 2
+"the yellowed" 2 2
+"a yellowed" 2 2
+yet 1 1
+"the yet" 1 1
+"a yet" 1 1
+yield 1 1
+"the yield" 1 1
+"a yield" 1 1
+yore 1 1
+"the yore" 1 1
+"a yore" 1 1
+you 1 1
+"the you" 1 1
+"a you" 1 1
+young 1 1
+"the young" 1 1
+"a young" 1 1
+youngly 2 2
+"the youngly" 2 2
+"a youngly" 2 2
+your 1 1
+"the your" 1 1
+"a your" 1 1
+yours 1 1
+"the yours" 1 1
+"a yours" 1 1
+youth 1 1
+"the youth" 1 1
+"a youth" 1 1
+youth's 1 1
+"the youth's" 1 1
+"a youth's" 1 1
+youthful 2 2
+"the youthful" 2 2
+"a youthful" 2 2
+zealous 2 2
+"the zealous" 2 2
+"a zealous" 2 2
