@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 from collections import OrderedDict
 import re
+import json
 
 def punctuation_list(as_frozen_set = False):
     """
@@ -23,6 +24,21 @@ def all_tokens():
     return {token:i for i, token in enumerate(punctuation_list() +
                                               list(syllable_dict().keys()))}
 
+def get_rhyme_pairs(sonnets):
+    """
+    """
+    rhyme_pattern = [(0,2),(1,3),(4,6),(5,7),(8,10),(9,11),(12,13)]
+    rhyme_pairs = []
+    for sonnet in sonnets:
+        for r in rhyme_pattern:
+            try:
+                first_rhyme = sonnet[r[0]].split()[-1].strip(" .,:;'()!?")
+                second_rhyme = sonnet[r[1]].split()[-1].strip(" .,:;'()!?")
+                rhyme_pairs.append((first_rhyme, second_rhyme))
+            except IndexError:
+                print("That one stupid sonnet")
+    return rhyme_pairs
+
 def tokens_to_indices(tokens, all_tokens_dict):
     """
     Gives a consistent assignment of a word or punctuation mark to a
@@ -35,12 +51,14 @@ def tokens_to_indices(tokens, all_tokens_dict):
     """
     return [all_tokens_dict[tok] for tok in tokens]
 
-class Sonnet:
+def syllable_dict_punct(filename = 'data/Syllable_dictionary_updated2.txt',
+                        end_syllable = False, keys_as_nums = True):
     """
-    Encapsulates a sonnet
+    Gives dictionary of syllables including punctuation
     """
-    def __init__(self, sonnet_lines):
-        self.lines = list(sonnet_lines)
+    #sylldict = syllable_dict(filename, end_syllable)
+    #ans = {k:}
+    pass
 
 def syllable_dict(filename = 'data/Syllable_dictionary_updated2.txt',
                   end_syllable = False):
@@ -94,7 +112,7 @@ def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
                 sonnets[i] = sonnet[1:]
         return sonnets
 
-def tokenize_line(line):
+def tokenize_line(line, punctuation = False):
     """
     Tokenizes the line into a list of tokens.
     """
@@ -130,24 +148,27 @@ def tokenize_line(line):
         #punctuation mark + word makes a valid word, then add that as the word
         if not (len(befores) == 0) and befores[-1] + word in tokens:
             word = befores[-1] + word
-            for after in afters:
-                append_if_token(after, tokens, punct)
-            for before in befores[:-1]:
-                append_if_token(before, tokens, tokenized)
+            if punctuation:
+                for after in afters:
+                    append_if_token(after, tokens, punct)
+                for before in befores[:-1]:
+                    append_if_token(before, tokens, tokenized)
 
         elif not (len(afters) == 0) and word + afters[0] in tokens:
             word = word + afters[0]
-            for after in afters[1:]:
-                append_if_token(after, tokens, punct)
-            for before in befores:
-                append_if_token(before, tokens, tokenized)
+            if punctuation:
+                for after in afters[1:]:
+                    append_if_token(after, tokens, punct)
+                for before in befores:
+                    append_if_token(before, tokens, tokenized)
 
         # If the word is a token by itself, then add it to the word list 
         elif word in tokens:
-            for after in afters:
-                append_if_token(after, tokens, punct)
-            for before in befores:
-                append_if_token(before, tokens, tokenized)
+            if punctuation:
+                for after in afters:
+                    append_if_token(after, tokens, punct)
+                for before in befores:
+                    append_if_token(before, tokens, tokenized)
         else:
             raise Exception(word + " isn't in tokens")
 
@@ -167,8 +188,8 @@ def tokenize_line(line):
                 a = True
                 continue
             tokenized.append(word)
-        tokenized += punct
-    print([token for token in tokenized if token not in tokens])
+        if punctuation:
+            tokenized += punct
     assert(all(token in tokens for token in tokenized))
     return tokenized
 
@@ -179,3 +200,43 @@ def line_words(line):
     sonnet: array of lines in string format
     """
     return line.split()
+
+def dump_to_file(token_dict_file = "data/token_dict.json",
+        sonnet_file = "data/tokenized_sonnets.txt"):
+    sonnets = load_sonnets()
+    used_tokens = set()
+    tokenized_sonnets = []
+    for sonnet in sonnets:
+        tokenized_lines = []
+        for line in sonnet:
+            tokenized_lines.append(tokenize_line(line))
+            used_tokens = used_tokens.union(set(tokenized_lines[-1]))
+        tokenized_sonnets.append(tokenized_lines)
+
+    token2index = {token : i for i, token in enumerate(used_tokens)}
+    with open(token_dict_file, "w") as f:
+        json.dump(token2index, f)
+
+    indices_sonnets = [[[token2index[token] for token in line]
+        for line in sonnet] for sonnet in tokenized_sonnets]
+    with open(sonnet_file, "w") as f:
+        for sonnet in indices_sonnets:
+            for line in sonnet:
+                f.write(" ".join([str(x) for x in line]) + "\n")
+            f.write("\n\n")
+
+def sonnets_from_file(sonnet_file = "data/tokenized_sonnets.txt"):
+    with open(sonnet_file) as f:
+        sonnets = []
+        sonnet = []
+        for line in f:
+            if line == "\n" and len(sonnet) != 0:
+                sonnets.append(sonnet)
+                sonnet = []
+            if line != "\n":
+                tokens = [int(token) for token in line.split(" ")]
+                sonnet.append(tokens)
+    return sonnets
+
+def token_dict_from_file(token_dict_file = "data/token_dict.json"):
+    return json.load(open(token_dict_file))

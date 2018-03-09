@@ -117,6 +117,19 @@ def obs_map_reverser(obs_map):
 
     return obs_map_r
 
+def sample_sentence_syll(hmm, obs_map, num_syllables, syllable_dict,
+                         start_obs = None, max_iterations = 1000):
+    """
+    """
+    obs_map_r = obs_map_reverser(obs_map)
+
+    emission, states = hmm.generate_emission_syllables(num_syllables,
+                                                       syllable_dict,
+                                                       start_obs,
+                                                       max_iterations)
+    sentence = [obs_map_r[i] for i in emission]
+    return ' '.join(sentence).capitalize()
+
 def sample_sentence(hmm, obs_map, n_words=100):
     # Get reverse map.
     obs_map_r = obs_map_reverser(obs_map)
