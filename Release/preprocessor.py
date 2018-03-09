@@ -203,9 +203,7 @@ def dump_to_file(token_dict_file = "data/token_dict.json",
                 f.write(" ".join([str(x) for x in line]) + "\n")
             f.write("\n\n")
 
-def read_from_file(token_dict_file = "data/token_dict.json",
-        sonnet_file = "data/tokenized_sonnets.txt"):
-    token_dict = json.load(open(token_dict_file))
+def sonnets_from_file(sonnet_file = "data/tokenized_sonnets.txt"):
     with open(sonnet_file) as f:
         sonnets = []
         sonnet = []
@@ -217,3 +215,6 @@ def read_from_file(token_dict_file = "data/token_dict.json",
                 tokens = [int(token) for token in line.split(" ")]
                 sonnet.append(tokens)
     return sonnets
+
+def token_dict_from_file(token_dict_file = "data/token_dict.json"):
+    return json.load(open(token_dict_file))
