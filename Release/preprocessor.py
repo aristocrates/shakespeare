@@ -43,6 +43,13 @@ class Sonnet:
     def __init__(self, sonnet_lines):
         self.lines = list(sonnet_lines)
 
+def syllable_dict_punct(filename = 'data/Syllable_dictionary_updated2.txt',
+                        end_syllable = False, keys_as_nums = True):
+    """
+    Gives dictionary of syllables including punctuation
+    """
+    pass
+
 def syllable_dict(filename = 'data/Syllable_dictionary_updated2.txt',
                   end_syllable = False):
     """

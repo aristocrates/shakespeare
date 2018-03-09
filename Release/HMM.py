@@ -381,6 +381,64 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
+    def generate_emission_syllables(self, num_syllables, syllable_dict,
+                                    start_observation = None):
+        '''
+        Generates an emission with a fixed number of syllables,
+        with the starting observation 
+
+        Arguments:
+            num_syllables:     Number of syllables in the emission.
+            syllable_dict:     Dictionary mapping tokens to
+                               (num_syllables, num_syllables_end)
+            start_observation: Constrains the emission to start as
+                               specified, picking a hidden state for
+                               it according to the observation matrix
+
+        Returns:
+            emission:   The randomly generated emission as a list.
+
+            states:     The randomly generated states as a list.
+        '''
+
+        emission = []
+        if start_observation is not None:
+            # choose the state (TODO)
+            state = None
+        else:
+            # choose randomly for the state
+            state = random.choice(range(self.L))
+        states = []
+
+        syll_count = 0
+        while syll_count < num_syllables:
+            # Append state.
+            states.append(state)
+
+            # Sample next observation.
+            rand_var = random.uniform(0, 1)
+            next_obs = 0
+
+            while rand_var > 0:
+                rand_var -= self.O[state][next_obs]
+                next_obs += 1
+
+            next_obs -= 1
+            emission.append(next_obs)
+
+            # Sample next state.
+            rand_var = random.uniform(0, 1)
+            next_state = 0
+
+            while rand_var > 0:
+                rand_var -= self.A[state][next_state]
+                next_state += 1
+
+            next_state -= 1
+            state = next_state
+
+        return emission, states
+
     def generate_emission(self, M):
         '''
         Generates an emission of length M, assuming that the starting state
