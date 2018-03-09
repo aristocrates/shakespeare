@@ -242,14 +242,14 @@ beguiled 2 2
 behaviour 3 3
 behind 2 2
 behold 2 2
-being 1 2 2
+being 2 1
 belied 2 2
 believe 2 2
 believed 2 2
 bell 1 1
 belong 2 2
 belongs 2 2
-beloved 2 3 3
+beloved 3 2
 bending 2 2
 bends 1 1
 benefit 3 3
@@ -584,7 +584,7 @@ cross 1 1
 crossed 1 1
 crow 1 1
 crown 1 1
-crowned 1 2 2
+crowned 2 1
 crowning 2 2
 cruel 2 1
 crushed 1 1
@@ -832,7 +832,7 @@ edge 1 1
 effect 2 2
 effectually 4 4
 eisel 2 2
-either 1 2 2
+either 2 1
 either's 2 2
 elder 2 2
 elements 3 3
@@ -886,7 +886,7 @@ estimate 3 3
 eternal 3 3
 eternity 4 4
 eve's 1 1
-even 1 2 2
+even 2 1
 ever 2 2
 ever-fixed 4 4
 evermore 3 3
@@ -1036,7 +1036,7 @@ flies 1 1
 flourish 2 2
 flow 1 1
 flower 1 1
-flowers 1 2 2
+flowers 2 1
 flown 1 1
 fly 1 1
 foe 1 1
@@ -1141,7 +1141,7 @@ gazers 2 2
 gazeth 2 1
 gazing 2 2
 gems 1 1
-general 2 3 3
+general 3 2
 gentle 2 2
 gentlest 2 2
 gently 2 2
@@ -1155,7 +1155,7 @@ gilded 2 2
 gilding 2 2
 girded 2 2
 give 1 1
-given 1 2 2
+given 2 1
 gives 1 1
 giving 2 2
 glad 1 1
@@ -1195,7 +1195,7 @@ graven 2 2
 graves 1 1
 gravity 3 3
 great 1 1
-greater 1 2 2
+greater 2 1
 greatest 2 2
 grecian 2 2
 green 1 1
@@ -1284,8 +1284,8 @@ heart-inflaming 4 4
 hearts 1 1
 heat 1 1
 heats 1 1
-heaven 1 2 2
-heaven's 1 2 2
+heaven 2 1
+heaven's 2 1
 heavenly 2 2
 heavily 3 3
 heavy 2 2
@@ -1342,7 +1342,7 @@ horses 2 2
 hot 1 1
 hounds 1 1
 hour 1 1
-hours 1 2 2
+hours 2 1
 house 1 1
 how 1 1
 hue 1 1
@@ -1409,7 +1409,7 @@ indirectly 4 4
 infant's 2 2
 infection 3 2
 inferior 3 3
-influence 2 3 3
+influence 3 2
 informer 3 3
 inhabit 3 3
 inhearse 2 2
@@ -1647,7 +1647,7 @@ man's 1 1
 manner 2 2
 manners 2 2
 mansion 2 2
-many 1 2 2
+many 2 1
 many's 2 2
 map 1 1
 mar 1 1
@@ -1874,7 +1874,7 @@ ornaments 3 3
 orphans 2 2
 other 2 1
 others 2 2
-our 1 2 2
+our 2 1
 out 1 1
 out-going 3 3
 outbraves 2 2
@@ -2140,7 +2140,7 @@ rare 1 1
 rarities 3 3
 rather 2 2
 raven 2 2
-razed 1 2 2
+razed 2 1
 re-survey 3 3
 read 1 1
 reap 1 1
@@ -2186,7 +2186,7 @@ remain 2 2
 remains 2 2
 remedy 3 3
 remember 3 3
-remembered 3 4 4
+remembered 4 3
 remembrance 3 3
 remote 2 2
 remove 2 2
@@ -2520,7 +2520,7 @@ spends 1 1
 spent 1 1
 spheres 1 1
 spies 1 1
-spirit 1 2 2
+spirit 2 1
 spirits 2 2
 spite 1 1
 spites 1 1
@@ -2640,7 +2640,7 @@ sunken 2 2
 suns 1 1
 sunset 2 2
 suppose 2 2
-supposed 2 3 3
+supposed 3 2
 supposing 3 3
 suppressed 2 2
 sure 1 1
@@ -2787,7 +2787,7 @@ time's 1 1
 time-bettering 3 3
 times 1 1
 tincture 2 2
-tired 1 2 2
+tired 2 1
 tires 1 1
 title 2 2
 titles 2 2
@@ -2916,7 +2916,7 @@ untold 2 2
 untrimmed 2 2
 untrue 2 2
 untutored 3 3
-unused 2 3 3
+unused 3 2
 unwooed 2 2
 unworthiness 4 4
 up 1 1
@@ -2927,7 +2927,7 @@ uprear 2 2
 urge 1 1
 us 1 1
 use 1 1
-used 1 2 2
+used 2 1
 user 2 2
 usest 2 1
 ushers 2 2
@@ -3065,7 +3065,7 @@ whereto 2 2
 whereupon 3 3
 wherever 3 3
 wherewith 2 2
-whether 1 2 2
+whether 2 1
 which 1 1
 while 1 1
 whilst 1 1
