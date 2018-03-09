@@ -7,6 +7,7 @@
 ########################################
 
 import random
+import numpy as np
 
 class HiddenMarkovModel:
     '''
@@ -381,6 +382,97 @@ class HiddenMarkovModel:
                 for xt in range(self.D):
                     self.O[curr][xt] = O_num[curr][xt] / O_den[curr]
 
+    def generate_emission_syllables(self, num_syllables, syllable_dict,
+                                    start_observation = None,
+                                    max_iterations = 1000):
+        '''
+        Generates an emission with a fixed number of syllables,
+        with the starting observation 
+
+        Arguments:
+            num_syllables:     Number of syllables in the emission.
+            syllable_dict:     Dictionary mapping tokens to
+                               (num_syllables, num_syllables_end)
+            start_observation: Constrains the emission to start as
+                               specified, picking a hidden state for
+                               it according to the observation matrix
+
+        Returns:
+            emission:   The randomly generated emission as a list.
+
+            states:     The randomly generated states as a list.
+        '''
+        iterations = 0
+        while iterations < max_iterations:
+            iterations += 1
+
+            syll_count = 0
+            emission = []
+            if start_observation is not None:
+                # the cols of O are not necessarily normalized, so
+                # sum the column for the start_observation
+                start_col = [self.O[row][start_observation]
+                             for row in range(len(self.O))]
+                normalization = sum(start_col)
+                # sanity check
+                assert(normalization <= 1.)
+                if normalization <= 0:
+                    raise ValueError("start state (%s) invalid" % str())
+                normalized_state_col = [k / normalization
+                                        for k in start_col]
+                # choose the state (TODO)
+                states = [random_choice_from_array(normalized_state_col)]
+                emission.append(start_observation)
+
+                # also pick the second state
+                rand_var = random.uniform(0, 1)
+                next_state = 0
+
+                while rand_var > 0:
+                    rand_var -= self.A[states[0]][next_state]
+                    next_state += 1
+
+                next_state -= 1
+                state = next_state
+                syll_count += syllable_dict[start_observation][0]
+            else:
+                # choose randomly for the state
+                state = random.choice(range(self.L))
+                states = []
+
+            while syll_count < num_syllables:
+                # Append state.
+                states.append(state)
+
+                # Sample next observation.
+                rand_var = random.uniform(0, 1)
+                next_obs = 0
+
+                while rand_var > 0:
+                    rand_var -= self.O[state][next_obs]
+                    next_obs += 1
+
+                next_obs -= 1
+                emission.append(next_obs)
+
+                # Sample next state.
+                rand_var = random.uniform(0, 1)
+                next_state = 0
+
+                while rand_var > 0:
+                    rand_var -= self.A[state][next_state]
+                    next_state += 1
+
+                next_state -= 1
+                state = next_state
+                if (syll_count
+                    + syllable_dict[next_obs][1]) == num_syllables:
+                    return emission, states
+                else:
+                    syll_count += syllable_dict[next_obs][0]
+        print("Couldn't get the right number of syllables")
+        return emission, states
+
     def generate_emission(self, M):
         '''
         Generates an emission of length M, assuming that the starting state
@@ -476,6 +568,27 @@ class HiddenMarkovModel:
 
         return prob
 
+def random_choice_from_array(prob_arr):
+    """
+    Picks a random index from the array, where each element of the array
+    represents the probability of that index being picked
+
+    prob_arr: an array of non-negative floats that sums to one
+    """
+    random_num_choice = np.random.uniform(0, 1)
+    current_starting_state = 0
+    while current_starting_state < len(prob_arr):
+        if random_num_choice <= prob_arr[current_starting_state]:
+            break
+        else:
+            random_num_choice -= prob_arr[current_starting_state]
+            current_starting_state += 1
+    else:
+        # this code should not be reached if sum(A_start) = 1
+        raise ValueError("A_start cannot be greater than 1")
+    # sanity check
+    assert(0 <= current_starting_state < len(prob_arr))
+    return current_starting_state
 
 def supervised_HMM(X, Y):
     '''

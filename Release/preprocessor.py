@@ -95,7 +95,7 @@ def load_sonnets(sonnets_file = "data/shakespeare.txt", remove_num = True):
                 sonnets[i] = sonnet[1:]
         return sonnets
 
-def tokenize_line(line):
+def tokenize_line(line, punctuation = False):
     """
     Tokenizes the line into a list of tokens.
     """
@@ -131,24 +131,27 @@ def tokenize_line(line):
         #punctuation mark + word makes a valid word, then add that as the word
         if not (len(befores) == 0) and befores[-1] + word in tokens:
             word = befores[-1] + word
-            for after in afters:
-                append_if_token(after, tokens, punct)
-            for before in befores[:-1]:
-                append_if_token(before, tokens, tokenized)
+            if punctuation:
+                for after in afters:
+                    append_if_token(after, tokens, punct)
+                for before in befores[:-1]:
+                    append_if_token(before, tokens, tokenized)
 
         elif not (len(afters) == 0) and word + afters[0] in tokens:
             word = word + afters[0]
-            for after in afters[1:]:
-                append_if_token(after, tokens, punct)
-            for before in befores:
-                append_if_token(before, tokens, tokenized)
+            if punctuation:
+                for after in afters[1:]:
+                    append_if_token(after, tokens, punct)
+                for before in befores:
+                    append_if_token(before, tokens, tokenized)
 
         # If the word is a token by itself, then add it to the word list 
         elif word in tokens:
-            for after in afters:
-                append_if_token(after, tokens, punct)
-            for before in befores:
-                append_if_token(before, tokens, tokenized)
+            if punctuation:
+                for after in afters:
+                    append_if_token(after, tokens, punct)
+                for before in befores:
+                    append_if_token(before, tokens, tokenized)
         else:
             raise Exception(word + " isn't in tokens")
 
@@ -168,7 +171,8 @@ def tokenize_line(line):
                 a = True
                 continue
             tokenized.append(word)
-        tokenized += punct
+        if punctuation:
+            tokenized += punct
     assert(all(token in tokens for token in tokenized))
     return tokenized
 
