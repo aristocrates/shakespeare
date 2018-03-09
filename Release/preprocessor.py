@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 from collections import OrderedDict
 import re
+import json
 
 def punctuation_list(as_frozen_set = False):
     """
@@ -168,7 +169,6 @@ def tokenize_line(line):
                 continue
             tokenized.append(word)
         tokenized += punct
-    print([token for token in tokenized if token not in tokens])
     assert(all(token in tokens for token in tokenized))
     return tokenized
 
@@ -179,3 +179,41 @@ def line_words(line):
     sonnet: array of lines in string format
     """
     return line.split()
+
+def dump_to_file(token_dict_file = "data/token_dict.json",
+        sonnet_file = "data/tokenized_sonnets.txt"):
+    sonnets = load_sonnets()
+    used_tokens = set()
+    tokenized_sonnets = []
+    for sonnet in sonnets:
+        tokenized_lines = []
+        for line in sonnet:
+            tokenized_lines.append(tokenize_line(line))
+            used_tokens = used_tokens.union(set(tokenized_lines[-1]))
+        tokenized_sonnets.append(tokenized_lines)
+
+    token2index = {token : i for i, token in enumerate(used_tokens)}
+    with open(token_dict_file, "w") as f:
+        json.dump(token2index, f)
+
+    indices_sonnets = [[[token2index[token] for token in line] for line in sonnet] for sonnet in tokenized_sonnets]
+    with open(sonnet_file, "w") as f:
+        for sonnet in indices_sonnets:
+            for line in sonnet:
+                f.write(" ".join([str(x) for x in line]) + "\n")
+            f.write("\n\n")
+
+def read_from_file(token_dict_file = "data/token_dict.json",
+        sonnet_file = "data/tokenized_sonnets.txt"):
+    token_dict = json.load(open(token_dict_file))
+    with open(sonnet_file) as f:
+        sonnets = []
+        sonnet = []
+        for line in f:
+            if line == "\n" and len(sonnet) != 0:
+                sonnets.append(sonnet)
+                sonnet = []
+            if line != "\n":
+                tokens = [int(token) for token in line.split(" ")]
+                sonnet.append(tokens)
+    return sonnets
