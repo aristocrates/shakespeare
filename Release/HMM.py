@@ -7,6 +7,7 @@
 ########################################
 
 import random
+import numpy as np
 
 class HiddenMarkovModel:
     '''
@@ -408,17 +409,19 @@ class HiddenMarkovModel:
             syll_count = 0
             emission = []
             if start_observation is not None:
-                # the rows of O are not necessarily normalized, so
-                # sum the row for 
-                normalization = sum(self.O[start_observation])
+                # the cols of O are not necessarily normalized, so
+                # sum the column for the start_observation
+                start_col = [self.O[row][start_observation]
+                             for row in range(len(self.O))]
+                normalization = sum(start_col)
                 # sanity check
                 assert(normalization <= 1.)
                 if normalization <= 0:
                     raise ValueError("start state (%s) invalid" % str())
-                normalized_state_row = [k / normalization
-                                        for k in self.O[start_observation]]
+                normalized_state_col = [k / normalization
+                                        for k in start_col]
                 # choose the state (TODO)
-                states = [random_choice_from_array(normalized_state_row)]
+                states = [random_choice_from_array(normalized_state_col)]
                 emission.append(start_observation)
 
                 # also pick the second state
@@ -426,7 +429,7 @@ class HiddenMarkovModel:
                 next_state = 0
 
                 while rand_var > 0:
-                    rand_var -= self.A[state][next_state]
+                    rand_var -= self.A[states[0]][next_state]
                     next_state += 1
 
                 next_state -= 1
