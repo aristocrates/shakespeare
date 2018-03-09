@@ -42,7 +42,7 @@ class Sonnet:
     def __init__(self, sonnet_lines):
         self.lines = list(sonnet_lines)
 
-def syllable_dict(filename = 'data/Syllable_dictionary_updated.txt',
+def syllable_dict(filename = 'data/Syllable_dictionary_updated2.txt',
                   end_syllable = False):
     """
     Loads a syllable dictionary
@@ -51,7 +51,7 @@ def syllable_dict(filename = 'data/Syllable_dictionary_updated.txt',
     otherwise {words: (num_syllables, num_syllables_end)}
     """
     # load with pandas to avoid errors, but still process things manually
-    data = pd.read_csv('data/Syllable_dictionary_updated.txt',
+    data = pd.read_csv(filename,
                        names = ['word', 'syll', 'syll_ending'],
                        header = None, index_col = False,
                        delim_whitespace = True).as_matrix()
@@ -168,6 +168,8 @@ def tokenize_line(line):
                 continue
             tokenized.append(word)
         tokenized += punct
+    print([token for token in tokenized if token not in tokens])
+    assert(all(token in tokens for token in tokenized))
     return tokenized
 
 def line_words(line):
