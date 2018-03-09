@@ -413,7 +413,6 @@ class HiddenMarkovModel:
             if start_observation is not None:
                 if stresses is not None:
                     for stressed in stresses[start_observation][::-1]:
-                        assert(stressed == curr_stress)
                         curr_stress = not curr_stress
                 # the cols of O are not necessarily normalized, so
                 # sum the column for the start_observation
@@ -432,14 +431,10 @@ class HiddenMarkovModel:
 
                 # also pick the second state
                 rand_var = random.uniform(0, 1)
-                next_state = 0
 
-                while rand_var > 0:
-                    rand_var -= self.A[states[0]][next_state]
-                    next_state += 1
+                p = [self.A[states[0]][next_state] for next_state in range(self.L)]
+                state = np.random.choice(list(range(self.L)), p = p)
 
-                next_state -= 1
-                state = next_state
                 syll_count += syllable_dict[start_observation][0]
             else:
                 # choose randomly for the state
@@ -449,16 +444,10 @@ class HiddenMarkovModel:
             while syll_count < num_syllables:
                 # Append state.
                 states.append(state)
+                p = [self.O[state][next_obs] for next_obs in range(self.D)]
+                next_obs = np.random.choice(list(range(self.D)), p = p)
 
-                # Sample next observation.
-                rand_var = random.uniform(0, 1)
-                next_obs = 0
 
-                while rand_var > 0:
-                    rand_var -= self.O[state][next_obs]
-                    next_obs += 1
-
-                next_obs -= 1
                 emission.append(next_obs)
 
                 # Sample next state.
