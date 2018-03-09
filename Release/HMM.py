@@ -14,7 +14,7 @@ class HiddenMarkovModel:
     Class implementation of Hidden Markov Models.
     '''
 
-    def __init__(self, A, O):
+    def __init__(self, A, O, start_words = None):
         '''
         Initializes an HMM. Assumes the following:
             - States and observations are integers starting from 0. 
@@ -53,6 +53,7 @@ class HiddenMarkovModel:
         self.A = A
         self.O = O
         self.A_start = [1. / self.L for _ in range(self.L)]
+        self.start_words = start_words
 
 
     def viterbi(self, x):
@@ -384,7 +385,7 @@ class HiddenMarkovModel:
 
     def generate_emission_syllables(self, num_syllables, syllable_dict,
                                     start_observation = None,
-                                    max_iterations = 1000):
+                                    max_iterations = 1000, stresses = None):
         '''
         Generates an emission with a fixed number of syllables,
         with the starting observation 
@@ -408,7 +409,12 @@ class HiddenMarkovModel:
 
             syll_count = 0
             emission = []
+            curr_stress = True
             if start_observation is not None:
+                if stresses is not None:
+                    for stressed in stresses[start_observation][::-1]:
+                        assert(stressed == curr_stress)
+                        curr_stress = not curr_stress
                 # the cols of O are not necessarily normalized, so
                 # sum the column for the start_observation
                 start_col = [self.O[row][start_observation]

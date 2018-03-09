@@ -2,16 +2,18 @@ import HMM
 import preprocessor
 import pickle
 import random
+import nltk
+import re
 
 def random_start(starters):
     return random.choice(starters)
 
 # Get the sonnets from the sonnet file
-sonnets = preprocessor.sonnets_from_file("data/tokenized_sonnets_unpunctuated.txt")
+sonnets = preprocessor.sonnets_from_file("data/tokenized_sonnets_stresses.txt")
 
 # Get dicts mapping indices and tokens
-index2token = preprocessor.token_dict_from_file("data/token_dict_unpunctuated.json")
-token2index = {t:int(i) for i, t in index2token.items()}
+index2token = preprocessor.token_dict_from_file("data/token_dict_stresses.json")
+token2index = {t:int(i) for t, i in index2token.items()}
 
 # Get the dictionary mapping words to syllables
 word_syllable_dict = preprocessor.syllable_dict(end_syllable = True)
@@ -23,18 +25,48 @@ reversed_lines = []
 for sonnet in sonnets:
     reversed_lines += [line[::-1] for line in sonnet]
 
-reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 10)
+cmu_dict = nltk.corpus.cmudict.dict()
 
+stresses = dict()
+def get_stresses(word, cmu_dict):
+    sylls = cmu_dict[word][0]
+    stresses = []
+    for syll in sylls:
+        matches = re.match("^\w+(\d+)$", syll)
+        if matches:
+            stresses.append(int(matches.group(1)) > 0)
+    return stresses
+
+for key in token2index.keys():
+    stresses[token2index[key]] = []
+    mod_key = key
+    if len(key.split(" ")) == 2:
+        mod_key = key.split(" ")[1]
+        stresses[token2index[key]].append(True)
+    hyphen = mod_key.split("-")
+    if len(hyphen) == 2:
+        stresses[token2index[key]] += get_stresses(hyphen[0], cmu_dict) + \
+                                      get_stresses(hyphen[1], cmu_dict)
+        print(key)
+        print(stresses[token2index[key]])
+    else:
+        stresses[token2index[key]] += get_stresses(mod_key, cmu_dict)
+
+reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 1)
 
 rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
 rhyming_lines = []
 
 for i in range(7):
-    start1, start2 = [token2index[x] for x in random.choice(rhyming_words)]
-    line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1)[0]
-    line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2)[0]
-    rhyming_lines.append((" ".join([index2token[str(x)] for x in line1[::-1]]),
-                          " ".join([index2token[str(x)] for x in line2[::-1]])))
+    start1, start2 = "", ""
+    while start1 not in token2index or start2 not in token2index:
+        start1, start2 = random.choice(rhyming_words)
+    start1 = token2index[start1]
+    start2 = token2index[start2]
+    line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1, stresses = stresses)[0]
+    line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2, stresses = stresses)[0]
+    rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
+                          " ".join([index2token[x] for x in line2[::-1]])))
 
 sonnet = "\n".join([rhyming_lines[0][0],
                     rhyming_lines[1][0],
