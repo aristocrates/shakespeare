@@ -170,14 +170,6 @@ def tokenize_line(line):
         tokenized += punct
     return tokenized
 
-
-sonnets = load_sonnets()
-for sonnet in sonnets:
-    for line in sonnet:
-        # print(line)
-        tokenize_line(line)
-    
-
 def line_words(line):
     """
     Tokenizes a line of text into words
