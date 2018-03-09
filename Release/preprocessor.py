@@ -217,7 +217,8 @@ def dump_to_file(token_dict_file = "data/token_dict.json",
     with open(token_dict_file, "w") as f:
         json.dump(token2index, f)
 
-    indices_sonnets = [[[token2index[token] for token in line] for line in sonnet] for sonnet in tokenized_sonnets]
+    indices_sonnets = [[[token2index[token] for token in line]
+        for line in sonnet] for sonnet in tokenized_sonnets]
     with open(sonnet_file, "w") as f:
         for sonnet in indices_sonnets:
             for line in sonnet:
