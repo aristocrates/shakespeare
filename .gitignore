@@ -10,6 +10,7 @@ __pycache__/
 _minted*/
 # temporary lock files
 *#
+tensorflow
 
 # plots
 !img/*.pdf
