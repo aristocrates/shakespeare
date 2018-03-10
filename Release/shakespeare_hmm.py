@@ -57,7 +57,7 @@ for key in token2index.keys():
 with open("stresses.json", "w") as f:
     json.dump({index2token[int(x)] : i for x, i in stresses.items()}, f)
 
-reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 1)
+reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 20)
 
 rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
 rhyming_lines = []
