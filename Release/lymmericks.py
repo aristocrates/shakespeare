@@ -1,4 +1,5 @@
 import HMM
+import numpy as np
 import preprocessor
 import pickle
 import random
@@ -57,40 +58,41 @@ for key in token2index.keys():
 with open("stresses.json", "w") as f:
     json.dump({index2token[int(x)] : i for x, i in stresses.items()}, f)
 
-reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 1)
 
-rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
-rhyming_lines = []
-wanted_stress = [True, False, True, False, True, False, True, False, True, False]
-for i in range(7):
-    start1, start2 = "", ""
-    while start1 not in token2index or start2 not in token2index:
-        start1, start2 = random.choice(rhyming_words)
-    start1 = token2index[start1]
-    start2 = token2index[start2]
-    line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1, stresses = stresses, desired_stresses = [x for x in wanted_stress])[0]
-    line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2, stresses = stresses, desired_stresses = [x for x in wanted_stress])[0]
-    print(wanted_stress)
-    rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
-                          " ".join([index2token[x] for x in line2[::-1]])))
+rhyming_classes = [list(x) for x in preprocessor.get_rhyme_classes(preprocessor.load_sonnets())]
+rhyming_triples = [list(x) for x in rhyming_classes if len(x) > 2]
 
-sonnet = "\n".join([upper_first(rhyming_lines[0][0])+ ",",
-                    rhyming_lines[1][0]+ ".",
-                    upper_first(rhyming_lines[0][1])+ ",",
-                    rhyming_lines[1][1]+ ".",
+rhyming_pair = [""]
+while any(x not in token2index for x in rhyming_pair):
+    rhyming_pair = np.random.choice(np.random.choice(rhyming_classes), size = 2, replace = False)
+print(rhyming_pair)
 
-                    upper_first(rhyming_lines[2][0])+ ",",
-                    rhyming_lines[3][0]+ ".",
-                    upper_first(rhyming_lines[2][1])+ ",",
-                    rhyming_lines[3][1]+ ".",
+rhyming_triple = [""]
+while any(x not in token2index for x in rhyming_triple):
+    rhyming_triple = np.random.choice(np.random.choice(rhyming_triples), size = 3, replace = False)
+print(rhyming_triple)
 
-                    upper_first(rhyming_lines[4][0])+ ",",
-                    rhyming_lines[5][0]+ ".",
-                    upper_first(rhyming_lines[4][1])+ ",",
-                    rhyming_lines[5][1]+ ".",
+reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 10)
 
-                    upper_first(rhyming_lines[6][0])+ ",",
-                    rhyming_lines[6][1]+ "."
+wanted_stress_1 = [True, False, False, True, False, False, True, False, False]
+wanted_stress_2 = [True, False, False, True, False, False]
+
+triple = []
+for x in rhyming_triple:
+    ind = token2index[x]
+    triple.append(reversed_hmm.generate_emission_syllables(9, syllable_dict, ind, stresses = stresses, desired_stresses = [x for x in wanted_stress_1])[0])
+
+pair = []
+for x in rhyming_pair:
+    ind = token2index[x]
+    pair.append(reversed_hmm.generate_emission_syllables(6, syllable_dict, ind, stresses = stresses, desired_stresses = [x for x in wanted_stress_1])[0])
+
+
+lymmerick = "\n".join([ " ".join([index2token[x] for x in triple[0][::-1]]),
+                     " ".join([index2token[x] for x in triple[1][::-1]]),
+                     " ".join([index2token[x] for x in pair[0][::-1]]),
+                     " ".join([index2token[x] for x in pair[1][::-1]]),
+                     " ".join([index2token[x] for x in triple[2][::-1]])
                     ])
 
-print(sonnet)
+print(lymmerick)
