@@ -25,6 +25,24 @@ def all_tokens():
     return {token:i for i, token in enumerate(punctuation_list() +
                                               list(syllable_dict().keys()))}
 
+def get_rhyme_classes(sonnets):
+    """
+    """
+    pairs = get_rhyme_pairs(sonnets)
+    classes = []
+
+    for r1, r2 in pairs:
+        for c in classes:
+            if r1 in c:
+                c.add(r2)
+                break
+            if r2 in c:
+                c.add(r1)
+                break
+        else:
+            classes.append(set([r1, r2]))
+    return classes
+
 def get_rhyme_pairs(sonnets):
     """
     """
