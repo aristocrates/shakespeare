@@ -459,12 +459,9 @@ class HiddenMarkovModel:
                     if any(stress != desired for stress, desired in zip(curr_stresses, curr_desired_stresses)):
                         continue
                     else:
-                        print("curr: {}".format(curr_stresses))
-                        print("desired: {}".format(curr_desired_stresses))
                         curr_desired_stresses = curr_desired_stresses[len(curr_stresses):]
                         break
                 else:
-                    print("Couldn't get the syllables")
                     break
                 emission.append(next_obs)
 
