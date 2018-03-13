@@ -124,11 +124,13 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     if args.seed is not None:
-        random_seed = args.seed
+        random_seed = int(args.seed)
     else:
         # pick a random seed to print it at the end
         random_seed = random.randint(0, 9999999)
     random.seed(random_seed)
+    # also seed numpy's random in HMM
+    HMM.np.random.seed(random_seed)
     sonnet = do_hmm(num_states = int(args.n_states),
                     verbose = args.verb, give_hmm = False)
     print(sonnet)
