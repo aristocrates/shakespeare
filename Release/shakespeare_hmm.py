@@ -61,12 +61,13 @@ with open("stresses.json", "w") as f:
 def upper_first(word):
     return word[0].upper() + word[1:]
     
-def do_hmm(verbose = False, give_hmm = False):
+def do_hmm(num_states = 15, verbose = False, give_hmm = False):
     """
     verbose:  output the debugging stress pattern matrix
     give_hmm: if True, 
     """
-    reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 20, verbose = verbose)
+    reversed_hmm = HMM.unsupervised_HMM(reversed_lines, n_states = num_states,
+                                        N_iters = 20, verbose = verbose)
 
     rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
     rhyming_lines = []
@@ -114,6 +115,9 @@ if __name__ == "__main__":
     parser.add_argument("-v", "--verbose", dest="verb",
                         action="store_true",
                         help="output debugging information")
+    parser.add_argument("--num_states", dest="n_states",
+                        default = "15",
+                        help="number of hidden states to use")
     parser.add_argument("-s", dest="seed",
                         default=None,
                         help="specify random seed")
@@ -125,6 +129,7 @@ if __name__ == "__main__":
         # pick a random seed to print it at the end
         random_seed = random.randint(0, 9999999)
     random.seed(random_seed)
-    sonnet = do_hmm(verbose = args.verb, give_hmm = False)
+    sonnet = do_hmm(num_states = int(args.n_states),
+                    verbose = args.verb, give_hmm = False)
     print(sonnet)
     print("\nRandom seed used: %s" % str(random_seed))
