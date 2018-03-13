@@ -14,7 +14,7 @@ class HiddenMarkovModel:
     Class implementation of Hidden Markov Models.
     '''
 
-    def __init__(self, A, O):
+    def __init__(self, A, O, start_words = None):
         '''
         Initializes an HMM. Assumes the following:
             - States and observations are integers starting from 0. 
@@ -53,6 +53,7 @@ class HiddenMarkovModel:
         self.A = A
         self.O = O
         self.A_start = [1. / self.L for _ in range(self.L)]
+        self.start_words = start_words
 
 
     def viterbi(self, x):
@@ -384,7 +385,8 @@ class HiddenMarkovModel:
 
     def generate_emission_syllables(self, num_syllables, syllable_dict,
                                     start_observation = None,
-                                    max_iterations = 1000):
+                                    max_iterations = 1000, stresses = None,
+                                    desired_stresses = None):
         '''
         Generates an emission with a fixed number of syllables,
         with the starting observation 
@@ -404,11 +406,14 @@ class HiddenMarkovModel:
         '''
         iterations = 0
         while iterations < max_iterations:
+            curr_desired_stresses = desired_stresses[::-1]
             iterations += 1
 
             syll_count = 0
             emission = []
             if start_observation is not None:
+                if stresses is not None:
+                    desired_stresses = desired_stresses[len(stresses[start_observation]):]
                 # the cols of O are not necessarily normalized, so
                 # sum the column for the start_observation
                 start_col = [self.O[row][start_observation]
@@ -426,33 +431,38 @@ class HiddenMarkovModel:
 
                 # also pick the second state
                 rand_var = random.uniform(0, 1)
-                next_state = 0
 
-                while rand_var > 0:
-                    rand_var -= self.A[states[0]][next_state]
-                    next_state += 1
+                p = [self.A[states[0]][next_state] for next_state in range(self.L)]
+                state = np.random.choice(list(range(self.L)), p = p)
 
-                next_state -= 1
-                state = next_state
                 syll_count += syllable_dict[start_observation][0]
+                # Append state.
+                states.append(state)
             else:
                 # choose randomly for the state
                 state = random.choice(range(self.L))
                 states = []
-
-            while syll_count < num_syllables:
                 # Append state.
                 states.append(state)
 
-                # Sample next observation.
-                rand_var = random.uniform(0, 1)
-                next_obs = 0
+            prev_obs = start_observation
+            while syll_count < num_syllables:
+                stress_correct = False
+                for i in range(10):
+                    p = [self.O[state][obs] for obs in range(self.D)]
+                    next_obs = np.random.choice(list(range(self.D)), p = p)
 
-                while rand_var > 0:
-                    rand_var -= self.O[state][next_obs]
-                    next_obs += 1
+                    if not stresses:
+                        break
 
-                next_obs -= 1
+                    curr_stresses = stresses[next_obs][::-1]
+                    if any(stress != desired for stress, desired in zip(curr_stresses, curr_desired_stresses)):
+                        continue
+                    else:
+                        curr_desired_stresses = curr_desired_stresses[len(curr_stresses):]
+                        break
+                else:
+                    break
                 emission.append(next_obs)
 
                 # Sample next state.
@@ -470,6 +480,8 @@ class HiddenMarkovModel:
                     return emission, states
                 else:
                     syll_count += syllable_dict[next_obs][0]
+                # Append state.
+                states.append(state)
         print("Couldn't get the right number of syllables")
         return emission, states
 

@@ -6,6 +6,7 @@ import pandas as pd
 from collections import OrderedDict
 import re
 import json
+import nltk
 
 def punctuation_list(as_frozen_set = False):
     """
@@ -23,6 +24,24 @@ def all_tokens():
     """
     return {token:i for i, token in enumerate(punctuation_list() +
                                               list(syllable_dict().keys()))}
+
+def get_rhyme_classes(sonnets):
+    """
+    """
+    pairs = get_rhyme_pairs(sonnets)
+    classes = []
+
+    for r1, r2 in pairs:
+        for c in classes:
+            if r1 in c:
+                c.add(r2)
+                break
+            if r2 in c:
+                c.add(r1)
+                break
+        else:
+            classes.append(set([r1, r2]))
+    return classes
 
 def get_rhyme_pairs(sonnets):
     """
@@ -202,15 +221,30 @@ def line_words(line):
     return line.split()
 
 def dump_to_file(token_dict_file = "data/token_dict.json",
-        sonnet_file = "data/tokenized_sonnets.txt"):
+        sonnet_file = "data/tokenized_sonnets.txt", stresses = False):
+    def check_token_in_dict(token, cmu_dict):
+        if len(token.split(" ")) == 2:
+            token = token.split(" ")[1]
+        hyphen = token.split("-")
+        if len(hyphen) == 2:
+            return (hyphen[0] in cmu_dict) and (hyphen[1] in cmu_dict)
+        else:
+            return token in cmu_dict
+
     sonnets = load_sonnets()
     used_tokens = set()
     tokenized_sonnets = []
+
+    cmu_dict = nltk.corpus.cmudict.dict()
+
     for sonnet in sonnets:
         tokenized_lines = []
         for line in sonnet:
-            tokenized_lines.append(tokenize_line(line))
-            used_tokens = used_tokens.union(set(tokenized_lines[-1]))
+            tokenized_line = tokenize_line(line)
+
+            if (not stresses) or all(check_token_in_dict(x, cmu_dict) for x in tokenized_line):
+                tokenized_lines.append(tokenized_line)
+                used_tokens |= set(tokenized_line)
         tokenized_sonnets.append(tokenized_lines)
 
     token2index = {token : i for i, token in enumerate(used_tokens)}
@@ -219,6 +253,7 @@ def dump_to_file(token_dict_file = "data/token_dict.json",
 
     indices_sonnets = [[[token2index[token] for token in line]
         for line in sonnet] for sonnet in tokenized_sonnets]
+
     with open(sonnet_file, "w") as f:
         for sonnet in indices_sonnets:
             for line in sonnet:
