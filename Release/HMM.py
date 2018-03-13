@@ -294,7 +294,7 @@ class HiddenMarkovModel:
                 self.O[curr][xt] = num / den
 
 
-    def unsupervised_learning(self, X, N_iters):
+    def unsupervised_learning(self, X, N_iters, verbose = False):
         '''
         Trains the HMM using the Baum-Welch algorithm on an unlabeled
         datset X. Note that this method does not return anything, but
@@ -315,8 +315,9 @@ class HiddenMarkovModel:
         # the code under the comment is part of the M-step.
 
         for iteration in range(1, N_iters + 1):
-            if iteration % 10 == 0:
-                print("Iteration: " + str(iteration))
+            if verbose:
+                if iteration % 10 == 0:
+                    print("Iteration: " + str(iteration))
 
             # Numerator and denominator for the update terms of A and O.
             A_num = [[0. for i in range(self.L)] for j in range(self.L)]
@@ -656,7 +657,7 @@ def supervised_HMM(X, Y):
     return HMM
 
 
-def unsupervised_HMM(X, n_states, N_iters):
+def unsupervised_HMM(X, n_states, N_iters, verbose = False):
     '''
     Helper function to train an unsupervised HMM. The function determines the
     number of unique observations in the given data, initializes
@@ -700,6 +701,6 @@ def unsupervised_HMM(X, n_states, N_iters):
 
     # Train an HMM with unlabeled data.
     HMM = HiddenMarkovModel(A, O)
-    HMM.unsupervised_learning(X, N_iters)
+    HMM.unsupervised_learning(X, N_iters, verbose = verbose)
 
     return HMM

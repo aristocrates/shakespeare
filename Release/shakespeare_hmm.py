@@ -5,6 +5,7 @@ import random
 import nltk
 import json
 import re
+import argparse
 
 def random_start(starters):
     return random.choice(starters)
@@ -57,26 +58,34 @@ for key in token2index.keys():
 with open("stresses.json", "w") as f:
     json.dump({index2token[int(x)] : i for x, i in stresses.items()}, f)
 
-reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 20)
-
-rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
-rhyming_lines = []
-wanted_stress = [True, False, True, False, True, False, True, False, True, False]
-for i in range(7):
-    start1, start2 = "", ""
-    while start1 not in token2index or start2 not in token2index:
-        start1, start2 = random.choice(rhyming_words)
-    start1 = token2index[start1]
-    start2 = token2index[start2]
-    line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1, stresses = stresses, desired_stresses = [x for x in wanted_stress])[0]
-    line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2, stresses = stresses, desired_stresses = [x for x in wanted_stress])[0]
-    print(wanted_stress)
-    rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
-                          " ".join([index2token[x] for x in line2[::-1]])))
-
 def upper_first(word):
     return word[0].upper() + word[1:]
-sonnet = "\n".join([upper_first(rhyming_lines[0][0])+ ",",
+    
+def do_hmm(verbose = False, give_hmm = False):
+    """
+    verbose:  output the debugging stress pattern matrix
+    give_hmm: if True, 
+    """
+    reversed_hmm = HMM.unsupervised_HMM(reversed_lines, 15, 20, verbose = verbose)
+
+    rhyming_words = preprocessor.get_rhyme_pairs(preprocessor.load_sonnets())
+    rhyming_lines = []
+    wanted_stress = [True, False, True, False, True, False, True, False, True, False]
+    for i in range(7):
+        start1, start2 = "", ""
+        while start1 not in token2index or start2 not in token2index:
+            start1, start2 = random.choice(rhyming_words)
+        start1 = token2index[start1]
+        start2 = token2index[start2]
+        line1 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start1,
+                                                         stresses = stresses,
+                                                         desired_stresses = [x for x in wanted_stress])[0]
+        line2 = reversed_hmm.generate_emission_syllables(10, syllable_dict, start2,                                                        stresses = stresses, desired_stresses = [x for x in wanted_stress])[0]
+        if verbose:
+            print(wanted_stress)
+        rhyming_lines.append((" ".join([index2token[x] for x in line1[::-1]]),
+                          " ".join([index2token[x] for x in line2[::-1]])))
+    sonnet = "\n".join([upper_first(rhyming_lines[0][0])+ ",",
                     rhyming_lines[1][0]+ ".",
                     upper_first(rhyming_lines[0][1])+ ",",
                     rhyming_lines[1][1]+ ".",
@@ -94,5 +103,18 @@ sonnet = "\n".join([upper_first(rhyming_lines[0][0])+ ",",
                     upper_first(rhyming_lines[6][0])+ ",",
                     rhyming_lines[6][1]+ "."
                     ])
+    if give_hmm:
+        return (reversed_hmm, sonnet)
+    else:
+        return sonnet
 
-print(sonnet)
+if __name__ == "__main__":
+    desc = "Creates a Shakespearean sonnet using a Hidden Markov Model"
+    parser = argparse.ArgumentParser(description=desc)
+    parser.add_argument("-v", "--verbose", dest="verb",
+                        action="store_true",
+                        help="output debugging information")
+    args = parser.parse_args()
+
+    sonnet = do_hmm(verbose = args.verb, give_hmm = False)
+    print(sonnet)

@@ -43,7 +43,7 @@ def get_rhyme_classes(sonnets):
             classes.append(set([r1, r2]))
     return classes
 
-def get_rhyme_pairs(sonnets):
+def get_rhyme_pairs(sonnets, verbose = False):
     """
     """
     rhyme_pattern = [(0,2),(1,3),(4,6),(5,7),(8,10),(9,11),(12,13)]
@@ -55,7 +55,8 @@ def get_rhyme_pairs(sonnets):
                 second_rhyme = sonnet[r[1]].split()[-1].strip(" .,:;'()!?")
                 rhyme_pairs.append((first_rhyme, second_rhyme))
             except IndexError:
-                print("That one stupid sonnet")
+                if verbose:
+                    print("That one stupid sonnet")
     return rhyme_pairs
 
 def tokens_to_indices(tokens, all_tokens_dict):
