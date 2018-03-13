@@ -114,7 +114,17 @@ if __name__ == "__main__":
     parser.add_argument("-v", "--verbose", dest="verb",
                         action="store_true",
                         help="output debugging information")
+    parser.add_argument("-s", dest="seed",
+                        default=None,
+                        help="specify random seed")
     args = parser.parse_args()
 
+    if args.seed is not None:
+        random_seed = args.seed
+    else:
+        # pick a random seed to print it at the end
+        random_seed = random.randint(0, 9999999)
+    random.seed(random_seed)
     sonnet = do_hmm(verbose = args.verb, give_hmm = False)
     print(sonnet)
+    print("\nRandom seed used: %s" % str(random_seed))
